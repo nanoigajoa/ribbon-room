@@ -1,0 +1,56 @@
+{
+  "id": "mendelssohn-op80-musopen",
+  "work": "Mendelssohn — String Quartet No.6 in F minor, Op.80",
+  "performer": "Musopen String Quartet",
+  "recording_year_as_listed": 2012,
+  "acquired_on": "2026-10-17",
+  "kind": "real_ensemble_recording",
+  "license": "Public domain dedication by Musopen, as stated on each Commons recording page",
+  "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "origin_url": "https://musopen.org/music/270-string-quartet-no-6-in-f-minor-op-80/",
+  "upstream_collection_url": "https://archive.org/details/MusopenCollectionAsFlac",
+  "note_annotations": null,
+  "score_source_record": "data/raw/mendelssohn_op80.source.json",
+  "movements": [
+    {
+      "id": "01-allegro-vivace-assai",
+      "title": "I. Allegro vivace assai",
+      "path": "data/raw/musopen_mendelssohn_op80/01-allegro-vivace-assai.flac",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mendelssohn_-_String_Quartet_No._6_in_F_minor%2C_Op._80_-_I._Allegro_vivace_assai_%28Musopen_String_Quartet%29.flac",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mendelssohn_-_String_Quartet_No._6_in_F_minor%2C_Op._80_-_I._Allegro_vivace_assai_%28Musopen_String_Quartet%29.flac",
+      "source_snapshot": "data/raw/musopen_mendelssohn_op80/01-source.html",
+      "expected_sha1": "b3a0d6be0304e571a20f7f4cb45e955387e3fd81",
+      "color": "#5aa8d7"
+    },
+    {
+      "id": "02-allegro-assai",
+      "title": "II. Allegro assai",
+      "path": "data/raw/musopen_mendelssohn_op80/02-allegro-assai.flac",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Mendelssohn_-_String_Quartet_No._6_in_F_minor%2C_Op._80_-_II._Allegro_assai_%28Musopen_String_Quartet%29.flac",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mendelssohn_-_String_Quartet_No._6_in_F_minor%2C_Op._80_-_II._Allegro_assai_%28Musopen_String_Quartet%29.flac",
+      "source_snapshot": "data/raw/musopen_mendelssohn_op80/02-source.html",
+      "expected_sha1": null,
+      "color": "#55b89c"
+    },
+    {
+      "id": "03-adagio",
+      "title": "III. Adagio",
+      "path": "data/raw/musopen_mendelssohn_op80/03-adagio.flac",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mendelssohn_-_String_Quartet_No._6_in_F_minor%2C_Op._80_-_III._Adagio_%28Musopen_String_Quartet%29.flac",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mendelssohn_-_String_Quartet_No._6_in_F_minor%2C_Op._80_-_III._Adagio_%28Musopen_String_Quartet%29.flac",
+      "source_snapshot": "data/raw/musopen_mendelssohn_op80/03-source.html",
+      "expected_sha1": "d5b88be59f2ae6fedb7652e0ff8b1535248f275b",
+      "color": "#e9b44c"
+    },
+    {
+      "id": "04-finale-allegro-molto",
+      "title": "IV. Finale — Allegro molto",
+      "path": "data/raw/musopen_mendelssohn_op80/04-finale-allegro-molto.flac",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mendelssohn_-_String_Quartet_No._6_in_F_minor%2C_Op._80_-_IV._Finale_-_Allegro_molto_%28Musopen_String_Quartet%29.flac",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Mendelssohn_-_String_Quartet_No._6_in_F_minor%2C_Op._80_-_IV._Finale_-_Allegro_molto_%28Musopen_String_Quartet%29.flac",
+      "source_snapshot": "data/raw/musopen_mendelssohn_op80/04-source.html",
+      "expected_sha1": null,
+      "color": "#b783cf"
+    }
+  ]
+}

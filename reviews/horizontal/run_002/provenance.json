@@ -1,0 +1,26 @@
+{
+  "inputs": {
+    "outputs/performance_videos/run_002/performance.json": "d6a62d6533b5ffe0fc457395be02db0c91fb26643e1e91a1aa873ac03a75d66d",
+    "outputs/performance_videos/run_002/score_data.json": "3360391283474c283fbda98bd431a5baa6d8603b9bc747e6bac20c06becaa7c3",
+    "outputs/performance_videos/run_002/alignment.json": "7a283a1c982d19fa63ae3d5129fcdee51976f76302dde44a479fd8fbff4c8dee",
+    "outputs/performance_videos/run_002/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/performance_videos/run_002/config.json": "a7401c5e168081488e6e7fa12294546019b90f1e51afdb8f2255c55d8b7e88fb",
+    "outputs/performance_videos/run_002/preview.mp4": "b5c2d79c9351cf7a5a6673bd5bf188f1df4da9ed233be0491b2d5ae1430550a1",
+    "outputs/performance_videos/run_002/source_provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964"
+  },
+  "code_sha256": {
+    "frontend/src/horizontalClock.ts": "0400cf7111de8d1b1a085a759a9171812061bb90388e1f348d6616235ea6da49",
+    "frontend/src/RibbonScene.tsx": "e27b973e98d9ee1144005ff5e83cdd3a08b709afda1ec087fcd083f0436b2006",
+    "frontend/src/horizontal-review.tsx": "735f270da995241f97a0b8ea716c1053ab571bc1467722f6e1601a9f16910d72",
+    "frontend/scripts/ribbon_review_scene.tsx": "027c34bf295e43890dea68175b85a262381b21cabf24822880663755fc54550c",
+    "frontend/scripts/build_horizontal_review.mjs": "50aec0bdf456ae5a217d792dd84ca014bd7c7080565fd7f24c1406db76548dcc",
+    "scripts/build_horizontal_review.py": "a10b76f85b1b70b88cfda5567b93433583a1b50d4c0317c27b9b4037c5d1a991",
+    "frontend/scripts/rasterize_ribbon_svg.py": "fd84ba8a6ee6902d4fdec8f034f4d017bba787844affc13b81ae4930e2839697",
+    "frontend/scripts/encode_performance_video.py": "197004c23f7d9654b637092191b70dd5345a48c31457af0b021dd834daff9809",
+    "frontend/scripts/verify_performance_video.py": "aaa1fe9be767a1d337f03902a9c6c2064baf661cd4461a10afbe22ae0dfcc6e9"
+  },
+  "source_and_license_record": "source_provenance.json",
+  "renderer": "shared RibbonScene SVG -> Matplotlib Agg native raster -> FFmpeg H264/AAC",
+  "baseline_video_sha256": "b5c2d79c9351cf7a5a6673bd5bf188f1df4da9ed233be0491b2d5ae1430550a1",
+  "beat_video_sha256": "9b6c51b26a1880d167b2dc1905d66342218dc719dd7508472176c5027c1c66e0"
+}

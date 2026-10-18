@@ -1,0 +1,24 @@
+{
+  "inputs": {
+    "outputs/timing_feel_reviews/run_001/score_data.json": "3360391283474c283fbda98bd431a5baa6d8603b9bc747e6bac20c06becaa7c3",
+    "outputs/timing_feel_reviews/run_001/performance.json": "d6a62d6533b5ffe0fc457395be02db0c91fb26643e1e91a1aa873ac03a75d66d",
+    "outputs/timing_feel_reviews/run_001/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/timing_feel_reviews/run_001/source_provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964",
+    "outputs/timing_feel_reviews/run_001/config.json": "a7401c5e168081488e6e7fa12294546019b90f1e51afdb8f2255c55d8b7e88fb"
+  },
+  "code_sha256": {
+    "scripts/build_spotlight_content.py": "6ea90b4db2d2f500b4eaf4e6aaab085270fca575b749c72a371e14e942b5dde3",
+    "frontend/scripts/build_spotlight_content.mjs": "ec374f4a2394224a771060132efbe4ec4aedd062e118714d385859a2adef7140",
+    "frontend/scripts/check_spotlight_content.mjs": "c6ca3a3406f310ac1252bd5c44c7ea72f74d1d1af98415516a8868d9e23df459",
+    "frontend/src/spotlight-content.tsx": "f257d296ad5e5cf7289c3b3b583cc3059591bce448549b0f922fa804cf94d384",
+    "frontend/shared/visual-lead.mjs": "e8c53229179e53a58e641e2c72f8dc6fbd4d1c831e0fc12144a0a5421d546c96",
+    "frontend/src/RibbonScene.tsx": "e27b973e98d9ee1144005ff5e83cdd3a08b709afda1ec087fcd083f0436b2006",
+    "frontend/scripts/encode_performance_video.py": "197004c23f7d9654b637092191b70dd5345a48c31457af0b021dd834daff9809",
+    "frontend/scripts/verify_performance_video.py": "aaa1fe9be767a1d337f03902a9c6c2064baf661cd4461a10afbe22ae0dfcc6e9"
+  },
+  "license_record": "source_provenance.json",
+  "video_sha256": {
+    "all": "30b7faa261978925d995bae2368d19b18b72aa7b33b0ad930b4bc7e395bbba00",
+    "viola": "32e19ebe82c091eb08a76f43c3e826701c92ecd9b93818a82c2ef6708415b0b5"
+  }
+}

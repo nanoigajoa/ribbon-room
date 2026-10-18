@@ -1,0 +1,27 @@
+{
+  "dataset": "BSED 1.0",
+  "source_url": "https://zenodo.org/records/20344500",
+  "archive": "BSED.zip",
+  "archive_md5_published": "9e9fa72d23031c0921eaa381793c14dc",
+  "whole_archive_verified": false,
+  "extraction": "HTTP Range; ZIP CRC checked for each extracted member",
+  "license": "CC BY-NC-SA 4.0",
+  "files": {
+    "BSED-11_4_Beethoven_Op067-01_Blomstedt1977.wav": {
+      "sha256": "d2c1df134657b8d117a0ceaf66cc843cc43af9beb96899c26e4644327ba7629f",
+      "bytes": 3951936
+    },
+    "BSED-11_Beethoven_Op067-01.musicxml": {
+      "sha256": "c6efbe2546a5f4fd8122d172c8eaa1b016c81512eb4e1c0df9fa5e1e84c0af6e",
+      "bytes": 354042
+    },
+    "score_BSED-11_Beethoven_Op067-01.csv": {
+      "sha256": "4e070c953f152fc932704e5eb2a7b91560b894a927c3d51acc35164373a9b56f",
+      "bytes": 22782
+    },
+    "BSED-11_4_Beethoven_Op067-01_Blomstedt1977.csv": {
+      "sha256": "a0c5d980048ff2aad5fe767b8d118f9646d95c3ebcac64e82040c204d4ae73a2",
+      "bytes": 24536
+    }
+  }
+}

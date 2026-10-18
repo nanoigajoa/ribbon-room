@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "samples": 900,
+  "visual_lead_seconds": 0.16,
+  "all_geometry_and_activity_identical_except_part_opacity": true,
+  "non_selected_opacity": 0.45,
+  "selected_opacity": 1,
+  "physics": false,
+  "alignment_accuracy": "not measured"
+}

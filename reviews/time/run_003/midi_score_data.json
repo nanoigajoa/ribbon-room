@@ -1,0 +1,259 @@
+{
+  "schema_version": "0.2.0",
+  "source_file": "/Users/juan/Desktop/음악생성/outputs/time_reviews/run_003/inputs/tempo_change.mid",
+  "source_sha256": "1bfea05afdb2fbc89bbfe23cb6f76723d27250de806bc770f83f1e50b78ec247",
+  "parser": {
+    "name": "pretty_midi",
+    "version": "0.2.11.post0"
+  },
+  "time_unit": "seconds",
+  "pitch_unit": "MIDI semitones (concert pitch)",
+  "beat_unit": "quarter note; source beat zero at source time zero",
+  "window": {
+    "source_start_seconds": 0.5,
+    "duration_seconds": 2.0,
+    "requested_duration_seconds": 2,
+    "clock": "score_reference",
+    "source_start_beat": 1.0,
+    "source_end_beat": 3.5,
+    "duration_beats": 2.5
+  },
+  "tempo_map": [
+    {
+      "onset_seconds": 0.0,
+      "quarter_bpm": 120.0,
+      "onset_beat": 0.0,
+      "source": "midi"
+    },
+    {
+      "onset_seconds": 1.0,
+      "quarter_bpm": 60.0,
+      "onset_beat": 2.0,
+      "source": "midi"
+    }
+  ],
+  "part_mapping": "source names",
+  "warnings": [
+    "MIDI note-on/off timing; no sustain-pedal extension or pitch bends applied.",
+    "MIDI beats follow the encoded tempo grid; notated measures and dynamics labels remain unavailable."
+  ],
+  "parts": [
+    {
+      "name": "Violin I",
+      "source_name": "Violin I",
+      "midi_program": 40,
+      "notes": [
+        {
+          "pitch_midi": 60,
+          "pitch_name": "C4",
+          "onset_seconds": 0.0,
+          "duration_seconds": 1.5,
+          "onset_beat": 0.5,
+          "duration_beats": 2.5,
+          "velocity": 73,
+          "velocity_source": "midi",
+          "dynamics": null,
+          "measure": null,
+          "source_onset_seconds": 0.25,
+          "source_duration_seconds": 1.75,
+          "clipped_start": true,
+          "clipped_end": false,
+          "id": "violin_1_0000",
+          "excerpt_onset_beat": 0.0,
+          "excerpt_duration_beats": 2.0
+        },
+        {
+          "pitch_midi": 64,
+          "pitch_name": "E4",
+          "onset_seconds": 1.5,
+          "duration_seconds": 0.5,
+          "onset_beat": 3.0,
+          "duration_beats": 1.0,
+          "velocity": 81,
+          "velocity_source": "midi",
+          "dynamics": null,
+          "measure": null,
+          "source_onset_seconds": 2.0,
+          "source_duration_seconds": 1.0,
+          "clipped_start": false,
+          "clipped_end": true,
+          "id": "violin_1_0001",
+          "excerpt_onset_beat": 2.0,
+          "excerpt_duration_beats": 0.5
+        }
+      ],
+      "id": "violin_1",
+      "color": "#5aa7df"
+    },
+    {
+      "name": "Violin II",
+      "source_name": "Violin II",
+      "midi_program": 40,
+      "notes": [
+        {
+          "pitch_midi": 60,
+          "pitch_name": "C4",
+          "onset_seconds": 0.0,
+          "duration_seconds": 1.5,
+          "onset_beat": 0.5,
+          "duration_beats": 2.5,
+          "velocity": 73,
+          "velocity_source": "midi",
+          "dynamics": null,
+          "measure": null,
+          "source_onset_seconds": 0.25,
+          "source_duration_seconds": 1.75,
+          "clipped_start": true,
+          "clipped_end": false,
+          "id": "violin_2_0000",
+          "excerpt_onset_beat": 0.0,
+          "excerpt_duration_beats": 2.0
+        },
+        {
+          "pitch_midi": 64,
+          "pitch_name": "E4",
+          "onset_seconds": 1.5,
+          "duration_seconds": 0.5,
+          "onset_beat": 3.0,
+          "duration_beats": 1.0,
+          "velocity": 81,
+          "velocity_source": "midi",
+          "dynamics": null,
+          "measure": null,
+          "source_onset_seconds": 2.0,
+          "source_duration_seconds": 1.0,
+          "clipped_start": false,
+          "clipped_end": true,
+          "id": "violin_2_0001",
+          "excerpt_onset_beat": 2.0,
+          "excerpt_duration_beats": 0.5
+        }
+      ],
+      "id": "violin_2",
+      "color": "#53bb9b"
+    },
+    {
+      "name": "Viola",
+      "source_name": "Viola",
+      "midi_program": 41,
+      "notes": [
+        {
+          "pitch_midi": 60,
+          "pitch_name": "C4",
+          "onset_seconds": 0.0,
+          "duration_seconds": 1.5,
+          "onset_beat": 0.5,
+          "duration_beats": 2.5,
+          "velocity": 73,
+          "velocity_source": "midi",
+          "dynamics": null,
+          "measure": null,
+          "source_onset_seconds": 0.25,
+          "source_duration_seconds": 1.75,
+          "clipped_start": true,
+          "clipped_end": false,
+          "id": "viola_0000",
+          "excerpt_onset_beat": 0.0,
+          "excerpt_duration_beats": 2.0
+        },
+        {
+          "pitch_midi": 64,
+          "pitch_name": "E4",
+          "onset_seconds": 1.5,
+          "duration_seconds": 0.5,
+          "onset_beat": 3.0,
+          "duration_beats": 1.0,
+          "velocity": 81,
+          "velocity_source": "midi",
+          "dynamics": null,
+          "measure": null,
+          "source_onset_seconds": 2.0,
+          "source_duration_seconds": 1.0,
+          "clipped_start": false,
+          "clipped_end": true,
+          "id": "viola_0001",
+          "excerpt_onset_beat": 2.0,
+          "excerpt_duration_beats": 0.5
+        }
+      ],
+      "id": "viola",
+      "color": "#e9b44c"
+    },
+    {
+      "name": "Cello",
+      "source_name": "Cello",
+      "midi_program": 42,
+      "notes": [
+        {
+          "pitch_midi": 60,
+          "pitch_name": "C4",
+          "onset_seconds": 0.0,
+          "duration_seconds": 1.5,
+          "onset_beat": 0.5,
+          "duration_beats": 2.5,
+          "velocity": 73,
+          "velocity_source": "midi",
+          "dynamics": null,
+          "measure": null,
+          "source_onset_seconds": 0.25,
+          "source_duration_seconds": 1.75,
+          "clipped_start": true,
+          "clipped_end": false,
+          "id": "cello_0000",
+          "excerpt_onset_beat": 0.0,
+          "excerpt_duration_beats": 2.0
+        },
+        {
+          "pitch_midi": 64,
+          "pitch_name": "E4",
+          "onset_seconds": 1.5,
+          "duration_seconds": 0.5,
+          "onset_beat": 3.0,
+          "duration_beats": 1.0,
+          "velocity": 81,
+          "velocity_source": "midi",
+          "dynamics": null,
+          "measure": null,
+          "source_onset_seconds": 2.0,
+          "source_duration_seconds": 1.0,
+          "clipped_start": false,
+          "clipped_end": true,
+          "id": "cello_0001",
+          "excerpt_onset_beat": 2.0,
+          "excerpt_duration_beats": 0.5
+        }
+      ],
+      "id": "cello",
+      "color": "#bb8bd6"
+    }
+  ],
+  "timing": {
+    "clock": "score_reference",
+    "beat_unit": "quarter_note",
+    "source_origin": "source start = 0 seconds = 0 beats; not measure number",
+    "excerpt_origin": "selected window start = 0 excerpt seconds = 0 excerpt beats",
+    "beat_source": "midi_tempo_map",
+    "tempo_policy": "piecewise constant quarter BPM; integrate across changes",
+    "midi_beat_policy": "encoded tempo grid, not inferred notation or audio beats",
+    "midi_default_tempo": "120 quarter BPM if set_tempo is absent",
+    "window_interval": "[start,end)",
+    "repeat_policy": "encoded MIDI timeline",
+    "note_id_scope": "excerpt-local; source-stable IDs deferred to B1.3"
+  },
+  "provenance": {
+    "kind": "original_test_fixture",
+    "method": "generated by scripts/build_time_review.py",
+    "license": "CC0-1.0",
+    "ticks_per_quarter": 480,
+    "tempo_changes": [
+      {
+        "tick": 0,
+        "microseconds_per_quarter": 500000
+      },
+      {
+        "tick": 960,
+        "microseconds_per_quarter": 1000000
+      }
+    ]
+  }
+}

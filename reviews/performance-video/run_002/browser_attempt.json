@@ -1,0 +1,7 @@
+{
+  "status": "failed_launch",
+  "method": "existing Remotion openBrowser with installed Chrome",
+  "error": "Failed to launch the browser process!",
+  "fallback": "same shared SVG, native Matplotlib Agg raster, FFmpeg",
+  "note": "one probe attempted before generation; no browser screenshot claim"
+}

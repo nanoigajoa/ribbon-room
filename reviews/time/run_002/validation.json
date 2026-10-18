@@ -1,0 +1,24 @@
+{
+  "status": "passed_requires_visual_review",
+  "schema_version": "0.2.0",
+  "legacy_note_fields_unchanged": true,
+  "max_note_endpoint_roundtrip_error_seconds": 0,
+  "known_midi_anchors": "480 PPQN; tick 240=beat .5=.25s, tick 960=beat 2=1s, tick 1440=beat 3=2s",
+  "preservation": {
+    "outputs/score_data.json": true,
+    "outputs/debug_score.png": true,
+    "frontend/public/library.json": true
+  },
+  "inputs": {
+    "outputs/score_data.json": "2569c95c47f5dc1fc091b3eaba396db31794b75f130a83f043eb3f3dfdbea540",
+    "outputs/debug_score.png": "acaa7aa8e94ef5d8578a5ff3f970094ac4a866c7e1e04df5904784e21f179a83",
+    "frontend/public/library.json": "a8a88aad7c68bf4556dc1c41247fdf474c175cc73af26a1e451c3111178d7eda"
+  },
+  "source_sha256": "0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03",
+  "code_sha256": {
+    "src/score_ribbon/timebase.py": "71ee7ef2329b7968ccf96f77e60d864ce7b31cbad3770c30d241a9756579f1ed",
+    "scripts/build_time_review.py": "6cf71c6ea806b29b3954deccad918935b58ff812ddc6350ac9ea1a265c82a855"
+  },
+  "browser_automation": "not run; no Chrome launched",
+  "user_review": "pending"
+}

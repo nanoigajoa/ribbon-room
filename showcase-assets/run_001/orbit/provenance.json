@@ -1,0 +1,12 @@
+{
+  "original_audio": "data/raw/musopen_mendelssohn_op80/02-allegro-assai.flac",
+  "source_sha256": "0167f49589d15f42222c0d1aaa48d5824cfe897aa09238a5490cc3f37fbbf070",
+  "source_record": "data/raw/musopen_mendelssohn_op80/source.json",
+  "source_start_seconds": 0,
+  "duration_seconds": 12,
+  "render_audio_sha256": "d9f163b3b3dd186c2d635ba4d6ffaf32d082e290aa12de7723a35c0f14b66e18",
+  "sample_conversion": "48kHz PCM16 stereo; no gain normalization",
+  "license": "Musopen public-domain dedication; original source record retained",
+  "reference": "https://tympanus.net/codrops/2023/12/19/creating-audio-reactive-visuals-with-dynamic-particles-in-three-js/",
+  "artwork": "original reconstruction of visual approaches; no downloaded showcase artwork"
+}

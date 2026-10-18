@@ -1,0 +1,15 @@
+{
+  "status": "tooling_passed_manual_onset_review_pending",
+  "phase": "B3.4",
+  "point_count": 11,
+  "evaluation_count": 10,
+  "confirmed_evaluation_count": 0,
+  "calibration_in_aggregate": false,
+  "alignment_audio_score_sha256_identical": true,
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 554,
+  "browser_playback": "not tested",
+  "listening": "not performed by agent",
+  "user_review": "pending",
+  "midpoint_mae_ms": null
+}

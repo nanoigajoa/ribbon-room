@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "baseline_scenes_byte_identical": 6,
+  "ab_timing_samples": 638,
+  "protected": "all note strands, sounding markers/highlights, labels, playhead and time offset",
+  "contour_runs": 5,
+  "cubic_segments": 137,
+  "cubic_samples_per_segment": 101,
+  "curve_checks": [
+    "no time reversal",
+    "no pitch overshoot",
+    "exact run endpoints; no rest bridging",
+    "equal-pitch merge does not mutate input",
+    "short-note transition cap"
+  ],
+  "browser_rendering": "not verified",
+  "user_review": "pending"
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": "onset-annotations/0.1.0",
+  "dataset_id": "d054dbcffa8e2b6c9c9a3058b52c0e67c990a8decb17a7b4b22d55f1b83423a6",
+  "annotations": [
+    {
+      "id": "onset_01",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_02",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_03",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_04",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_05",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_06",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_07",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_08",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_09",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_10",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    },
+    {
+      "id": "onset_11",
+      "status": "pending",
+      "lower_original_audio_seconds": null,
+      "upper_original_audio_seconds": null,
+      "comment": ""
+    }
+  ]
+}

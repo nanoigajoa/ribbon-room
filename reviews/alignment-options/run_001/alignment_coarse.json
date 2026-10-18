@@ -1,0 +1,123 @@
+{
+  "schema_version": "beat-alignment/0.1.0",
+  "status": "automatic_candidate_accuracy_unvalidated",
+  "beat_unit": "quarter_note",
+  "interpolation": "piecewise linear; sampled existing map every 4 quarter beats, endpoints preserved",
+  "lookup_policy": "strict domain; no extrapolation",
+  "score_origin_seconds": 0.0,
+  "score_origin_beat": 0.0,
+  "audio_crop_start_seconds": 0,
+  "audio_crop_duration_seconds": 22.0,
+  "source_score_sha256": "0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03",
+  "candidate_method": "symbolic chroma vs CQT; subsequence endpoint search then fixed-origin DTW",
+  "inherited_endpoint_assumption": "existing candidate may contain fractional-feature-frame endpoint extrapolation; not refitted",
+  "ground_truth_error_ms": null,
+  "anchors": [
+    {
+      "source_beat": 0.0,
+      "excerpt_beat": 0.0,
+      "source_score_seconds": 0.0,
+      "excerpt_score_seconds": 0.0,
+      "original_audio_seconds": 0.3947392290249433,
+      "crop_audio_seconds": 0.3947392290249433
+    },
+    {
+      "source_beat": 4.0,
+      "excerpt_beat": 4.0,
+      "source_score_seconds": 1.5789473684210527,
+      "excerpt_score_seconds": 1.5789473684210527,
+      "original_audio_seconds": 1.7879174125790667,
+      "crop_audio_seconds": 1.7879174125790667
+    },
+    {
+      "source_beat": 8.0,
+      "excerpt_beat": 8.0,
+      "source_score_seconds": 3.1578947368421053,
+      "excerpt_score_seconds": 3.1578947368421053,
+      "original_audio_seconds": 3.227535505430242,
+      "crop_audio_seconds": 3.227535505430242
+    },
+    {
+      "source_beat": 12.0,
+      "excerpt_beat": 12.0,
+      "source_score_seconds": 4.736842105263158,
+      "excerpt_score_seconds": 4.736842105263158,
+      "original_audio_seconds": 4.620713688984366,
+      "crop_audio_seconds": 4.620713688984366
+    },
+    {
+      "source_beat": 16.0,
+      "excerpt_beat": 16.0,
+      "source_score_seconds": 6.315789473684211,
+      "excerpt_score_seconds": 6.315789473684211,
+      "original_audio_seconds": 5.990671917889963,
+      "crop_audio_seconds": 5.990671917889963
+    },
+    {
+      "source_beat": 20.0,
+      "excerpt_beat": 20.0,
+      "source_score_seconds": 7.894736842105263,
+      "excerpt_score_seconds": 7.894736842105263,
+      "original_audio_seconds": 7.383850101444087,
+      "crop_audio_seconds": 7.383850101444087
+    },
+    {
+      "source_beat": 24.0,
+      "excerpt_beat": 24.0,
+      "source_score_seconds": 9.473684210526317,
+      "excerpt_score_seconds": 9.473684210526317,
+      "original_audio_seconds": 8.82346819429526,
+      "crop_audio_seconds": 8.82346819429526
+    },
+    {
+      "source_beat": 28.0,
+      "excerpt_beat": 28.0,
+      "source_score_seconds": 11.05263157894737,
+      "excerpt_score_seconds": 11.05263157894737,
+      "original_audio_seconds": 10.263086287146438,
+      "crop_audio_seconds": 10.263086287146438
+    },
+    {
+      "source_beat": 32.0,
+      "excerpt_beat": 32.0,
+      "source_score_seconds": 12.631578947368421,
+      "excerpt_score_seconds": 12.631578947368421,
+      "original_audio_seconds": 11.749144289294666,
+      "crop_audio_seconds": 11.749144289294666
+    },
+    {
+      "source_beat": 36.0,
+      "excerpt_beat": 36.0,
+      "source_score_seconds": 14.210526315789473,
+      "excerpt_score_seconds": 14.210526315789473,
+      "original_audio_seconds": 13.525580618212196,
+      "crop_audio_seconds": 13.525580618212196
+    },
+    {
+      "source_beat": 40.0,
+      "excerpt_beat": 40.0,
+      "source_score_seconds": 15.789473684210526,
+      "excerpt_score_seconds": 15.789473684210526,
+      "original_audio_seconds": 14.674820384294069,
+      "crop_audio_seconds": 14.674820384294069
+    },
+    {
+      "source_beat": 44.0,
+      "excerpt_beat": 44.0,
+      "source_score_seconds": 17.36842105263158,
+      "excerpt_score_seconds": 17.36842105263158,
+      "original_audio_seconds": 16.13765843179377,
+      "crop_audio_seconds": 16.13765843179377
+    },
+    {
+      "source_beat": 48.0,
+      "excerpt_beat": 48.0,
+      "source_score_seconds": 18.94736842105263,
+      "excerpt_score_seconds": 18.94736842105263,
+      "original_audio_seconds": 17.48451127819549,
+      "crop_audio_seconds": 17.48451127819549
+    }
+  ],
+  "candidate_input_sha256": "ddd3d1682509b9a3d7bc4c271dbfa932f7f1ca6a4d4f43483ade9747196deb84",
+  "score_input_sha256": "4230226f162ade55393991564972c8ab696912e61a006d23e984d4ea80cb9f95"
+}

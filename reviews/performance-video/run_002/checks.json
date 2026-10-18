@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "python_tests": 51,
+  "rendered_mp4": "preview.mp4",
+  "directly_inspected": [
+    "frames.png",
+    "frame_000357.png",
+    "playhead_zoom.png"
+  ],
+  "video_frame_count": 660,
+  "audio_mux_lag_samples": [
+    0,
+    0
+  ],
+  "page_controls": "page_checks.json",
+  "actual_browser_playback": "not tested",
+  "human_listening": "pending",
+  "alignment_accuracy": "unvalidated provisional raw A"
+}

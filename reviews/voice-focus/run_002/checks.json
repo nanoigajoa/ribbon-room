@@ -1,0 +1,37 @@
+{
+  "status": "passed_requires_listening_and_alignment_review",
+  "python_tests": "30 passed",
+  "frontend_build": "TypeScript/Vite passed; existing use-client and bundle-size warnings",
+  "visual_selection_frames": 526,
+  "visual_choices": [
+    "all",
+    "violin_1",
+    "violin_2",
+    "viola",
+    "cello"
+  ],
+  "original_wav_matches_flac_samples_max_error": 0.0,
+  "all_five_wavs_sample_grid_finite_peak": "passed",
+  "audio_change_exists_for_each_focus_mix": true,
+  "audio_perceptual_quality": "not evaluated by listening",
+  "alignment_accuracy": "not established; automatic opening candidate",
+  "preserved_file_count": 464,
+  "all_previous_files_unchanged": true,
+  "code_hashes_match": true,
+  "http_resources_match": [
+    "index.html",
+    "review.js",
+    "settings.json",
+    "all.wav",
+    "violin_1.wav",
+    "violin_2.wav",
+    "viola.wav",
+    "cello.wav"
+  ],
+  "all_local_page_links_exist": true,
+  "review_navigation_all_seven_pages": "passed",
+  "image_inspection": "ribbon.png: all/each voice dimming; alignment.png: opening origin/path and first entrances inspected directly",
+  "browser_playback": "not verified; no Chrome launched",
+  "http_url": "http://127.0.0.1:5182/reviews/voice-focus/run_002/index.html",
+  "user_review": "pending"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "video_mux_and_frames_passed_alignment_accuracy_unvalidated",
+  "phase": "B4.2",
+  "video": "preview.mp4",
+  "resolution": [
+    1440,
+    900
+  ],
+  "fps": 30,
+  "frame_count": 660,
+  "duration_seconds": 22,
+  "all_frames_activity_checked_against_performance": true,
+  "physics": false,
+  "audio_input_sha256_identical": true,
+  "performance_input_sha256_identical": true,
+  "decoded_representative_frames": 12,
+  "mux_checks": "media_checks.json",
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 633,
+  "renderer": "shared RibbonScene SVG -> Matplotlib Agg native raster -> FFmpeg H264/AAC",
+  "browser_rendering": "Chrome launch failed; native SVG raster fallback used",
+  "human_listening": "not performed",
+  "ground_truth_error_ms": null,
+  "user_review": "pending"
+}

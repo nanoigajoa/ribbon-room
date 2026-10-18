@@ -1,0 +1,25 @@
+{
+  "status": "passed_requires_visual_review",
+  "python_tests": "27 passed",
+  "frontend_build": "TypeScript/Vite passed; existing use-client and bundle-size warnings",
+  "ab_timing_samples": 638,
+  "accepted_baseline_svg_byte_matches": 6,
+  "curve_segments_checked": 137,
+  "preserved_files": 381,
+  "all_preserved_files_unchanged": true,
+  "code_hashes_match": true,
+  "http_url": "http://127.0.0.1:5181/reviews/contour/run_003/index.html",
+  "http_bytes_match": [
+    "index.html",
+    "review.js",
+    "melody-flow.svg",
+    "ribbon.png",
+    "audio.wav",
+    "score_data.json"
+  ],
+  "local_resource_links": "all exist",
+  "five_review_navigation": "passed",
+  "png_inspected": "A/B melody, chord and rest: softer bounded curves and faint bands; chord strands intact; no sounding markers in rest",
+  "browser_playback": "not verified; no Chrome launched",
+  "user_review": "pending"
+}

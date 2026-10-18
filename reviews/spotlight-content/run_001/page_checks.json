@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "scope": "exact browser entry with DOM/media/capture-root stubs",
+  "checks": [
+    "whole/focus changes preserve audio position/source/rate/playing state",
+    "selected lead fixed at .16s",
+    "start/end clamp",
+    "only viola spotlight",
+    "video/audio mutual exclusion",
+    "jump continues playing",
+    "seek/frame/rate",
+    "cleanup"
+  ],
+  "actual_browser_playback": "not tested"
+}

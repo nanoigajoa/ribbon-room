@@ -1,0 +1,23 @@
+{
+  "default": "original",
+  "candidates": [
+    {
+      "id": "original",
+      "label": "기존",
+      "seconds": 0
+    },
+    {
+      "id": "slightly-earlier",
+      "label": "조금 앞당김",
+      "seconds": 0.08
+    },
+    {
+      "id": "earlier",
+      "label": "더 앞당김",
+      "seconds": 0.16
+    }
+  ],
+  "formula": "visual_time = clamp(audio.currentTime + lead_seconds, 0, duration)",
+  "scope": "presentation-only whole-scene lead; original audio, score and alignment unchanged",
+  "latency_measurement": false
+}

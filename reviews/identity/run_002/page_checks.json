@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "scope": "actual generated page JavaScript with a minimal DOM stub; browser rendering not tested",
+  "checks": [
+    "initial Viola selection",
+    "Violin I: all note buttons, shared highlighting, crop values and absent notes",
+    "Violin II: all note buttons, shared highlighting, crop values and absent notes",
+    "Viola: all note buttons, shared highlighting, crop values and absent notes",
+    "Cello: all note buttons, shared highlighting, crop values and absent notes",
+    "Enter/Space on SVG notes; clipped boundary detail"
+  ],
+  "chrome_launched": false
+}

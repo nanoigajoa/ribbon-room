@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "scope": "generated page JavaScript executed with a minimal DOM stub; browser rendering not tested",
+  "checks": [
+    "initial excerpt origin",
+    "example selection",
+    "slider across tempo change",
+    "half-open excerpt end",
+    "tempo-change boundary"
+  ],
+  "chrome_launched": false
+}

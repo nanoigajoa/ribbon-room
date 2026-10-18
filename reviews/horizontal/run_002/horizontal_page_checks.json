@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "scope": "exact browser entry with DOM/media/capture-root stubs",
+  "checks": [
+    "embedded clock/config and local assets",
+    "both and individual views",
+    "same audio time/rate/source/state on view change",
+    "spotlight on both views",
+    "representative seek",
+    "slider and frame step",
+    "playback rate",
+    "cleanup"
+  ],
+  "actual_browser_playback": "not tested"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": "onset-evaluation/0.1.0",
+  "status": "manual_review_pending",
+  "error_sign": "prediction minus manual onset; positive means predicted later",
+  "tolerance_ms": 66.66666666666667,
+  "tolerance_source": "2 frames at 30 fps; target, not guarantee",
+  "evaluation_total": 10,
+  "confirmed_evaluation_count": 0,
+  "uncertain_evaluation_count": 0,
+  "excluded_evaluation_count": 0,
+  "midpoint_mae_ms": null,
+  "mean_absolute_error_bounds_ms": null,
+  "calibration_in_aggregate": false,
+  "rows": [
+    {
+      "id": "onset_01",
+      "role": "calibration",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_02",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_03",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_04",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_05",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_06",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_07",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_08",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_09",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_10",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    },
+    {
+      "id": "onset_11",
+      "role": "evaluation",
+      "status": "pending",
+      "comment": "",
+      "error_interval_ms": null,
+      "midpoint_error_ms": null
+    }
+  ]
+}

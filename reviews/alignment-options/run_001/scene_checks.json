@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "actual_shared_svg_samples": 2463,
+  "boundary_samples_added": 2328,
+  "checks": [
+    "all three variant activities against independently mapped note onset/offset",
+    "every 30fps frame and both sides of event boundaries",
+    "fixed playhead",
+    "option changes preserve audio time/source/rate/state",
+    "option listener cleanup"
+  ],
+  "media_playback": "stub only",
+  "browser_rendering": "not tested"
+}

@@ -1,0 +1,12 @@
+{
+  "original_audio": "outputs/real_quartet/real_recording.wav",
+  "source_sha256": "022774c54c76b6ea89ec5a90bf237a6909f6990d609e61163d162e61c56e5998",
+  "source_record": "data/raw/quartset/source.json",
+  "source_start_seconds": 0,
+  "duration_seconds": 12,
+  "render_audio_sha256": "6cdb3b277f7f7675d61603609a5ce8031c0bbc717b2fa954bc416fe9e5753895",
+  "sample_conversion": "48kHz PCM16 stereo; no gain normalization",
+  "license": "CC BY 4.0; credit QuartSet/MusicNet and source recording metadata",
+  "reference": "https://www.cssdesignawards.com/sites/run-rob-run/49936/",
+  "artwork": "original reconstruction of visual approaches; no downloaded showcase artwork"
+}

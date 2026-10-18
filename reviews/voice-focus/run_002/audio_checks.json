@@ -1,0 +1,27 @@
+{
+  "method": "score-guided harmonic soft-mask emphasis; no isolated stems",
+  "n_fft": 8192,
+  "hop_length": 1024,
+  "shared_peak_gain": 1.0,
+  "stft_identity_max_error": 1.7881393432617188e-07,
+  "gain_formula": "0.6 + 1.2 * selected mask; all = original",
+  "parts": {
+    "violin_1": {
+      "weighted_mask_mean": 0.14147672057151794,
+      "difference_rms_before_common_gain": 0.030049683526158333
+    },
+    "violin_2": {
+      "weighted_mask_mean": 0.10515390336513519,
+      "difference_rms_before_common_gain": 0.0283915176987648
+    },
+    "viola": {
+      "weighted_mask_mean": 0.11293236911296844,
+      "difference_rms_before_common_gain": 0.027681006118655205
+    },
+    "cello": {
+      "weighted_mask_mean": 0.11483653634786606,
+      "difference_rms_before_common_gain": 0.028497982770204544
+    }
+  },
+  "limits": "Shared pitches/harmonics and alignment errors cause leakage. No source-isolation or perceptual-quality claim."
+}

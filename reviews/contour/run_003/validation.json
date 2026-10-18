@@ -1,0 +1,40 @@
+{
+  "status": "passed_requires_visual_review",
+  "baseline_scenes_byte_identical": 6,
+  "ab_timing_samples": 638,
+  "protected": "all note strands, sounding markers/highlights, labels, playhead and time offset",
+  "contour_runs": 5,
+  "cubic_segments": 137,
+  "cubic_samples_per_segment": 101,
+  "curve_checks": [
+    "no time reversal",
+    "no pitch overshoot",
+    "exact run endpoints; no rest bridging",
+    "equal-pitch merge does not mutate input",
+    "short-note transition cap"
+  ],
+  "browser_rendering": "not verified",
+  "user_review": "pending",
+  "phase": "B2.2",
+  "preserved_file_count": 381,
+  "all_preserved_files_unchanged": true,
+  "input_sha256": {
+    "score_data.json": "47a4910cd7f299c104be384c63644295f85089ac43ab8b6cb7139e479d9f260c",
+    "audio.wav": "1d1c769ed87a304ce0e892ce3e6c9e39751d3f42eb1fbd060d1011e48a4e659c",
+    "config.json": "2cbea7d72b93539c1fe929eb40e6fdcac4613e3a6cfec5da0d9ee5a20d410b28"
+  },
+  "code_sha256": {
+    "frontend/src/RibbonScene.tsx": "31586598c0aa86d1bf8c4682f4c6c041b93be67e4c0b596e21a712078ae61370",
+    "frontend/src/ribbonContour.ts": "b2d32bd420f796d3d48078f38c35ffb85a620185bfb53acbd5f542a9fb5feb8d",
+    "frontend/src/ContourCompare.tsx": "1319480be672e57aaace7f7037ba93e7980176d6a4e250bc52ddb123a415f794",
+    "frontend/src/ribbon-review.tsx": "baee63ad7c75b5d26f10f374d92f8ce2dffd64e69bd7d479a9a9810b5a8eec1a",
+    "frontend/shared/ribbon-review.mjs": "d5c695babd4ee8805a4471cdf075085927b20e5d28a8fda6a007917b6e4e7675",
+    "frontend/scripts/build_contour_review.mjs": "28ad75392f992dfcc92ca74c6f2f51658a58b017457b2005b7615c886dfad542",
+    "frontend/scripts/check_ribbon_review.mjs": "f9bb22d37e7dc9c347eafb29bbbeff4def41c81dd28d94fa60ebd9bd3877f9ae",
+    "frontend/scripts/ribbon_review_scene.tsx": "1382148b91b5523fe1fb991fd7ee78c3ba2e11a895b715f21105a2d669cecad9",
+    "scripts/build_contour_review.py": "92cee2ae724235bcca594e2afb5c28c8de5cf8cad8daede4ea5f8a275937f2d1",
+    "scripts/build_ribbon_review.py": "9317af4f05867cb3e7102dad7062576899a37f6537476ff8d06337dd4605b9e6"
+  },
+  "png_scope": "shared SVG curve/strand/marker coordinates plotted with Matplotlib; typography omitted; not a browser screenshot",
+  "browser_automation": "not run; no Chrome launched"
+}

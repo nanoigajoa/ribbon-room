@@ -1,0 +1,13 @@
+{
+  "tests": "17 passed: python -m unittest discover -s tests -v",
+  "http_url": "http://127.0.0.1:5180/reviews/score/run_003/index.html",
+  "html_served": true,
+  "served_json_png_match_outputs": true,
+  "image_inspected": "audit.png: four panels, rests, tie boundary and three chord attacks visible",
+  "browser_interaction": "not verified; Chrome launch failed",
+  "code_sha256": {
+    "src/score_ribbon/score_review.py": "3d5bad693f4de3abf473b9461171725d41c4e68952a58e73ad5cacd138a38214",
+    "scripts/review_score.py": "2fd4afe7a3c647cdea435ada6bf53224a534bfc318b9c72d0b109b158b81c816",
+    "tests/test_score_review.py": "74d1d1134c8eeeddd8ef90293e6709893fa41c1e4023f10c2be2a890180d71f9"
+  }
+}

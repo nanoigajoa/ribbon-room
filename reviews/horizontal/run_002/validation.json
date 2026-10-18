@@ -1,0 +1,25 @@
+{
+  "status": "presentation_comparison_passed_user_choice_pending",
+  "phase": "B4.3",
+  "comparison_samples": 900,
+  "identical_note_activity_and_pitch": true,
+  "baseline_svg_frames_byte_identical": 660,
+  "max_note_endpoint_playhead_error_px": 0,
+  "performance_sha256_unchanged": true,
+  "audio_sha256_unchanged": true,
+  "baseline_video_sha256_unchanged": true,
+  "beat_video": {
+    "duration_seconds": 22,
+    "frames": 660,
+    "fps": 30,
+    "decoded_representatives": 8
+  },
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 771,
+  "physics": false,
+  "default_presentation": "audio-second A; unchanged",
+  "browser_playback": "not tested",
+  "human_listening": "not performed",
+  "ground_truth_error_ms": null,
+  "user_review": "pending"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "approved_baseline_frames_byte_identical": 660,
+  "mask_samples": 363600,
+  "boundary_times_checked": 900,
+  "max_weight": 1,
+  "weight_bounds": [
+    0,
+    1
+  ],
+  "event_edge_weight": 0,
+  "playhead_weight": 0,
+  "x_displacement_px": 0,
+  "pitch_center_displacement_px": 0,
+  "overlay_removal_byte_identical": true,
+  "initial_silence_has_no_envelope": true,
+  "spring_simulation": false,
+  "tests": [
+    "analytical mask fixtures",
+    "all per-part event edges at all frame and onset/offset ±0.1us times",
+    "all 660 baseline SVG hashes",
+    "target recoverable byte for byte by stripping diagnostic overlay",
+    "initial silence remains empty"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "python_tests": 51,
+  "typescript_vite_build": "passed with existing warnings",
+  "clock_and_svg_checks": "comparison_checks.json",
+  "actual_page_entry_checks": "horizontal_page_checks.json",
+  "directly_inspected": [
+    "ribbon.png",
+    "frame_000357.png",
+    "scroll.png"
+  ],
+  "baseline_A_unchanged": true,
+  "actual_browser_playback": "not tested",
+  "user_review": "pending"
+}

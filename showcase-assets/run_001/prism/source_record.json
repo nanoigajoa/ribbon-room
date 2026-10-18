@@ -1,0 +1,35 @@
+{
+  "dataset": "QuartSet",
+  "record": "https://zenodo.org/records/15708701",
+  "archive": "QuartSet.zip",
+  "archive_md5_published": "ba8e1b46c837dfa63d4c33db5cb3fe8a",
+  "whole_archive_verified": false,
+  "retrieval": "HTTP Range extraction of ZIP members; ZIP CRC32 verified by zipfile",
+  "excerpt_id": "1788-0",
+  "musicnet_recording_id": "1788",
+  "composer": "Mozart",
+  "composition": "String Quartet No.19 in C major, K.465",
+  "movement": "I. Adagio",
+  "source_recording_metadata": "Museopen",
+  "dataset_license_from_zenodo_api": "cc-by-4.0",
+  "authors": [
+    "Erika Rumbold",
+    "George Tzanetakis"
+  ],
+  "musicnet_authors": [
+    "John Thickstun",
+    "Zaid Harchaoui",
+    "Sham Kakade"
+  ],
+  "files": {
+    "1788-0.wav": {
+      "sha256": "2165cdf590b4319cf8b7ed779d3de09a3166c3f93967db0bbc251a33cd4debbb",
+      "bytes": 7174224
+    },
+    "1788-0.krn": {
+      "sha256": "36045cc91627b6836f93de9a7ce838cf704880967daaf4cc8e9a1fa45d995e37",
+      "bytes": 1613
+    }
+  },
+  "score_conversion": "music21 converter.parse Kern -> MusicXML. Assign source part1/2/3/4 to Violin I/II/Viola/Cello, no pitch or rhythm edits. Use metadata 35 BPM as a fallback reference clock."
+}

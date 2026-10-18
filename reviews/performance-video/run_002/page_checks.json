@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "scope": "actual page JS with DOM/video stubs",
+  "checks": [
+    "all local assets and video poster exist",
+    "one embedded audio source only",
+    "all representative seek buttons",
+    "clamped seek",
+    "one-frame steps",
+    "rate",
+    "time display",
+    "play/end/error",
+    "reset"
+  ],
+  "actual_video_playback": "not tested"
+}

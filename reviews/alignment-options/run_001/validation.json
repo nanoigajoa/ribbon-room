@@ -1,0 +1,23 @@
+{
+  "status": "comparison_passed_accuracy_unvalidated",
+  "phase": "B3.5",
+  "variants": [
+    "raw",
+    "coarse",
+    "linear"
+  ],
+  "note_count": 194,
+  "positive_mapped_note_durations": true,
+  "original_score_and_ids_preserved": true,
+  "source_alignment_unchanged": true,
+  "real_audio_sha256_unchanged": true,
+  "actual_shared_svg_samples": 2463,
+  "manual_annotations_used": false,
+  "provisional_choice": "raw",
+  "ground_truth_error_ms": null,
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 571,
+  "browser_playback": "not tested",
+  "listening": "not performed",
+  "user_review": "pending"
+}

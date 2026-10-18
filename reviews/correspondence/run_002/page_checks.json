@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "scope": "actual browser JS with DOM/media stubs",
+  "checks": [
+    "measure audition seek/play",
+    "end context seek",
+    "playback rate",
+    "time readout",
+    "error display"
+  ],
+  "browser_playback": "not tested"
+}

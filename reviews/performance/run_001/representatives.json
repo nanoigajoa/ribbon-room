@@ -1,0 +1,26 @@
+[
+  {
+    "name": "before-first",
+    "time_seconds": 0
+  },
+  {
+    "name": "first-onset",
+    "time_seconds": 0.3947392290249433
+  },
+  {
+    "name": "together",
+    "time_seconds": 5.5
+  },
+  {
+    "name": "transition",
+    "time_seconds": 11.9
+  },
+  {
+    "name": "last-notes",
+    "time_seconds": 16.8
+  },
+  {
+    "name": "after-score",
+    "time_seconds": 20
+  }
+]

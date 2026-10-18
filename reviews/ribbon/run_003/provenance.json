@@ -1,0 +1,72 @@
+{
+  "inputs": {
+    "score_data.json": {
+      "path": "outputs/identity_reviews/run_002/full_score_data.json",
+      "sha256": "47a4910cd7f299c104be384c63644295f85089ac43ab8b6cb7139e479d9f260c"
+    },
+    "audio.wav": {
+      "path": "outputs/score_reference.wav",
+      "sha256": "1d1c769ed87a304ce0e892ce3e6c9e39751d3f42eb1fbd060d1011e48a4e659c"
+    },
+    "config.json": {
+      "path": "frontend/public/tracks/mendelssohn-op80/config.json",
+      "sha256": "2cbea7d72b93539c1fe929eb40e6fdcac4613e3a6cfec5da0d9ee5a20d410b28"
+    },
+    "baseline.mp4": {
+      "path": "outputs/ribbon_preview_002.mp4",
+      "sha256": "9e7c6ef66d0f00104c949f1540a1b2a09b5116f34bf3f3cd48e9e4b8411381d3"
+    }
+  },
+  "sources": {
+    "data/raw/mendelssohn_op80.source.json": {
+      "title": "Mendelssohn — String Quartet No. 6 in F minor, Op. 80, I. Allegro vivace assai",
+      "repository": "https://github.com/OpenScore/StringQuartets",
+      "revision": "9be3df2ace482130fe031b9e8a647cdf112ed243",
+      "source_url": "https://github.com/OpenScore/StringQuartets/blob/9be3df2ace482130fe031b9e8a647cdf112ed243/scores/Mendelssohn%2C_Felix/String_Quartet_No.6_in_F_Minor%2C_Op.80/sq8561633.mxl",
+      "score_id": "8561633",
+      "license": "CC0-1.0",
+      "credit": "OpenScore String Quartets; transcribed by markpearse; checked by Gijs Bikker",
+      "source_sha256": "339ee8237a50206be34904885a5fabfe319a0e0f432cba3823f5c76c87663ce5",
+      "excerpt_file": "data/excerpts/mendelssohn_op80_mvt1_m001-012.musicxml",
+      "excerpt_sha256": "0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03",
+      "excerpt_method": "Retain first 12 measures of each part using XML tree; remove repeat barline playback commands; no pitch, duration or tempo edits. Full source preserved.",
+      "preview_window_seconds": [
+        0,
+        15
+      ]
+    },
+    "data/soundfonts/source.json": {
+      "repository": "https://github.com/Jacalz/fluid-soundfont",
+      "revision": "b5b2976264d2fceb932043157c53e4502d7ec9c3",
+      "path": "SF3/FluidR3.sf3",
+      "sha256": "32039e039c2f708467a6f171fbfd9fecdcadfe40a2327837c391490c8de70021",
+      "license": "MIT (see COPYING)",
+      "credit": "Fluid(R3), Frank Wen; SF3 conversion mirrored by Jacalz"
+    },
+    "outputs/score_reference.json": {
+      "kind": "score_synthesis",
+      "engine": "FluidSynth",
+      "library": "/opt/homebrew/lib/libfluidsynth.dylib",
+      "soundfont": "/Users/juan/Desktop/음악생성/data/soundfonts/FluidR3.sf3",
+      "soundfont_sha256": "32039e039c2f708467a6f171fbfd9fecdcadfe40a2327837c391490c8de70021",
+      "sample_rate": 48000,
+      "channels": 2,
+      "duration_seconds": 15.0,
+      "peak": 0.19436216354370117,
+      "rms": 0.03403332084417343,
+      "finite": true,
+      "event_timing": "JSON seconds rounded to nearest sample",
+      "missing_velocity": 76,
+      "dynamics_interpretation": "none",
+      "note": "Synthetic reference, not a human performance. SoundFont attack/release remain audible. No reverb/chorus. Final 5 ms fade.",
+      "score_file": "/Users/juan/Desktop/음악생성/outputs/score_data.json",
+      "score_source_sha256": "0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03"
+    }
+  },
+  "clock": "excerpt-relative score/reference seconds; audio.currentTime is the running clock; [onset, offset)",
+  "audio": {
+    "kind": "score_synthesis",
+    "duration_seconds": 15.0,
+    "sample_rate": 48000
+  }
+}

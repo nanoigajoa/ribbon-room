@@ -1,0 +1,22 @@
+[
+  {
+    "name": "focus-all",
+    "time_seconds": 7.5
+  },
+  {
+    "name": "focus-violin_1",
+    "time_seconds": 7.5
+  },
+  {
+    "name": "focus-violin_2",
+    "time_seconds": 7.5
+  },
+  {
+    "name": "focus-viola",
+    "time_seconds": 7.5
+  },
+  {
+    "name": "focus-cello",
+    "time_seconds": 7.5
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "visual_lead_candidate": "earlier",
+  "visual_lead_seconds": 0.16,
+  "selection_basis": "user: 더앞당김이 더 좋네",
+  "spring_or_inertia": false,
+  "default_spotlight": "viola",
+  "non_selected_opacity": 0.45,
+  "audio_processing": "none",
+  "baseline_timing_comparison": "outputs/timing_feel_reviews/run_001"
+}

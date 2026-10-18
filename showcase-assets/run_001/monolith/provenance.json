@@ -1,0 +1,12 @@
+{
+  "original_audio": "data/raw/musopen_mendelssohn_op80/03-adagio.flac",
+  "source_sha256": "186f2130257a1d9f694a52bcf915ae9891262f30f1a2c2a6a7b2cb6a5a4c7af4",
+  "source_record": "data/raw/musopen_mendelssohn_op80/source.json",
+  "source_start_seconds": 0,
+  "duration_seconds": 12,
+  "render_audio_sha256": "b50f2b5a48cc170fbe256e2239eeb951bdcc74e489b67bf917f70ea5de54d942",
+  "sample_conversion": "48kHz PCM16 stereo; no gain normalization",
+  "license": "Musopen public-domain dedication; original source record retained",
+  "reference": "https://tympanus.net/codrops/2025/06/18/coding-a-3d-audio-visualizer-with-three-js-gsap-web-audio-api/",
+  "artwork": "original reconstruction of visual approaches; no downloaded showcase artwork"
+}

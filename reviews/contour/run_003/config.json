@@ -1,0 +1,11 @@
+{
+  "title": "Mendelssohn · String Quartet No. 6 · Op. 80",
+  "subtitle": "I. Allegro vivace assai · score reference",
+  "pageTitle": "멘델스존 현악 사중주 6번",
+  "audioKind": "score_synthesis",
+  "audioLabel": "악보 합성음",
+  "description": "",
+  "footer": "기보 템포 기준 · 곡선 연결은 시각적 보간",
+  "credit": "OpenScore · FluidR3",
+  "audioFile": "tracks/mendelssohn-op80/audio.wav"
+}

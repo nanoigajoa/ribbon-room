@@ -1,0 +1,11 @@
+{
+  "title": "Mendelssohn · Op.80 · I. Allegro vivace assai",
+  "subtitle": "실제 원음 · 정렬 후보 비교",
+  "pageTitle": "측정 없이 정렬 후보 비교",
+  "audioFile": "audio.wav",
+  "audioKind": "real_ensemble_recording",
+  "audioLabel": "실제 원음 · 정확도 미확정",
+  "description": "동일 원음에서 기존 DTW와 간격을 넓힌 대응을 비교",
+  "footer": "악보 기준 초 · 후보 비교 · 정렬 검수 대기",
+  "credit": "Musopen String Quartet / OpenScore"
+}

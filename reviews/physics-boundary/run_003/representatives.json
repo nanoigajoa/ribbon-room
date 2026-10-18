@@ -1,0 +1,37 @@
+[
+  {
+    "name": "time_006",
+    "time_seconds": 0.2,
+    "envelope_count": 0,
+    "target_svg_sha256": "12cca3fc3e5798e64e651a6537162f158ea7d4b849e911ab1d739808a4ec0fcf",
+    "overlay_removal_byte_identical": true
+  },
+  {
+    "name": "time_165",
+    "time_seconds": 5.5,
+    "envelope_count": 24,
+    "target_svg_sha256": "6001f5fd9a9a3f38d5fd7e4dd62ef127b5a4c8561d7cae2d2c74a1f5468245c8",
+    "overlay_removal_byte_identical": true
+  },
+  {
+    "name": "time_357",
+    "time_seconds": 11.9,
+    "envelope_count": 21,
+    "target_svg_sha256": "08a58c83392c6d3e5ea03c3835d48797743c04f749857dc19bc4c0db910efd13",
+    "overlay_removal_byte_identical": true
+  },
+  {
+    "name": "time_504",
+    "time_seconds": 16.8,
+    "envelope_count": 6,
+    "target_svg_sha256": "941cd709a8b91d52c4104a286f16b53968b89b78199346c789afd34b12ff643b",
+    "overlay_removal_byte_identical": true
+  },
+  {
+    "name": "time_659",
+    "time_seconds": 21.966666666666665,
+    "envelope_count": 0,
+    "target_svg_sha256": "f8f8bdb57a9cd3449fc2efc8212db14b3d9178d360a686f405bb59489cd0b9b7",
+    "overlay_removal_byte_identical": true
+  }
+]

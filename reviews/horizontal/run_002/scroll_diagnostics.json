@@ -1,0 +1,5287 @@
+{
+  "note_activity": "unchanged",
+  "pixel_scale_policy": "equal total horizontal span across alignment endpoints",
+  "context": "global mean slope outside mapping; presentation only",
+  "frames": [
+    {
+      "frame": 0,
+      "audio_seconds": 0,
+      "audio_scroll_position_px": 0,
+      "beat_scroll_position_px": -49.34240362811791,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": null
+    },
+    {
+      "frame": 1,
+      "audio_seconds": 0.03333333333333333,
+      "audio_scroll_position_px": 4.166666666666667,
+      "beat_scroll_position_px": -45.17573696145124,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999999993
+    },
+    {
+      "frame": 2,
+      "audio_seconds": 0.06666666666666667,
+      "audio_scroll_position_px": 8.333333333333334,
+      "beat_scroll_position_px": -41.00907029478458,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999999993
+    },
+    {
+      "frame": 3,
+      "audio_seconds": 0.1,
+      "audio_scroll_position_px": 12.5,
+      "beat_scroll_position_px": -36.842403628117914,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999999996
+    },
+    {
+      "frame": 4,
+      "audio_seconds": 0.13333333333333333,
+      "audio_scroll_position_px": 16.666666666666668,
+      "beat_scroll_position_px": -32.67573696145125,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999999996
+    },
+    {
+      "frame": 5,
+      "audio_seconds": 0.16666666666666666,
+      "audio_scroll_position_px": 20.833333333333332,
+      "beat_scroll_position_px": -28.50907029478458,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000017
+    },
+    {
+      "frame": 6,
+      "audio_seconds": 0.2,
+      "audio_scroll_position_px": 25,
+      "beat_scroll_position_px": -24.34240362811791,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999999996
+    },
+    {
+      "frame": 7,
+      "audio_seconds": 0.23333333333333334,
+      "audio_scroll_position_px": 29.166666666666668,
+      "beat_scroll_position_px": -20.175736961451243,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000006
+    },
+    {
+      "frame": 8,
+      "audio_seconds": 0.26666666666666666,
+      "audio_scroll_position_px": 33.333333333333336,
+      "beat_scroll_position_px": -16.00907029478458,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999999996
+    },
+    {
+      "frame": 9,
+      "audio_seconds": 0.3,
+      "audio_scroll_position_px": 37.5,
+      "beat_scroll_position_px": -11.84240362811791,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000006
+    },
+    {
+      "frame": 10,
+      "audio_seconds": 0.3333333333333333,
+      "audio_scroll_position_px": 41.666666666666664,
+      "beat_scroll_position_px": -7.675736961451247,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999999993
+    },
+    {
+      "frame": 11,
+      "audio_seconds": 0.36666666666666664,
+      "audio_scroll_position_px": 45.83333333333333,
+      "beat_scroll_position_px": -3.509070294784581,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000001
+    },
+    {
+      "frame": 12,
+      "audio_seconds": 0.4,
+      "audio_scroll_position_px": 50,
+      "beat_scroll_position_px": 1.1862514990039086,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 140.85965381365452
+    },
+    {
+      "frame": 13,
+      "audio_seconds": 0.43333333333333335,
+      "audio_scroll_position_px": 54.16666666666667,
+      "beat_scroll_position_px": 8.702586428037247,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710002
+    },
+    {
+      "frame": 14,
+      "audio_seconds": 0.4666666666666667,
+      "audio_scroll_position_px": 58.333333333333336,
+      "beat_scroll_position_px": 16.218921357070585,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710002
+    },
+    {
+      "frame": 15,
+      "audio_seconds": 0.5,
+      "audio_scroll_position_px": 62.5,
+      "beat_scroll_position_px": 23.735256286103926,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710003
+    },
+    {
+      "frame": 16,
+      "audio_seconds": 0.5333333333333333,
+      "audio_scroll_position_px": 66.66666666666667,
+      "beat_scroll_position_px": 27.44740537350407,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 111.3644726220043
+    },
+    {
+      "frame": 17,
+      "audio_seconds": 0.5666666666666667,
+      "audio_scroll_position_px": 70.83333333333333,
+      "beat_scroll_position_px": 29.326489105762402,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775002
+    },
+    {
+      "frame": 18,
+      "audio_seconds": 0.6,
+      "audio_scroll_position_px": 75,
+      "beat_scroll_position_px": 31.20557283802074,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775013
+    },
+    {
+      "frame": 19,
+      "audio_seconds": 0.6333333333333333,
+      "audio_scroll_position_px": 79.16666666666666,
+      "beat_scroll_position_px": 33.08465657027908,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967750235
+    },
+    {
+      "frame": 20,
+      "audio_seconds": 0.6666666666666666,
+      "audio_scroll_position_px": 83.33333333333333,
+      "beat_scroll_position_px": 37.755521847606936,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 140.12595831983572
+    },
+    {
+      "frame": 21,
+      "audio_seconds": 0.7,
+      "audio_scroll_position_px": 87.5,
+      "beat_scroll_position_px": 45.27185677664026,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099986
+    },
+    {
+      "frame": 22,
+      "audio_seconds": 0.7333333333333333,
+      "audio_scroll_position_px": 91.66666666666666,
+      "beat_scroll_position_px": 52.78819170567362,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710007
+    },
+    {
+      "frame": 23,
+      "audio_seconds": 0.7666666666666667,
+      "audio_scroll_position_px": 95.83333333333334,
+      "beat_scroll_position_px": 60.30452663470698,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710003
+    },
+    {
+      "frame": 24,
+      "audio_seconds": 0.8,
+      "audio_scroll_position_px": 100,
+      "beat_scroll_position_px": 67.82086156374032,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710003
+    },
+    {
+      "frame": 25,
+      "audio_seconds": 0.8333333333333334,
+      "audio_scroll_position_px": 104.16666666666667,
+      "beat_scroll_position_px": 73.01071187188238,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 155.6955092442617
+    },
+    {
+      "frame": 26,
+      "audio_seconds": 0.8666666666666667,
+      "audio_scroll_position_px": 108.33333333333334,
+      "beat_scroll_position_px": 75.03552046500974,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 60.744257793820836
+    },
+    {
+      "frame": 27,
+      "audio_seconds": 0.9,
+      "audio_scroll_position_px": 112.5,
+      "beat_scroll_position_px": 76.91460419726808,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775013
+    },
+    {
+      "frame": 28,
+      "audio_seconds": 0.9333333333333333,
+      "audio_scroll_position_px": 116.66666666666667,
+      "beat_scroll_position_px": 78.7936879295264,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677497
+    },
+    {
+      "frame": 29,
+      "audio_seconds": 0.9666666666666667,
+      "audio_scroll_position_px": 120.83333333333333,
+      "beat_scroll_position_px": 80.67277166178474,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775013
+    },
+    {
+      "frame": 30,
+      "audio_seconds": 1,
+      "audio_scroll_position_px": 125,
+      "beat_scroll_position_px": 82.55185539404307,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775013
+    },
+    {
+      "frame": 31,
+      "audio_seconds": 1.0333333333333334,
+      "audio_scroll_position_px": 129.16666666666669,
+      "beat_scroll_position_px": 84.43093912630141,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967749936
+    },
+    {
+      "frame": 32,
+      "audio_seconds": 1.0666666666666667,
+      "audio_scroll_position_px": 133.33333333333334,
+      "beat_scroll_position_px": 86.31002285855975,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775036
+    },
+    {
+      "frame": 33,
+      "audio_seconds": 1.1,
+      "audio_scroll_position_px": 137.5,
+      "beat_scroll_position_px": 88.18910659081808,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967749936
+    },
+    {
+      "frame": 34,
+      "audio_seconds": 1.1333333333333333,
+      "audio_scroll_position_px": 141.66666666666666,
+      "beat_scroll_position_px": 93.24345834411703,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 151.63055259896788
+    },
+    {
+      "frame": 35,
+      "audio_seconds": 1.1666666666666667,
+      "audio_scroll_position_px": 145.83333333333334,
+      "beat_scroll_position_px": 100.7597932731504,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100017
+    },
+    {
+      "frame": 36,
+      "audio_seconds": 1.2,
+      "audio_scroll_position_px": 150,
+      "beat_scroll_position_px": 108.2761282021837,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710006
+    },
+    {
+      "frame": 37,
+      "audio_seconds": 1.2333333333333334,
+      "audio_scroll_position_px": 154.16666666666669,
+      "beat_scroll_position_px": 115.79246313121705,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099975
+    },
+    {
+      "frame": 38,
+      "audio_seconds": 1.2666666666666666,
+      "audio_scroll_position_px": 158.33333333333331,
+      "beat_scroll_position_px": 121.14593433577349,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 160.60413613669445
+    },
+    {
+      "frame": 39,
+      "audio_seconds": 1.3,
+      "audio_scroll_position_px": 162.5,
+      "beat_scroll_position_px": 123.02501806803181,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774951
+    },
+    {
+      "frame": 40,
+      "audio_seconds": 1.3333333333333333,
+      "audio_scroll_position_px": 166.66666666666666,
+      "beat_scroll_position_px": 124.90410180029014,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967749936
+    },
+    {
+      "frame": 41,
+      "audio_seconds": 1.3666666666666667,
+      "audio_scroll_position_px": 170.83333333333334,
+      "beat_scroll_position_px": 130.15019679157461,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 157.3828497385339
+    },
+    {
+      "frame": 42,
+      "audio_seconds": 1.4,
+      "audio_scroll_position_px": 175,
+      "beat_scroll_position_px": 136.5160722926947,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 190.97626503360286
+    },
+    {
+      "frame": 43,
+      "audio_seconds": 1.4333333333333333,
+      "audio_scroll_position_px": 179.16666666666666,
+      "beat_scroll_position_px": 138.39515602495305,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775036
+    },
+    {
+      "frame": 44,
+      "audio_seconds": 1.4666666666666666,
+      "audio_scroll_position_px": 183.33333333333331,
+      "beat_scroll_position_px": 140.27423975721135,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774951
+    },
+    {
+      "frame": 45,
+      "audio_seconds": 1.5,
+      "audio_scroll_position_px": 187.5,
+      "beat_scroll_position_px": 142.1533234894697,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775036
+    },
+    {
+      "frame": 46,
+      "audio_seconds": 1.5333333333333334,
+      "audio_scroll_position_px": 191.66666666666669,
+      "beat_scroll_position_px": 144.03240722172805,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775036
+    },
+    {
+      "frame": 47,
+      "audio_seconds": 1.5666666666666667,
+      "audio_scroll_position_px": 195.83333333333334,
+      "beat_scroll_position_px": 145.91149095398637,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775036
+    },
+    {
+      "frame": 48,
+      "audio_seconds": 1.6,
+      "audio_scroll_position_px": 200,
+      "beat_scroll_position_px": 147.79057468624472,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775036
+    },
+    {
+      "frame": 49,
+      "audio_seconds": 1.6333333333333333,
+      "audio_scroll_position_px": 204.16666666666666,
+      "beat_scroll_position_px": 151.0118610844019,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 96.63859194471455
+    },
+    {
+      "frame": 50,
+      "audio_seconds": 1.6666666666666667,
+      "audio_scroll_position_px": 208.33333333333334,
+      "beat_scroll_position_px": 158.5281960134352,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478709989
+    },
+    {
+      "frame": 51,
+      "audio_seconds": 1.7,
+      "audio_scroll_position_px": 212.5,
+      "beat_scroll_position_px": 166.04453094246853,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099975
+    },
+    {
+      "frame": 52,
+      "audio_seconds": 1.7333333333333334,
+      "audio_scroll_position_px": 216.66666666666669,
+      "beat_scroll_position_px": 173.56086587150193,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100145
+    },
+    {
+      "frame": 53,
+      "audio_seconds": 1.7666666666666666,
+      "audio_scroll_position_px": 220.83333333333331,
+      "beat_scroll_position_px": 176.82050091725617,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 97.78905137262852
+    },
+    {
+      "frame": 54,
+      "audio_seconds": 1.8,
+      "audio_scroll_position_px": 225,
+      "beat_scroll_position_px": 178.69958464951446,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774866
+    },
+    {
+      "frame": 55,
+      "audio_seconds": 1.8333333333333333,
+      "audio_scroll_position_px": 229.16666666666666,
+      "beat_scroll_position_px": 180.57866838177281,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775036
+    },
+    {
+      "frame": 56,
+      "audio_seconds": 1.8666666666666667,
+      "audio_scroll_position_px": 233.33333333333334,
+      "beat_scroll_position_px": 182.45775211403114,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774951
+    },
+    {
+      "frame": 57,
+      "audio_seconds": 1.9,
+      "audio_scroll_position_px": 237.5,
+      "beat_scroll_position_px": 187.58113143300488,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 153.70137956921192
+    },
+    {
+      "frame": 58,
+      "audio_seconds": 1.9333333333333333,
+      "audio_scroll_position_px": 241.66666666666666,
+      "beat_scroll_position_px": 195.0974663620383,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100145
+    },
+    {
+      "frame": 59,
+      "audio_seconds": 1.9666666666666666,
+      "audio_scroll_position_px": 245.83333333333331,
+      "beat_scroll_position_px": 199.875707852638,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 143.34724471799302
+    },
+    {
+      "frame": 60,
+      "audio_seconds": 2,
+      "audio_scroll_position_px": 250,
+      "beat_scroll_position_px": 201.92863878733658,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 61.58792804095763
+    },
+    {
+      "frame": 61,
+      "audio_seconds": 2.033333333333333,
+      "audio_scroll_position_px": 254.16666666666666,
+      "beat_scroll_position_px": 207.174733778621,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 157.38284973853305
+    },
+    {
+      "frame": 62,
+      "audio_seconds": 2.066666666666667,
+      "audio_scroll_position_px": 258.33333333333337,
+      "beat_scroll_position_px": 212.0577949059863,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 146.49183382095595
+    },
+    {
+      "frame": 63,
+      "audio_seconds": 2.1,
+      "audio_scroll_position_px": 262.5,
+      "beat_scroll_position_px": 213.9368786382446,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967749034
+    },
+    {
+      "frame": 64,
+      "audio_seconds": 2.1333333333333333,
+      "audio_scroll_position_px": 266.6666666666667,
+      "beat_scroll_position_px": 215.81596237050294,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775074
+    },
+    {
+      "frame": 65,
+      "audio_seconds": 2.1666666666666665,
+      "audio_scroll_position_px": 270.8333333333333,
+      "beat_scroll_position_px": 217.6950461027613,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775074
+    },
+    {
+      "frame": 66,
+      "audio_seconds": 2.2,
+      "audio_scroll_position_px": 275,
+      "beat_scroll_position_px": 219.57412983501965,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 67,
+      "audio_seconds": 2.2333333333333334,
+      "audio_scroll_position_px": 279.1666666666667,
+      "beat_scroll_position_px": 221.45321356727794,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967749034
+    },
+    {
+      "frame": 68,
+      "audio_seconds": 2.2666666666666666,
+      "audio_scroll_position_px": 283.3333333333333,
+      "beat_scroll_position_px": 225.75593182767358,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 129.08154781186954
+    },
+    {
+      "frame": 69,
+      "audio_seconds": 2.3,
+      "audio_scroll_position_px": 287.5,
+      "beat_scroll_position_px": 233.27226675670687,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 70,
+      "audio_seconds": 2.3333333333333335,
+      "audio_scroll_position_px": 291.6666666666667,
+      "beat_scroll_position_px": 240.7886016857403,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100125
+    },
+    {
+      "frame": 71,
+      "audio_seconds": 2.3666666666666667,
+      "audio_scroll_position_px": 295.8333333333333,
+      "beat_scroll_position_px": 245.88641523964924,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 152.9344066172686
+    },
+    {
+      "frame": 72,
+      "audio_seconds": 2.4,
+      "audio_scroll_position_px": 300,
+      "beat_scroll_position_px": 247.86520545566006,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 59.363706480324865
+    },
+    {
+      "frame": 73,
+      "audio_seconds": 2.433333333333333,
+      "audio_scroll_position_px": 304.16666666666663,
+      "beat_scroll_position_px": 252.865869102323,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 150.0199093998884
+    },
+    {
+      "frame": 74,
+      "audio_seconds": 2.466666666666667,
+      "audio_scroll_position_px": 308.33333333333337,
+      "beat_scroll_position_px": 255.5502744341207,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 80.5321599539289
+    },
+    {
+      "frame": 75,
+      "audio_seconds": 2.5,
+      "audio_scroll_position_px": 312.5,
+      "beat_scroll_position_px": 260.0447359325019,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 134.83384495143687
+    },
+    {
+      "frame": 76,
+      "audio_seconds": 2.533333333333333,
+      "audio_scroll_position_px": 316.66666666666663,
+      "beat_scroll_position_px": 263.23534341258136,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 95.71822440238384
+    },
+    {
+      "frame": 77,
+      "audio_seconds": 2.566666666666667,
+      "audio_scroll_position_px": 320.83333333333337,
+      "beat_scroll_position_px": 265.1144271448397,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774818
+    },
+    {
+      "frame": 78,
+      "audio_seconds": 2.6,
+      "audio_scroll_position_px": 325,
+      "beat_scroll_position_px": 266.993510877098,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 79,
+      "audio_seconds": 2.6333333333333333,
+      "audio_scroll_position_px": 329.1666666666667,
+      "beat_scroll_position_px": 274.4024695928594,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 222.2687614728428
+    },
+    {
+      "frame": 80,
+      "audio_seconds": 2.6666666666666665,
+      "audio_scroll_position_px": 333.3333333333333,
+      "beat_scroll_position_px": 281.9188045218927,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 81,
+      "audio_seconds": 2.7,
+      "audio_scroll_position_px": 337.5,
+      "beat_scroll_position_px": 288.3383681296488,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 192.5869082326808
+    },
+    {
+      "frame": 82,
+      "audio_seconds": 2.7333333333333334,
+      "audio_scroll_position_px": 341.6666666666667,
+      "beat_scroll_position_px": 290.21745186190714,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 83,
+      "audio_seconds": 2.7666666666666666,
+      "audio_scroll_position_px": 345.8333333333333,
+      "beat_scroll_position_px": 296.6140062811048,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 191.89663257593122
+    },
+    {
+      "frame": 84,
+      "audio_seconds": 2.8,
+      "audio_scroll_position_px": 350,
+      "beat_scroll_position_px": 304.1303412101382,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 85,
+      "audio_seconds": 2.8333333333333335,
+      "audio_scroll_position_px": 354.1666666666667,
+      "beat_scroll_position_px": 307.635407600514,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 105.15199171126974
+    },
+    {
+      "frame": 86,
+      "audio_seconds": 2.8666666666666667,
+      "audio_scroll_position_px": 358.3333333333333,
+      "beat_scroll_position_px": 309.51449133277237,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775159
+    },
+    {
+      "frame": 87,
+      "audio_seconds": 2.9,
+      "audio_scroll_position_px": 362.5,
+      "beat_scroll_position_px": 311.3935750650307,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 88,
+      "audio_seconds": 2.933333333333333,
+      "audio_scroll_position_px": 366.66666666666663,
+      "beat_scroll_position_px": 318.4880748704957,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 212.8349941639518
+    },
+    {
+      "frame": 89,
+      "audio_seconds": 2.966666666666667,
+      "audio_scroll_position_px": 370.83333333333337,
+      "beat_scroll_position_px": 326.0044097995292,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100125
+    },
+    {
+      "frame": 90,
+      "audio_seconds": 3,
+      "audio_scroll_position_px": 375,
+      "beat_scroll_position_px": 332.7384323175815,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 202.0206755415701
+    },
+    {
+      "frame": 91,
+      "audio_seconds": 3.033333333333333,
+      "audio_scroll_position_px": 379.16666666666663,
+      "beat_scroll_position_px": 334.6175160498398,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 92,
+      "audio_seconds": 3.066666666666667,
+      "audio_scroll_position_px": 383.33333333333337,
+      "beat_scroll_position_px": 336.49659978209814,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 93,
+      "audio_seconds": 3.1,
+      "audio_scroll_position_px": 387.5,
+      "beat_scroll_position_px": 339.0378368295332,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 76.2371114230521
+    },
+    {
+      "frame": 94,
+      "audio_seconds": 3.1333333333333333,
+      "audio_scroll_position_px": 391.6666666666667,
+      "beat_scroll_position_px": 345.26054404629076,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 186.68121650272732
+    },
+    {
+      "frame": 95,
+      "audio_seconds": 3.1666666666666665,
+      "audio_scroll_position_px": 395.8333333333333,
+      "beat_scroll_position_px": 351.7900404438252,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 195.88489192603402
+    },
+    {
+      "frame": 96,
+      "audio_seconds": 3.2,
+      "audio_scroll_position_px": 400,
+      "beat_scroll_position_px": 354.4846720816487,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 80.83894913470289
+    },
+    {
+      "frame": 97,
+      "audio_seconds": 3.2333333333333334,
+      "audio_scroll_position_px": 404.1666666666667,
+      "beat_scroll_position_px": 357.3378114628736,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 85.59418143674834
+    },
+    {
+      "frame": 98,
+      "audio_seconds": 3.2666666666666666,
+      "audio_scroll_position_px": 408.3333333333333,
+      "beat_scroll_position_px": 364.85414639190685,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099784
+    },
+    {
+      "frame": 99,
+      "audio_seconds": 3.3,
+      "audio_scroll_position_px": 412.5,
+      "beat_scroll_position_px": 372.37048132094026,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 100,
+      "audio_seconds": 3.3333333333333335,
+      "audio_scroll_position_px": 416.6666666666667,
+      "beat_scroll_position_px": 377.7086130664579,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 160.1439523655256
+    },
+    {
+      "frame": 101,
+      "audio_seconds": 3.3666666666666667,
+      "audio_scroll_position_px": 420.8333333333333,
+      "beat_scroll_position_px": 379.5876967987162,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 102,
+      "audio_seconds": 3.4,
+      "audio_scroll_position_px": 425,
+      "beat_scroll_position_px": 381.4667805309745,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 103,
+      "audio_seconds": 3.433333333333333,
+      "audio_scroll_position_px": 429.16666666666663,
+      "beat_scroll_position_px": 386.72821498129787,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 157.84303350970106
+    },
+    {
+      "frame": 104,
+      "audio_seconds": 3.466666666666667,
+      "audio_scroll_position_px": 433.33333333333337,
+      "beat_scroll_position_px": 393.078751023379,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 190.51608126243377
+    },
+    {
+      "frame": 105,
+      "audio_seconds": 3.5,
+      "audio_scroll_position_px": 437.5,
+      "beat_scroll_position_px": 394.95783475563735,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 106,
+      "audio_seconds": 3.533333333333333,
+      "audio_scroll_position_px": 441.66666666666663,
+      "beat_scroll_position_px": 396.8369184878957,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 107,
+      "audio_seconds": 3.566666666666667,
+      "audio_scroll_position_px": 445.83333333333337,
+      "beat_scroll_position_px": 398.71600222015405,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 108,
+      "audio_seconds": 3.6,
+      "audio_scroll_position_px": 450,
+      "beat_scroll_position_px": 400.7484805428009,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 60.97434967940579
+    },
+    {
+      "frame": 109,
+      "audio_seconds": 3.6333333333333333,
+      "audio_scroll_position_px": 454.1666666666667,
+      "beat_scroll_position_px": 408.26481547183425,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100125
+    },
+    {
+      "frame": 110,
+      "audio_seconds": 3.6666666666666665,
+      "audio_scroll_position_px": 458.3333333333333,
+      "beat_scroll_position_px": 415.7811504008675,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099784
+    },
+    {
+      "frame": 111,
+      "audio_seconds": 3.7,
+      "audio_scroll_position_px": 462.5,
+      "beat_scroll_position_px": 421.93994320496324,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 184.76378412286815
+    },
+    {
+      "frame": 112,
+      "audio_seconds": 3.7333333333333334,
+      "audio_scroll_position_px": 466.6666666666667,
+      "beat_scroll_position_px": 423.8190269372216,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775159
+    },
+    {
+      "frame": 113,
+      "audio_seconds": 3.7666666666666666,
+      "audio_scroll_position_px": 470.8333333333333,
+      "beat_scroll_position_px": 425.69811066947995,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 114,
+      "audio_seconds": 3.8,
+      "audio_scroll_position_px": 475,
+      "beat_scroll_position_px": 427.57719440173827,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 115,
+      "audio_seconds": 3.8333333333333335,
+      "audio_scroll_position_px": 479.1666666666667,
+      "beat_scroll_position_px": 429.80141596237064,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 66.72664681897142
+    },
+    {
+      "frame": 116,
+      "audio_seconds": 3.8666666666666667,
+      "audio_scroll_position_px": 483.3333333333333,
+      "beat_scroll_position_px": 437.31775089140393,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 117,
+      "audio_seconds": 3.9,
+      "audio_scroll_position_px": 487.5,
+      "beat_scroll_position_px": 441.0682486264012,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 112.51493204991885
+    },
+    {
+      "frame": 118,
+      "audio_seconds": 3.933333333333333,
+      "audio_scroll_position_px": 491.66666666666663,
+      "beat_scroll_position_px": 444.4966177215826,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 102.8510728554418
+    },
+    {
+      "frame": 119,
+      "audio_seconds": 3.966666666666667,
+      "audio_scroll_position_px": 495.83333333333337,
+      "beat_scroll_position_px": 452.01295265061594,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099614
+    },
+    {
+      "frame": 120,
+      "audio_seconds": 4,
+      "audio_scroll_position_px": 500,
+      "beat_scroll_position_px": 459.52928757964935,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 121,
+      "audio_seconds": 4.033333333333333,
+      "audio_scroll_position_px": 504.16666666666663,
+      "beat_scroll_position_px": 467.0456225086827,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100125
+    },
+    {
+      "frame": 122,
+      "audio_seconds": 4.066666666666666,
+      "audio_scroll_position_px": 508.3333333333333,
+      "beat_scroll_position_px": 470.0981748574126,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 91.5765704618966
+    },
+    {
+      "frame": 123,
+      "audio_seconds": 4.1,
+      "audio_scroll_position_px": 512.5,
+      "beat_scroll_position_px": 471.977258589671,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677533
+    },
+    {
+      "frame": 124,
+      "audio_seconds": 4.133333333333334,
+      "audio_scroll_position_px": 516.6666666666667,
+      "beat_scroll_position_px": 473.887021240007,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 57.29287951008039
+    },
+    {
+      "frame": 125,
+      "audio_seconds": 4.166666666666667,
+      "audio_scroll_position_px": 520.8333333333334,
+      "beat_scroll_position_px": 481.40335616904036,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100125
+    },
+    {
+      "frame": 126,
+      "audio_seconds": 4.2,
+      "audio_scroll_position_px": 525,
+      "beat_scroll_position_px": 485.4683128143338,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 121.94869935880305
+    },
+    {
+      "frame": 127,
+      "audio_seconds": 4.233333333333333,
+      "audio_scroll_position_px": 529.1666666666666,
+      "beat_scroll_position_px": 487.3473965465921,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 128,
+      "audio_seconds": 4.266666666666667,
+      "audio_scroll_position_px": 533.3333333333334,
+      "beat_scroll_position_px": 489.2264802788505,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775159
+    },
+    {
+      "frame": 129,
+      "audio_seconds": 4.3,
+      "audio_scroll_position_px": 537.5,
+      "beat_scroll_position_px": 491.10556401110887,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775159
+    },
+    {
+      "frame": 130,
+      "audio_seconds": 4.333333333333333,
+      "audio_scroll_position_px": 541.6666666666666,
+      "beat_scroll_position_px": 495.42362173054323,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 129.54173158303138
+    },
+    {
+      "frame": 131,
+      "audio_seconds": 4.366666666666666,
+      "audio_scroll_position_px": 545.8333333333333,
+      "beat_scroll_position_px": 502.9399566595766,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100125
+    },
+    {
+      "frame": 132,
+      "audio_seconds": 4.4,
+      "audio_scroll_position_px": 550,
+      "beat_scroll_position_px": 508.5235197497157,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 167.50689270416788
+    },
+    {
+      "frame": 133,
+      "audio_seconds": 4.433333333333334,
+      "audio_scroll_position_px": 554.1666666666667,
+      "beat_scroll_position_px": 510.4026034819741,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775159
+    },
+    {
+      "frame": 134,
+      "audio_seconds": 4.466666666666667,
+      "audio_scroll_position_px": 558.3333333333334,
+      "beat_scroll_position_px": 512.2816872142323,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967746476
+    },
+    {
+      "frame": 135,
+      "audio_seconds": 4.5,
+      "audio_scroll_position_px": 562.5,
+      "beat_scroll_position_px": 515.2064107376385,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 87.74170570218675
+    },
+    {
+      "frame": 136,
+      "audio_seconds": 4.533333333333333,
+      "audio_scroll_position_px": 566.6666666666666,
+      "beat_scroll_position_px": 522.1960909063382,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 209.6904050609915
+    },
+    {
+      "frame": 137,
+      "audio_seconds": 4.566666666666666,
+      "audio_scroll_position_px": 570.8333333333333,
+      "beat_scroll_position_px": 529.7124258353715,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 138,
+      "audio_seconds": 4.6,
+      "audio_scroll_position_px": 575,
+      "beat_scroll_position_px": 532.887693856412,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 95.25804063121689
+    },
+    {
+      "frame": 139,
+      "audio_seconds": 4.633333333333334,
+      "audio_scroll_position_px": 579.1666666666667,
+      "beat_scroll_position_px": 534.7667775886705,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 140,
+      "audio_seconds": 4.666666666666667,
+      "audio_scroll_position_px": 583.3333333333334,
+      "beat_scroll_position_px": 536.6458613209289,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677533
+    },
+    {
+      "frame": 141,
+      "audio_seconds": 4.7,
+      "audio_scroll_position_px": 587.5,
+      "beat_scroll_position_px": 544.0701594957292,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 222.72894524400806
+    },
+    {
+      "frame": 142,
+      "audio_seconds": 4.733333333333333,
+      "audio_scroll_position_px": 591.6666666666666,
+      "beat_scroll_position_px": 551.5864944247625,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 143,
+      "audio_seconds": 4.766666666666667,
+      "audio_scroll_position_px": 595.8333333333334,
+      "beat_scroll_position_px": 554.0638170595357,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 74.31967904319804
+    },
+    {
+      "frame": 144,
+      "audio_seconds": 4.8,
+      "audio_scroll_position_px": 600,
+      "beat_scroll_position_px": 555.942900791794,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 145,
+      "audio_seconds": 4.833333333333333,
+      "audio_scroll_position_px": 604.1666666666666,
+      "beat_scroll_position_px": 557.8219845240525,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677533
+    },
+    {
+      "frame": 146,
+      "audio_seconds": 4.866666666666666,
+      "audio_scroll_position_px": 608.3333333333333,
+      "beat_scroll_position_px": 559.7010682563107,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967746476
+    },
+    {
+      "frame": 147,
+      "audio_seconds": 4.9,
+      "audio_scroll_position_px": 612.5,
+      "beat_scroll_position_px": 565.6067599862655,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 177.17075189864153
+    },
+    {
+      "frame": 148,
+      "audio_seconds": 4.933333333333334,
+      "audio_scroll_position_px": 616.6666666666667,
+      "beat_scroll_position_px": 573.1230949152988,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 149,
+      "audio_seconds": 4.966666666666667,
+      "audio_scroll_position_px": 620.8333333333334,
+      "beat_scroll_position_px": 577.1190239949176,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 119.87787238856455
+    },
+    {
+      "frame": 150,
+      "audio_seconds": 5,
+      "audio_scroll_position_px": 625,
+      "beat_scroll_position_px": 579.4327257332766,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 69.41105215076983
+    },
+    {
+      "frame": 151,
+      "audio_seconds": 5.033333333333333,
+      "audio_scroll_position_px": 629.1666666666666,
+      "beat_scroll_position_px": 582.1861586307489,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 82.60298692416912
+    },
+    {
+      "frame": 152,
+      "audio_seconds": 5.066666666666666,
+      "audio_scroll_position_px": 633.3333333333333,
+      "beat_scroll_position_px": 584.8628942330271,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 80.30206806834627
+    },
+    {
+      "frame": 153,
+      "audio_seconds": 5.1,
+      "audio_scroll_position_px": 637.5,
+      "beat_scroll_position_px": 592.3792291620604,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 154,
+      "audio_seconds": 5.133333333333334,
+      "audio_scroll_position_px": 641.6666666666667,
+      "beat_scroll_position_px": 599.6041143693557,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 216.746556218853
+    },
+    {
+      "frame": 155,
+      "audio_seconds": 5.166666666666667,
+      "audio_scroll_position_px": 645.8333333333334,
+      "beat_scroll_position_px": 601.4831981016141,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677533
+    },
+    {
+      "frame": 156,
+      "audio_seconds": 5.2,
+      "audio_scroll_position_px": 650,
+      "beat_scroll_position_px": 603.3622818338724,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 157,
+      "audio_seconds": 5.233333333333333,
+      "audio_scroll_position_px": 654.1666666666666,
+      "beat_scroll_position_px": 606.7369628224179,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 101.24042965636512
+    },
+    {
+      "frame": 158,
+      "audio_seconds": 5.266666666666667,
+      "audio_scroll_position_px": 658.3333333333334,
+      "beat_scroll_position_px": 614.2532977514513,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 159,
+      "audio_seconds": 5.3,
+      "audio_scroll_position_px": 662.5,
+      "beat_scroll_position_px": 620.7802375724792,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 195.80819463083753
+    },
+    {
+      "frame": 160,
+      "audio_seconds": 5.333333333333333,
+      "audio_scroll_position_px": 666.6666666666666,
+      "beat_scroll_position_px": 622.6593213047375,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 161,
+      "audio_seconds": 5.366666666666666,
+      "audio_scroll_position_px": 670.8333333333333,
+      "beat_scroll_position_px": 628.9484995106635,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 188.6753461777796
+    },
+    {
+      "frame": 162,
+      "audio_seconds": 5.4,
+      "audio_scroll_position_px": 675,
+      "beat_scroll_position_px": 636.4648344396969,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099614
+    },
+    {
+      "frame": 163,
+      "audio_seconds": 5.433333333333334,
+      "audio_scroll_position_px": 679.1666666666667,
+      "beat_scroll_position_px": 643.9811693687302,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 164,
+      "audio_seconds": 5.466666666666667,
+      "audio_scroll_position_px": 683.3333333333334,
+      "beat_scroll_position_px": 645.8832622895468,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 57.062787624497766
+    },
+    {
+      "frame": 165,
+      "audio_seconds": 5.5,
+      "audio_scroll_position_px": 687.5,
+      "beat_scroll_position_px": 647.7623460218051,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 166,
+      "audio_seconds": 5.533333333333333,
+      "audio_scroll_position_px": 691.6666666666666,
+      "beat_scroll_position_px": 650.8225681000544,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 91.80666234747751
+    },
+    {
+      "frame": 167,
+      "audio_seconds": 5.566666666666666,
+      "audio_scroll_position_px": 695.8333333333333,
+      "beat_scroll_position_px": 658.3389030290876,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 168,
+      "audio_seconds": 5.6,
+      "audio_scroll_position_px": 700,
+      "beat_scroll_position_px": 665.4052804929817,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 211.99132391682116
+    },
+    {
+      "frame": 169,
+      "audio_seconds": 5.633333333333334,
+      "audio_scroll_position_px": 704.1666666666667,
+      "beat_scroll_position_px": 670.7536385445253,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 160.450741546303
+    },
+    {
+      "frame": 170,
+      "audio_seconds": 5.666666666666667,
+      "audio_scroll_position_px": 708.3333333333334,
+      "beat_scroll_position_px": 678.2699734735586,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 171,
+      "audio_seconds": 5.7,
+      "audio_scroll_position_px": 712.5,
+      "beat_scroll_position_px": 685.7863084025919,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 172,
+      "audio_seconds": 5.733333333333333,
+      "audio_scroll_position_px": 716.6666666666666,
+      "beat_scroll_position_px": 689.7132099165358,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 117.80704541831751
+    },
+    {
+      "frame": 173,
+      "audio_seconds": 5.766666666666667,
+      "audio_scroll_position_px": 720.8333333333334,
+      "beat_scroll_position_px": 691.5922936487941,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 174,
+      "audio_seconds": 5.8,
+      "audio_scroll_position_px": 725,
+      "beat_scroll_position_px": 693.4713773810524,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 175,
+      "audio_seconds": 5.833333333333333,
+      "audio_scroll_position_px": 729.1666666666666,
+      "beat_scroll_position_px": 695.3504611133108,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 176,
+      "audio_seconds": 5.866666666666666,
+      "audio_scroll_position_px": 733.3333333333333,
+      "beat_scroll_position_px": 699.8065739640947,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 133.68338552351864
+    },
+    {
+      "frame": 177,
+      "audio_seconds": 5.9,
+      "audio_scroll_position_px": 737.5,
+      "beat_scroll_position_px": 706.9624316057154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 214.6757292486162
+    },
+    {
+      "frame": 178,
+      "audio_seconds": 5.933333333333334,
+      "audio_scroll_position_px": 741.6666666666667,
+      "beat_scroll_position_px": 708.8415153379738,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 179,
+      "audio_seconds": 5.966666666666667,
+      "audio_scroll_position_px": 745.8333333333334,
+      "beat_scroll_position_px": 710.7205990702321,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 180,
+      "audio_seconds": 6,
+      "audio_scroll_position_px": 750,
+      "beat_scroll_position_px": 712.5996828024903,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967746476
+    },
+    {
+      "frame": 181,
+      "audio_seconds": 6.033333333333333,
+      "audio_scroll_position_px": 754.1666666666666,
+      "beat_scroll_position_px": 714.4787665347486,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 182,
+      "audio_seconds": 6.066666666666666,
+      "audio_scroll_position_px": 758.3333333333333,
+      "beat_scroll_position_px": 721.3431744546313,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 205.93223759647987
+    },
+    {
+      "frame": 183,
+      "audio_seconds": 6.1,
+      "audio_scroll_position_px": 762.5,
+      "beat_scroll_position_px": 727.0136611459903,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 170.11460074077323
+    },
+    {
+      "frame": 184,
+      "audio_seconds": 6.133333333333334,
+      "audio_scroll_position_px": 766.6666666666667,
+      "beat_scroll_position_px": 733.2056894446702,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 185.7608489603883
+    },
+    {
+      "frame": 185,
+      "audio_seconds": 6.166666666666667,
+      "audio_scroll_position_px": 770.8333333333334,
+      "beat_scroll_position_px": 735.0847731769286,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677533
+    },
+    {
+      "frame": 186,
+      "audio_seconds": 6.2,
+      "audio_scroll_position_px": 775,
+      "beat_scroll_position_px": 740.9367768002475,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 175.56010869956657
+    },
+    {
+      "frame": 187,
+      "audio_seconds": 6.233333333333333,
+      "audio_scroll_position_px": 779.1666666666666,
+      "beat_scroll_position_px": 748.4531117292807,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 188,
+      "audio_seconds": 6.266666666666667,
+      "audio_scroll_position_px": 783.3333333333334,
+      "beat_scroll_position_px": 752.5027289155354,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 121.48851558763951
+    },
+    {
+      "frame": 189,
+      "audio_seconds": 6.3,
+      "audio_scroll_position_px": 787.5,
+      "beat_scroll_position_px": 754.3818126477937,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 190,
+      "audio_seconds": 6.333333333333333,
+      "audio_scroll_position_px": 791.6666666666666,
+      "beat_scroll_position_px": 756.260896380052,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 191,
+      "audio_seconds": 6.366666666666666,
+      "audio_scroll_position_px": 795.8333333333333,
+      "beat_scroll_position_px": 758.1399801123104,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 192,
+      "audio_seconds": 6.4,
+      "audio_scroll_position_px": 800,
+      "beat_scroll_position_px": 760.8371683266405,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 80.91564642989766
+    },
+    {
+      "frame": 193,
+      "audio_seconds": 6.433333333333334,
+      "audio_scroll_position_px": 804.1666666666667,
+      "beat_scroll_position_px": 767.3717778771877,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 196.03828651641678
+    },
+    {
+      "frame": 194,
+      "audio_seconds": 6.466666666666667,
+      "audio_scroll_position_px": 808.3333333333334,
+      "beat_scroll_position_px": 774.8881128062211,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 195,
+      "audio_seconds": 6.5,
+      "audio_scroll_position_px": 812.5,
+      "beat_scroll_position_px": 778.7459867544903,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 115.73621844807731
+    },
+    {
+      "frame": 196,
+      "audio_seconds": 6.533333333333333,
+      "audio_scroll_position_px": 816.6666666666666,
+      "beat_scroll_position_px": 781.1057068699656,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 70.79160346425877
+    },
+    {
+      "frame": 197,
+      "audio_seconds": 6.566666666666666,
+      "audio_scroll_position_px": 820.8333333333333,
+      "beat_scroll_position_px": 786.9653802228038,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 175.79020058514578
+    },
+    {
+      "frame": 198,
+      "audio_seconds": 6.6,
+      "audio_scroll_position_px": 825,
+      "beat_scroll_position_px": 794.4817151518372,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 199,
+      "audio_seconds": 6.633333333333334,
+      "audio_scroll_position_px": 829.1666666666667,
+      "beat_scroll_position_px": 799.3519933966702,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 146.10834734498377
+    },
+    {
+      "frame": 200,
+      "audio_seconds": 6.666666666666667,
+      "audio_scroll_position_px": 833.3333333333334,
+      "beat_scroll_position_px": 801.2310771289285,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 201,
+      "audio_seconds": 6.7,
+      "audio_scroll_position_px": 837.5,
+      "beat_scroll_position_px": 803.1101608611868,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 202,
+      "audio_seconds": 6.733333333333333,
+      "audio_scroll_position_px": 841.6666666666666,
+      "beat_scroll_position_px": 804.9892445934452,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 203,
+      "audio_seconds": 6.766666666666667,
+      "audio_scroll_position_px": 845.8333333333334,
+      "beat_scroll_position_px": 808.5019807133403,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 105.38208359685578
+    },
+    {
+      "frame": 204,
+      "audio_seconds": 6.8,
+      "audio_scroll_position_px": 850,
+      "beat_scroll_position_px": 816.0183156423735,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099614
+    },
+    {
+      "frame": 205,
+      "audio_seconds": 6.833333333333333,
+      "audio_scroll_position_px": 854.1666666666666,
+      "beat_scroll_position_px": 822.4072003320518,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 191.6665406903503
+    },
+    {
+      "frame": 206,
+      "audio_seconds": 6.866666666666666,
+      "audio_scroll_position_px": 858.3333333333333,
+      "beat_scroll_position_px": 824.2862840643102,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 207,
+      "audio_seconds": 6.9,
+      "audio_scroll_position_px": 862.5,
+      "beat_scroll_position_px": 828.0955830589564,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 114.27896983938508
+    },
+    {
+      "frame": 208,
+      "audio_seconds": 6.933333333333334,
+      "audio_scroll_position_px": 866.6666666666667,
+      "beat_scroll_position_px": 835.6119179879898,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 209,
+      "audio_seconds": 6.966666666666667,
+      "audio_scroll_position_px": 870.8333333333334,
+      "beat_scroll_position_px": 843.0132069742319,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 222.0386695872636
+    },
+    {
+      "frame": 210,
+      "audio_seconds": 7,
+      "audio_scroll_position_px": 875,
+      "beat_scroll_position_px": 844.89229070649,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 211,
+      "audio_seconds": 7.033333333333333,
+      "audio_scroll_position_px": 879.1666666666666,
+      "beat_scroll_position_px": 846.7713744387486,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 212,
+      "audio_seconds": 7.066666666666666,
+      "audio_scroll_position_px": 883.3333333333333,
+      "beat_scroll_position_px": 849.9696516483474,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 95.94831628796476
+    },
+    {
+      "frame": 213,
+      "audio_seconds": 7.1,
+      "audio_scroll_position_px": 887.5,
+      "beat_scroll_position_px": 857.4859865773806,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099614
+    },
+    {
+      "frame": 214,
+      "audio_seconds": 7.133333333333334,
+      "audio_scroll_position_px": 891.6666666666667,
+      "beat_scroll_position_px": 864.1893301773554,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 201.1003079992379
+    },
+    {
+      "frame": 215,
+      "audio_seconds": 7.166666666666667,
+      "audio_scroll_position_px": 895.8333333333334,
+      "beat_scroll_position_px": 866.0684139096137,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 216,
+      "audio_seconds": 7.2,
+      "audio_scroll_position_px": 900,
+      "beat_scroll_position_px": 867.947497641872,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 217,
+      "audio_seconds": 7.233333333333333,
+      "audio_scroll_position_px": 904.1666666666666,
+      "beat_scroll_position_px": 871.8437202377382,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 116.88667787598702
+    },
+    {
+      "frame": 218,
+      "audio_seconds": 7.266666666666667,
+      "audio_scroll_position_px": 908.3333333333334,
+      "beat_scroll_position_px": 879.3600551667716,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 219,
+      "audio_seconds": 7.3,
+      "audio_scroll_position_px": 912.5,
+      "beat_scroll_position_px": 885.3654533804789,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 180.16194641121908
+    },
+    {
+      "frame": 220,
+      "audio_seconds": 7.333333333333333,
+      "audio_scroll_position_px": 916.6666666666666,
+      "beat_scroll_position_px": 887.2445371127374,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677533
+    },
+    {
+      "frame": 221,
+      "audio_seconds": 7.366666666666666,
+      "audio_scroll_position_px": 920.8333333333333,
+      "beat_scroll_position_px": 889.1236208449956,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967746476
+    },
+    {
+      "frame": 222,
+      "audio_seconds": 7.4,
+      "audio_scroll_position_px": 925,
+      "beat_scroll_position_px": 891.0027045772538,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 223,
+      "audio_seconds": 7.433333333333334,
+      "audio_scroll_position_px": 929.1666666666667,
+      "beat_scroll_position_px": 892.8817883095123,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 224,
+      "audio_seconds": 7.466666666666667,
+      "audio_scroll_position_px": 933.3333333333334,
+      "beat_scroll_position_px": 894.7608720417704,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 225,
+      "audio_seconds": 7.5,
+      "audio_scroll_position_px": 937.5,
+      "beat_scroll_position_px": 896.639955774029,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 226,
+      "audio_seconds": 7.533333333333333,
+      "audio_scroll_position_px": 941.6666666666666,
+      "beat_scroll_position_px": 898.5190395062873,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 227,
+      "audio_seconds": 7.566666666666666,
+      "audio_scroll_position_px": 945.8333333333333,
+      "beat_scroll_position_px": 900.3981232385455,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967746476
+    },
+    {
+      "frame": 228,
+      "audio_seconds": 7.6,
+      "audio_scroll_position_px": 950,
+      "beat_scroll_position_px": 902.2772069708041,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 229,
+      "audio_seconds": 7.633333333333334,
+      "audio_scroll_position_px": 954.1666666666667,
+      "beat_scroll_position_px": 904.1562907030624,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 230,
+      "audio_seconds": 7.666666666666667,
+      "audio_scroll_position_px": 958.3333333333334,
+      "beat_scroll_position_px": 906.7256500920686,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 77.08078167018611
+    },
+    {
+      "frame": 231,
+      "audio_seconds": 7.7,
+      "audio_scroll_position_px": 962.5,
+      "beat_scroll_position_px": 912.6415681280491,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 177.47754107941722
+    },
+    {
+      "frame": 232,
+      "audio_seconds": 7.733333333333333,
+      "audio_scroll_position_px": 966.6666666666666,
+      "beat_scroll_position_px": 915.0294105850958,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 71.6352737113996
+    },
+    {
+      "frame": 233,
+      "audio_seconds": 7.766666666666667,
+      "audio_scroll_position_px": 970.8333333333334,
+      "beat_scroll_position_px": 918.8029175086514,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 113.20520770666843
+    },
+    {
+      "frame": 234,
+      "audio_seconds": 7.8,
+      "audio_scroll_position_px": 975,
+      "beat_scroll_position_px": 926.3192524376846,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099614
+    },
+    {
+      "frame": 235,
+      "audio_seconds": 7.833333333333333,
+      "audio_scroll_position_px": 979.1666666666666,
+      "beat_scroll_position_px": 933.8355873667178,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 236,
+      "audio_seconds": 7.866666666666666,
+      "audio_scroll_position_px": 983.3333333333333,
+      "beat_scroll_position_px": 941.3519222957513,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 237,
+      "audio_seconds": 7.9,
+      "audio_scroll_position_px": 987.5,
+      "beat_scroll_position_px": 948.8682572247849,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 238,
+      "audio_seconds": 7.933333333333334,
+      "audio_scroll_position_px": 991.6666666666667,
+      "beat_scroll_position_px": 956.3845921538181,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099614
+    },
+    {
+      "frame": 239,
+      "audio_seconds": 7.966666666666667,
+      "audio_scroll_position_px": 995.8333333333334,
+      "beat_scroll_position_px": 959.5982088224558,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 96.40850005913342
+    },
+    {
+      "frame": 240,
+      "audio_seconds": 8,
+      "audio_scroll_position_px": 1000,
+      "beat_scroll_position_px": 963.5634589839967,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 118.95750484622724
+    },
+    {
+      "frame": 241,
+      "audio_seconds": 8.033333333333333,
+      "audio_scroll_position_px": 1004.1666666666666,
+      "beat_scroll_position_px": 971.0797939130304,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100978
+    },
+    {
+      "frame": 242,
+      "audio_seconds": 8.066666666666666,
+      "audio_scroll_position_px": 1008.3333333333333,
+      "beat_scroll_position_px": 974.3982302184334,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 99.55308916209027
+    },
+    {
+      "frame": 243,
+      "audio_seconds": 8.1,
+      "audio_scroll_position_px": 1012.5,
+      "beat_scroll_position_px": 976.2773139506917,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 244,
+      "audio_seconds": 8.133333333333333,
+      "audio_scroll_position_px": 1016.6666666666666,
+      "beat_scroll_position_px": 978.15639768295,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 245,
+      "audio_seconds": 8.166666666666666,
+      "audio_scroll_position_px": 1020.8333333333333,
+      "beat_scroll_position_px": 982.8195932307583,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 139.89586643424948
+    },
+    {
+      "frame": 246,
+      "audio_seconds": 8.2,
+      "audio_scroll_position_px": 1025,
+      "beat_scroll_position_px": 990.3359281597916,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 247,
+      "audio_seconds": 8.233333333333333,
+      "audio_scroll_position_px": 1029.1666666666665,
+      "beat_scroll_position_px": 997.852263088825,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100296
+    },
+    {
+      "frame": 248,
+      "audio_seconds": 8.266666666666667,
+      "audio_scroll_position_px": 1033.3333333333335,
+      "beat_scroll_position_px": 1001.3803386677594,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 105.84226736801762
+    },
+    {
+      "frame": 249,
+      "audio_seconds": 8.3,
+      "audio_scroll_position_px": 1037.5,
+      "beat_scroll_position_px": 1003.2594224000177,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 250,
+      "audio_seconds": 8.333333333333334,
+      "audio_scroll_position_px": 1041.6666666666667,
+      "beat_scroll_position_px": 1005.1385061322759,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967746476
+    },
+    {
+      "frame": 251,
+      "audio_seconds": 8.366666666666667,
+      "audio_scroll_position_px": 1045.8333333333335,
+      "beat_scroll_position_px": 1007.0175898645342,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 252,
+      "audio_seconds": 8.4,
+      "audio_scroll_position_px": 1050,
+      "beat_scroll_position_px": 1008.8966735967924,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967746476
+    },
+    {
+      "frame": 253,
+      "audio_seconds": 8.433333333333334,
+      "audio_scroll_position_px": 1054.1666666666667,
+      "beat_scroll_position_px": 1010.775757329051,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 254,
+      "audio_seconds": 8.466666666666667,
+      "audio_scroll_position_px": 1058.3333333333333,
+      "beat_scroll_position_px": 1012.6548410613091,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 255,
+      "audio_seconds": 8.5,
+      "audio_scroll_position_px": 1062.5,
+      "beat_scroll_position_px": 1018.7139273816524,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 181.77258961030086
+    },
+    {
+      "frame": 256,
+      "audio_seconds": 8.533333333333333,
+      "audio_scroll_position_px": 1066.6666666666667,
+      "beat_scroll_position_px": 1026.2302623106855,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 257,
+      "audio_seconds": 8.566666666666666,
+      "audio_scroll_position_px": 1070.8333333333333,
+      "beat_scroll_position_px": 1033.746597239719,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 258,
+      "audio_seconds": 8.6,
+      "audio_scroll_position_px": 1075,
+      "beat_scroll_position_px": 1035.8787820461182,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 63.965544191976505
+    },
+    {
+      "frame": 259,
+      "audio_seconds": 8.633333333333333,
+      "audio_scroll_position_px": 1079.1666666666665,
+      "beat_scroll_position_px": 1040.925464069898,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 151.40046071339438
+    },
+    {
+      "frame": 260,
+      "audio_seconds": 8.666666666666666,
+      "audio_scroll_position_px": 1083.3333333333333,
+      "beat_scroll_position_px": 1048.441798998931,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 261,
+      "audio_seconds": 8.7,
+      "audio_scroll_position_px": 1087.5,
+      "beat_scroll_position_px": 1055.9581339279644,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 262,
+      "audio_seconds": 8.733333333333333,
+      "audio_scroll_position_px": 1091.6666666666665,
+      "beat_scroll_position_px": 1063.0296245448715,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 212.14471850721415
+    },
+    {
+      "frame": 263,
+      "audio_seconds": 8.766666666666667,
+      "audio_scroll_position_px": 1095.8333333333335,
+      "beat_scroll_position_px": 1064.9087082771296,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 264,
+      "audio_seconds": 8.8,
+      "audio_scroll_position_px": 1100,
+      "beat_scroll_position_px": 1066.787792009388,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 265,
+      "audio_seconds": 8.833333333333334,
+      "audio_scroll_position_px": 1104.1666666666667,
+      "beat_scroll_position_px": 1068.6668757416464,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 266,
+      "audio_seconds": 8.866666666666667,
+      "audio_scroll_position_px": 1108.3333333333335,
+      "beat_scroll_position_px": 1070.545959473905,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 267,
+      "audio_seconds": 8.9,
+      "audio_scroll_position_px": 1112.5,
+      "beat_scroll_position_px": 1072.425043206163,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 268,
+      "audio_seconds": 8.933333333333334,
+      "audio_scroll_position_px": 1116.6666666666667,
+      "beat_scroll_position_px": 1074.3041269384214,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 269,
+      "audio_seconds": 8.966666666666667,
+      "audio_scroll_position_px": 1120.8333333333333,
+      "beat_scroll_position_px": 1076.18321067068,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 270,
+      "audio_seconds": 9,
+      "audio_scroll_position_px": 1125,
+      "beat_scroll_position_px": 1078.0622944029383,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 271,
+      "audio_seconds": 9.033333333333333,
+      "audio_scroll_position_px": 1129.1666666666667,
+      "beat_scroll_position_px": 1083.9986650509704,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 178.0911194409652
+    },
+    {
+      "frame": 272,
+      "audio_seconds": 9.066666666666666,
+      "audio_scroll_position_px": 1133.3333333333333,
+      "beat_scroll_position_px": 1089.6742648953427,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 170.2679953311696
+    },
+    {
+      "frame": 273,
+      "audio_seconds": 9.1,
+      "audio_scroll_position_px": 1137.5,
+      "beat_scroll_position_px": 1091.553348627601,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 274,
+      "audio_seconds": 9.133333333333333,
+      "audio_scroll_position_px": 1141.6666666666665,
+      "beat_scroll_position_px": 1098.6938668101825,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 214.21554547744412
+    },
+    {
+      "frame": 275,
+      "audio_seconds": 9.166666666666666,
+      "audio_scroll_position_px": 1145.8333333333333,
+      "beat_scroll_position_px": 1106.210201739216,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 276,
+      "audio_seconds": 9.2,
+      "audio_scroll_position_px": 1150,
+      "beat_scroll_position_px": 1108.971304366208,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 82.83307880975856
+    },
+    {
+      "frame": 277,
+      "audio_seconds": 9.233333333333333,
+      "audio_scroll_position_px": 1154.1666666666665,
+      "beat_scroll_position_px": 1113.3890685693946,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 132.5329260955987
+    },
+    {
+      "frame": 278,
+      "audio_seconds": 9.266666666666667,
+      "audio_scroll_position_px": 1158.3333333333335,
+      "beat_scroll_position_px": 1120.9054034984283,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 279,
+      "audio_seconds": 9.3,
+      "audio_scroll_position_px": 1162.5,
+      "beat_scroll_position_px": 1128.4217384274616,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 280,
+      "audio_seconds": 9.333333333333334,
+      "audio_scroll_position_px": 1166.6666666666667,
+      "beat_scroll_position_px": 1135.9380733564951,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 281,
+      "audio_seconds": 9.366666666666667,
+      "audio_scroll_position_px": 1170.8333333333335,
+      "beat_scroll_position_px": 1138.0012305972195,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 61.89471722173288
+    },
+    {
+      "frame": 282,
+      "audio_seconds": 9.4,
+      "audio_scroll_position_px": 1175,
+      "beat_scroll_position_px": 1139.8803143294776,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 283,
+      "audio_seconds": 9.433333333333334,
+      "audio_scroll_position_px": 1179.1666666666667,
+      "beat_scroll_position_px": 1142.7794720878192,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 86.9747327502458
+    },
+    {
+      "frame": 284,
+      "audio_seconds": 9.466666666666667,
+      "audio_scroll_position_px": 1183.3333333333333,
+      "beat_scroll_position_px": 1148.4755245442432,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 170.881573692721
+    },
+    {
+      "frame": 285,
+      "audio_seconds": 9.5,
+      "audio_scroll_position_px": 1187.5,
+      "beat_scroll_position_px": 1150.7534342115111,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 68.33729001803955
+    },
+    {
+      "frame": 286,
+      "audio_seconds": 9.533333333333333,
+      "audio_scroll_position_px": 1191.6666666666667,
+      "beat_scroll_position_px": 1152.6325179437695,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 287,
+      "audio_seconds": 9.566666666666666,
+      "audio_scroll_position_px": 1195.8333333333333,
+      "beat_scroll_position_px": 1154.5116016760278,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 288,
+      "audio_seconds": 9.6,
+      "audio_scroll_position_px": 1200,
+      "beat_scroll_position_px": 1156.3906854082863,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 289,
+      "audio_seconds": 9.633333333333333,
+      "audio_scroll_position_px": 1204.1666666666665,
+      "beat_scroll_position_px": 1161.698138235726,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 159.22358482318998
+    },
+    {
+      "frame": 290,
+      "audio_seconds": 9.666666666666666,
+      "audio_scroll_position_px": 1208.3333333333333,
+      "beat_scroll_position_px": 1169.2144731647593,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 291,
+      "audio_seconds": 9.7,
+      "audio_scroll_position_px": 1212.5,
+      "beat_scroll_position_px": 1176.7308080937928,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 292,
+      "audio_seconds": 9.733333333333333,
+      "audio_scroll_position_px": 1216.6666666666665,
+      "beat_scroll_position_px": 1184.2471430228259,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 293,
+      "audio_seconds": 9.766666666666667,
+      "audio_scroll_position_px": 1220.8333333333335,
+      "beat_scroll_position_px": 1191.7634779518598,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 294,
+      "audio_seconds": 9.8,
+      "audio_scroll_position_px": 1225,
+      "beat_scroll_position_px": 1199.1468709025562,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 221.50178852089164
+    },
+    {
+      "frame": 295,
+      "audio_seconds": 9.833333333333334,
+      "audio_scroll_position_px": 1229.1666666666667,
+      "beat_scroll_position_px": 1204.1782134672967,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 150.9402769422155
+    },
+    {
+      "frame": 296,
+      "audio_seconds": 9.866666666666667,
+      "audio_scroll_position_px": 1233.3333333333335,
+      "beat_scroll_position_px": 1211.6945483963304,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710132
+    },
+    {
+      "frame": 297,
+      "audio_seconds": 9.9,
+      "audio_scroll_position_px": 1237.5,
+      "beat_scroll_position_px": 1219.2108833253635,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 298,
+      "audio_seconds": 9.933333333333334,
+      "audio_scroll_position_px": 1241.6666666666667,
+      "beat_scroll_position_px": 1226.7272182543973,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710132
+    },
+    {
+      "frame": 299,
+      "audio_seconds": 9.966666666666667,
+      "audio_scroll_position_px": 1245.8333333333333,
+      "beat_scroll_position_px": 1229.4192933157142,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 80.76225183950811
+    },
+    {
+      "frame": 300,
+      "audio_seconds": 10,
+      "audio_scroll_position_px": 1250,
+      "beat_scroll_position_px": 1231.2983770479725,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 301,
+      "audio_seconds": 10.033333333333333,
+      "audio_scroll_position_px": 1254.1666666666667,
+      "beat_scroll_position_px": 1233.1774607802306,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 302,
+      "audio_seconds": 10.066666666666666,
+      "audio_scroll_position_px": 1258.3333333333333,
+      "beat_scroll_position_px": 1235.056544512489,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 303,
+      "audio_seconds": 10.1,
+      "audio_scroll_position_px": 1262.5,
+      "beat_scroll_position_px": 1236.9356282447472,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 304,
+      "audio_seconds": 10.133333333333333,
+      "audio_scroll_position_px": 1266.6666666666665,
+      "beat_scroll_position_px": 1238.8147119770056,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 305,
+      "audio_seconds": 10.166666666666666,
+      "audio_scroll_position_px": 1270.8333333333333,
+      "beat_scroll_position_px": 1240.693795709264,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 306,
+      "audio_seconds": 10.2,
+      "audio_scroll_position_px": 1275,
+      "beat_scroll_position_px": 1242.5728794415222,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 307,
+      "audio_seconds": 10.233333333333333,
+      "audio_scroll_position_px": 1279.1666666666665,
+      "beat_scroll_position_px": 1244.4519631737805,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 308,
+      "audio_seconds": 10.266666666666667,
+      "audio_scroll_position_px": 1283.3333333333335,
+      "beat_scroll_position_px": 1246.3310469060389,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 309,
+      "audio_seconds": 10.3,
+      "audio_scroll_position_px": 1287.5,
+      "beat_scroll_position_px": 1248.2101306382974,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 310,
+      "audio_seconds": 10.333333333333334,
+      "audio_scroll_position_px": 1291.6666666666667,
+      "beat_scroll_position_px": 1250.0892143705557,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 311,
+      "audio_seconds": 10.366666666666667,
+      "audio_scroll_position_px": 1295.8333333333335,
+      "beat_scroll_position_px": 1251.968298102814,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 312,
+      "audio_seconds": 10.4,
+      "audio_scroll_position_px": 1300,
+      "beat_scroll_position_px": 1253.8473818350724,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 313,
+      "audio_seconds": 10.433333333333334,
+      "audio_scroll_position_px": 1304.1666666666667,
+      "beat_scroll_position_px": 1255.7264655673307,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 314,
+      "audio_seconds": 10.466666666666667,
+      "audio_scroll_position_px": 1308.3333333333333,
+      "beat_scroll_position_px": 1257.605549299589,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 315,
+      "audio_seconds": 10.5,
+      "audio_scroll_position_px": 1312.5,
+      "beat_scroll_position_px": 1259.4846330318471,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 316,
+      "audio_seconds": 10.533333333333333,
+      "audio_scroll_position_px": 1316.6666666666667,
+      "beat_scroll_position_px": 1261.3637167641057,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 317,
+      "audio_seconds": 10.566666666666666,
+      "audio_scroll_position_px": 1320.8333333333333,
+      "beat_scroll_position_px": 1263.242800496364,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 318,
+      "audio_seconds": 10.6,
+      "audio_scroll_position_px": 1325,
+      "beat_scroll_position_px": 1267.100674444633,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 115.73621844806708
+    },
+    {
+      "frame": 319,
+      "audio_seconds": 10.633333333333333,
+      "audio_scroll_position_px": 1329.1666666666665,
+      "beat_scroll_position_px": 1274.6170093736666,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710132
+    },
+    {
+      "frame": 320,
+      "audio_seconds": 10.666666666666666,
+      "audio_scroll_position_px": 1333.3333333333333,
+      "beat_scroll_position_px": 1282.1333443026997,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 321,
+      "audio_seconds": 10.7,
+      "audio_scroll_position_px": 1337.5,
+      "beat_scroll_position_px": 1289.6496792317328,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 322,
+      "audio_seconds": 10.733333333333333,
+      "audio_scroll_position_px": 1341.6666666666665,
+      "beat_scroll_position_px": 1296.1996282413195,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 196.4984702876025
+    },
+    {
+      "frame": 323,
+      "audio_seconds": 10.766666666666667,
+      "audio_scroll_position_px": 1345.8333333333335,
+      "beat_scroll_position_px": 1298.0787119735778,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 324,
+      "audio_seconds": 10.8,
+      "audio_scroll_position_px": 1350,
+      "beat_scroll_position_px": 1304.3448809909453,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 187.98507052102488
+    },
+    {
+      "frame": 325,
+      "audio_seconds": 10.833333333333334,
+      "audio_scroll_position_px": 1354.1666666666667,
+      "beat_scroll_position_px": 1311.8612159199788,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 326,
+      "audio_seconds": 10.866666666666667,
+      "audio_scroll_position_px": 1358.3333333333335,
+      "beat_scroll_position_px": 1315.4966677121847,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 109.06355376617778
+    },
+    {
+      "frame": 327,
+      "audio_seconds": 10.9,
+      "audio_scroll_position_px": 1362.5,
+      "beat_scroll_position_px": 1317.3757514444428,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 328,
+      "audio_seconds": 10.933333333333334,
+      "audio_scroll_position_px": 1366.6666666666667,
+      "beat_scroll_position_px": 1319.2548351767014,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 329,
+      "audio_seconds": 10.966666666666667,
+      "audio_scroll_position_px": 1370.8333333333333,
+      "beat_scroll_position_px": 1321.1339189089597,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 330,
+      "audio_seconds": 11,
+      "audio_scroll_position_px": 1375,
+      "beat_scroll_position_px": 1323.013002641218,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 331,
+      "audio_seconds": 11.033333333333333,
+      "audio_scroll_position_px": 1379.1666666666667,
+      "beat_scroll_position_px": 1324.8920863734763,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 332,
+      "audio_seconds": 11.066666666666666,
+      "audio_scroll_position_px": 1383.3333333333333,
+      "beat_scroll_position_px": 1326.7711701057344,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 333,
+      "audio_seconds": 11.1,
+      "audio_scroll_position_px": 1387.5,
+      "beat_scroll_position_px": 1328.6502538379928,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 334,
+      "audio_seconds": 11.133333333333333,
+      "audio_scroll_position_px": 1391.6666666666665,
+      "beat_scroll_position_px": 1332.3854121139511,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 112.0547482787519
+    },
+    {
+      "frame": 335,
+      "audio_seconds": 11.166666666666666,
+      "audio_scroll_position_px": 1395.8333333333333,
+      "beat_scroll_position_px": 1339.9017470429844,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 336,
+      "audio_seconds": 11.2,
+      "audio_scroll_position_px": 1400,
+      "beat_scroll_position_px": 1347.4180819720177,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 337,
+      "audio_seconds": 11.233333333333333,
+      "audio_scroll_position_px": 1404.1666666666665,
+      "beat_scroll_position_px": 1354.9344169010512,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 338,
+      "audio_seconds": 11.266666666666667,
+      "audio_scroll_position_px": 1408.3333333333335,
+      "beat_scroll_position_px": 1362.4507518300848,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 339,
+      "audio_seconds": 11.3,
+      "audio_scroll_position_px": 1412.5,
+      "beat_scroll_position_px": 1369.967086759118,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 340,
+      "audio_seconds": 11.333333333333334,
+      "audio_scroll_position_px": 1416.6666666666667,
+      "beat_scroll_position_px": 1377.4834216881516,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 341,
+      "audio_seconds": 11.366666666666667,
+      "audio_scroll_position_px": 1420.8333333333335,
+      "beat_scroll_position_px": 1384.9997566171849,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 342,
+      "audio_seconds": 11.4,
+      "audio_scroll_position_px": 1425,
+      "beat_scroll_position_px": 1392.516091546218,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 343,
+      "audio_seconds": 11.433333333333334,
+      "audio_scroll_position_px": 1429.1666666666667,
+      "beat_scroll_position_px": 1398.4908108418476,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 179.24157886889196
+    },
+    {
+      "frame": 344,
+      "audio_seconds": 11.466666666666667,
+      "audio_scroll_position_px": 1433.3333333333333,
+      "beat_scroll_position_px": 1400.369894574106,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 345,
+      "audio_seconds": 11.5,
+      "audio_scroll_position_px": 1437.5,
+      "beat_scroll_position_px": 1402.2489783063645,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 346,
+      "audio_seconds": 11.533333333333333,
+      "audio_scroll_position_px": 1441.6666666666667,
+      "beat_scroll_position_px": 1404.1280620386228,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 347,
+      "audio_seconds": 11.566666666666666,
+      "audio_scroll_position_px": 1445.8333333333333,
+      "beat_scroll_position_px": 1406.536357107721,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 72.24885207294417
+    },
+    {
+      "frame": 348,
+      "audio_seconds": 11.6,
+      "audio_scroll_position_px": 1450,
+      "beat_scroll_position_px": 1414.0526920367545,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 349,
+      "audio_seconds": 11.633333333333333,
+      "audio_scroll_position_px": 1454.1666666666665,
+      "beat_scroll_position_px": 1417.6191162632854,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 106.99272679592734
+    },
+    {
+      "frame": 350,
+      "audio_seconds": 11.666666666666666,
+      "audio_scroll_position_px": 1458.3333333333333,
+      "beat_scroll_position_px": 1419.4981999955437,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 351,
+      "audio_seconds": 11.7,
+      "audio_scroll_position_px": 1462.5,
+      "beat_scroll_position_px": 1421.3772837278023,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 352,
+      "audio_seconds": 11.733333333333333,
+      "audio_scroll_position_px": 1466.6666666666665,
+      "beat_scroll_position_px": 1423.2563674600606,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 353,
+      "audio_seconds": 11.766666666666667,
+      "audio_scroll_position_px": 1470.8333333333335,
+      "beat_scroll_position_px": 1425.135451192319,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 354,
+      "audio_seconds": 11.8,
+      "audio_scroll_position_px": 1475,
+      "beat_scroll_position_px": 1427.014534924577,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 355,
+      "audio_seconds": 11.833333333333334,
+      "audio_scroll_position_px": 1479.1666666666667,
+      "beat_scroll_position_px": 1428.8936186568355,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 356,
+      "audio_seconds": 11.866666666666667,
+      "audio_scroll_position_px": 1483.3333333333335,
+      "beat_scroll_position_px": 1430.7727023890939,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 357,
+      "audio_seconds": 11.9,
+      "audio_scroll_position_px": 1487.5,
+      "beat_scroll_position_px": 1432.6517861213522,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 358,
+      "audio_seconds": 11.933333333333334,
+      "audio_scroll_position_px": 1491.6666666666667,
+      "beat_scroll_position_px": 1434.5308698536105,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 359,
+      "audio_seconds": 11.966666666666667,
+      "audio_scroll_position_px": 1495.8333333333333,
+      "beat_scroll_position_px": 1436.4099535858688,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 360,
+      "audio_seconds": 12,
+      "audio_scroll_position_px": 1500,
+      "beat_scroll_position_px": 1438.2890373181272,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 361,
+      "audio_seconds": 12.033333333333333,
+      "audio_scroll_position_px": 1504.1666666666667,
+      "beat_scroll_position_px": 1440.168121050386,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 362,
+      "audio_seconds": 12.066666666666666,
+      "audio_scroll_position_px": 1508.3333333333333,
+      "beat_scroll_position_px": 1442.0472047826438,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967736244
+    },
+    {
+      "frame": 363,
+      "audio_seconds": 12.1,
+      "audio_scroll_position_px": 1512.5,
+      "beat_scroll_position_px": 1443.9262885149021,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 364,
+      "audio_seconds": 12.133333333333333,
+      "audio_scroll_position_px": 1516.6666666666665,
+      "beat_scroll_position_px": 1445.8053722471604,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 365,
+      "audio_seconds": 12.166666666666666,
+      "audio_scroll_position_px": 1520.8333333333333,
+      "beat_scroll_position_px": 1447.6844559794188,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 366,
+      "audio_seconds": 12.2,
+      "audio_scroll_position_px": 1525,
+      "beat_scroll_position_px": 1449.563539711677,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 367,
+      "audio_seconds": 12.233333333333333,
+      "audio_scroll_position_px": 1529.1666666666665,
+      "beat_scroll_position_px": 1451.4426234439354,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 368,
+      "audio_seconds": 12.266666666666667,
+      "audio_scroll_position_px": 1533.3333333333335,
+      "beat_scroll_position_px": 1453.3217071761937,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 369,
+      "audio_seconds": 12.3,
+      "audio_scroll_position_px": 1537.5,
+      "beat_scroll_position_px": 1455.2007909084523,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 370,
+      "audio_seconds": 12.333333333333334,
+      "audio_scroll_position_px": 1541.6666666666667,
+      "beat_scroll_position_px": 1457.0798746407106,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 371,
+      "audio_seconds": 12.366666666666667,
+      "audio_scroll_position_px": 1545.8333333333335,
+      "beat_scroll_position_px": 1458.958958372969,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 372,
+      "audio_seconds": 12.4,
+      "audio_scroll_position_px": 1550,
+      "beat_scroll_position_px": 1460.8380421052273,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 373,
+      "audio_seconds": 12.433333333333334,
+      "audio_scroll_position_px": 1554.1666666666667,
+      "beat_scroll_position_px": 1462.7171258374856,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 374,
+      "audio_seconds": 12.466666666666667,
+      "audio_scroll_position_px": 1558.3333333333333,
+      "beat_scroll_position_px": 1464.596209569744,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 375,
+      "audio_seconds": 12.5,
+      "audio_scroll_position_px": 1562.5,
+      "beat_scroll_position_px": 1466.4752933020022,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 376,
+      "audio_seconds": 12.533333333333333,
+      "audio_scroll_position_px": 1566.6666666666667,
+      "beat_scroll_position_px": 1468.3543770342606,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 377,
+      "audio_seconds": 12.566666666666666,
+      "audio_scroll_position_px": 1570.8333333333333,
+      "beat_scroll_position_px": 1470.2334607665189,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 378,
+      "audio_seconds": 12.6,
+      "audio_scroll_position_px": 1575,
+      "beat_scroll_position_px": 1472.1125444987772,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 379,
+      "audio_seconds": 12.633333333333333,
+      "audio_scroll_position_px": 1579.1666666666665,
+      "beat_scroll_position_px": 1473.9916282310357,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 380,
+      "audio_seconds": 12.666666666666666,
+      "audio_scroll_position_px": 1583.3333333333333,
+      "beat_scroll_position_px": 1475.870711963294,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 381,
+      "audio_seconds": 12.7,
+      "audio_scroll_position_px": 1587.5,
+      "beat_scroll_position_px": 1481.4542750534329,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 167.50689270416447
+    },
+    {
+      "frame": 382,
+      "audio_seconds": 12.733333333333333,
+      "audio_scroll_position_px": 1591.6666666666665,
+      "beat_scroll_position_px": 1488.9706099824664,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 383,
+      "audio_seconds": 12.766666666666667,
+      "audio_scroll_position_px": 1595.8333333333335,
+      "beat_scroll_position_px": 1496.4869449114997,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 384,
+      "audio_seconds": 12.8,
+      "audio_scroll_position_px": 1600,
+      "beat_scroll_position_px": 1503.0215544620469,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 196.03828651641678
+    },
+    {
+      "frame": 385,
+      "audio_seconds": 12.833333333333334,
+      "audio_scroll_position_px": 1604.1666666666667,
+      "beat_scroll_position_px": 1504.9006381943052,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 386,
+      "audio_seconds": 12.866666666666667,
+      "audio_scroll_position_px": 1608.3333333333335,
+      "beat_scroll_position_px": 1506.779721926564,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 387,
+      "audio_seconds": 12.9,
+      "audio_scroll_position_px": 1612.5,
+      "beat_scroll_position_px": 1508.6588056588223,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 388,
+      "audio_seconds": 12.933333333333334,
+      "audio_scroll_position_px": 1616.6666666666667,
+      "beat_scroll_position_px": 1510.5378893910806,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 389,
+      "audio_seconds": 12.966666666666667,
+      "audio_scroll_position_px": 1620.8333333333333,
+      "beat_scroll_position_px": 1512.4169731233387,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 390,
+      "audio_seconds": 13,
+      "audio_scroll_position_px": 1625,
+      "beat_scroll_position_px": 1514.296056855597,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 391,
+      "audio_seconds": 13.033333333333333,
+      "audio_scroll_position_px": 1629.1666666666667,
+      "beat_scroll_position_px": 1516.1751405878554,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 392,
+      "audio_seconds": 13.066666666666666,
+      "audio_scroll_position_px": 1633.3333333333333,
+      "beat_scroll_position_px": 1518.0542243201141,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 393,
+      "audio_seconds": 13.1,
+      "audio_scroll_position_px": 1637.5,
+      "beat_scroll_position_px": 1519.933308052372,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967736244
+    },
+    {
+      "frame": 394,
+      "audio_seconds": 13.133333333333333,
+      "audio_scroll_position_px": 1641.6666666666665,
+      "beat_scroll_position_px": 1524.1900079356508,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 127.70099649836357
+    },
+    {
+      "frame": 395,
+      "audio_seconds": 13.166666666666666,
+      "audio_scroll_position_px": 1645.8333333333333,
+      "beat_scroll_position_px": 1531.7063428646843,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 396,
+      "audio_seconds": 13.2,
+      "audio_scroll_position_px": 1650,
+      "beat_scroll_position_px": 1539.2226777937176,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 397,
+      "audio_seconds": 13.233333333333333,
+      "audio_scroll_position_px": 1654.1666666666665,
+      "beat_scroll_position_px": 1546.739012722751,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 398,
+      "audio_seconds": 13.266666666666667,
+      "audio_scroll_position_px": 1658.3333333333335,
+      "beat_scroll_position_px": 1554.2553476517849,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 399,
+      "audio_seconds": 13.3,
+      "audio_scroll_position_px": 1662.5,
+      "beat_scroll_position_px": 1561.771682580818,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 400,
+      "audio_seconds": 13.333333333333334,
+      "audio_scroll_position_px": 1666.6666666666667,
+      "beat_scroll_position_px": 1569.2880175098512,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 401,
+      "audio_seconds": 13.366666666666667,
+      "audio_scroll_position_px": 1670.8333333333335,
+      "beat_scroll_position_px": 1576.8043524388845,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 402,
+      "audio_seconds": 13.4,
+      "audio_scroll_position_px": 1675,
+      "beat_scroll_position_px": 1584.3206873679178,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 403,
+      "audio_seconds": 13.433333333333334,
+      "audio_scroll_position_px": 1679.1666666666667,
+      "beat_scroll_position_px": 1590.4615841364682,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 184.22690305651324
+    },
+    {
+      "frame": 404,
+      "audio_seconds": 13.466666666666667,
+      "audio_scroll_position_px": 1683.3333333333333,
+      "beat_scroll_position_px": 1592.9619159597996,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 75.0099546999425
+    },
+    {
+      "frame": 405,
+      "audio_seconds": 13.5,
+      "audio_scroll_position_px": 1687.5,
+      "beat_scroll_position_px": 1596.3979547845008,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 103.08116474103636
+    },
+    {
+      "frame": 406,
+      "audio_seconds": 13.533333333333333,
+      "audio_scroll_position_px": 1691.6666666666667,
+      "beat_scroll_position_px": 1603.9142897135341,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 407,
+      "audio_seconds": 13.566666666666666,
+      "audio_scroll_position_px": 1695.8333333333333,
+      "beat_scroll_position_px": 1611.4306246425674,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 408,
+      "audio_seconds": 13.6,
+      "audio_scroll_position_px": 1700,
+      "beat_scroll_position_px": 1618.946959571601,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 409,
+      "audio_seconds": 13.633333333333333,
+      "audio_scroll_position_px": 1704.1666666666665,
+      "beat_scroll_position_px": 1625.918743704755,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 209.15352399461955
+    },
+    {
+      "frame": 410,
+      "audio_seconds": 13.666666666666666,
+      "audio_scroll_position_px": 1708.3333333333333,
+      "beat_scroll_position_px": 1627.7978274370137,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 411,
+      "audio_seconds": 13.7,
+      "audio_scroll_position_px": 1712.5,
+      "beat_scroll_position_px": 1633.6421613308125,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 175.3300168139669
+    },
+    {
+      "frame": 412,
+      "audio_seconds": 13.733333333333333,
+      "audio_scroll_position_px": 1716.6666666666665,
+      "beat_scroll_position_px": 1641.1584962598458,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 413,
+      "audio_seconds": 13.766666666666667,
+      "audio_scroll_position_px": 1720.8333333333335,
+      "beat_scroll_position_px": 1648.6748311888796,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 414,
+      "audio_seconds": 13.8,
+      "audio_scroll_position_px": 1725,
+      "beat_scroll_position_px": 1656.1911661179129,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 415,
+      "audio_seconds": 13.833333333333334,
+      "audio_scroll_position_px": 1729.1666666666667,
+      "beat_scroll_position_px": 1663.7075010469462,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 416,
+      "audio_seconds": 13.866666666666667,
+      "audio_scroll_position_px": 1733.3333333333335,
+      "beat_scroll_position_px": 1671.2238359759797,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 417,
+      "audio_seconds": 13.9,
+      "audio_scroll_position_px": 1737.5,
+      "beat_scroll_position_px": 1678.740170905013,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 418,
+      "audio_seconds": 13.933333333333334,
+      "audio_scroll_position_px": 1741.6666666666667,
+      "beat_scroll_position_px": 1686.2565058340465,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 419,
+      "audio_seconds": 13.966666666666667,
+      "audio_scroll_position_px": 1745.8333333333333,
+      "beat_scroll_position_px": 1693.7728407630796,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 420,
+      "audio_seconds": 14,
+      "audio_scroll_position_px": 1750,
+      "beat_scroll_position_px": 1698.8553148579495,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 152.47422284609738
+    },
+    {
+      "frame": 421,
+      "audio_seconds": 14.033333333333333,
+      "audio_scroll_position_px": 1754.1666666666667,
+      "beat_scroll_position_px": 1706.187576278517,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 219.9678426170302
+    },
+    {
+      "frame": 422,
+      "audio_seconds": 14.066666666666666,
+      "audio_scroll_position_px": 1758.3333333333333,
+      "beat_scroll_position_px": 1710.5593221045876,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 131.15237478211657
+    },
+    {
+      "frame": 423,
+      "audio_seconds": 14.1,
+      "audio_scroll_position_px": 1762.5,
+      "beat_scroll_position_px": 1712.4384058368457,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 424,
+      "audio_seconds": 14.133333333333333,
+      "audio_scroll_position_px": 1766.6666666666665,
+      "beat_scroll_position_px": 1714.3174895691045,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 425,
+      "audio_seconds": 14.166666666666666,
+      "audio_scroll_position_px": 1770.8333333333333,
+      "beat_scroll_position_px": 1720.5453099388744,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 186.83461109309812
+    },
+    {
+      "frame": 426,
+      "audio_seconds": 14.2,
+      "audio_scroll_position_px": 1775,
+      "beat_scroll_position_px": 1728.0616448679077,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 427,
+      "audio_seconds": 14.233333333333333,
+      "audio_scroll_position_px": 1779.1666666666665,
+      "beat_scroll_position_px": 1731.735445307711,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 110.21401319409773
+    },
+    {
+      "frame": 428,
+      "audio_seconds": 14.266666666666667,
+      "audio_scroll_position_px": 1783.3333333333335,
+      "beat_scroll_position_px": 1733.614529039969,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967736244
+    },
+    {
+      "frame": 429,
+      "audio_seconds": 14.3,
+      "audio_scroll_position_px": 1787.5,
+      "beat_scroll_position_px": 1735.4936127722274,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 430,
+      "audio_seconds": 14.333333333333334,
+      "audio_scroll_position_px": 1791.6666666666667,
+      "beat_scroll_position_px": 1737.3726965044862,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 431,
+      "audio_seconds": 14.366666666666667,
+      "audio_scroll_position_px": 1795.8333333333335,
+      "beat_scroll_position_px": 1742.081910429411,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 141.27641774774526
+    },
+    {
+      "frame": 432,
+      "audio_seconds": 14.4,
+      "audio_scroll_position_px": 1800,
+      "beat_scroll_position_px": 1749.5982453584443,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 433,
+      "audio_seconds": 14.433333333333334,
+      "audio_scroll_position_px": 1804.1666666666667,
+      "beat_scroll_position_px": 1754.7906522430928,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 155.77220653945741
+    },
+    {
+      "frame": 434,
+      "audio_seconds": 14.466666666666667,
+      "audio_scroll_position_px": 1808.3333333333333,
+      "beat_scroll_position_px": 1756.6697359753512,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 435,
+      "audio_seconds": 14.5,
+      "audio_scroll_position_px": 1812.5,
+      "beat_scroll_position_px": 1758.5488197076095,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 436,
+      "audio_seconds": 14.533333333333333,
+      "audio_scroll_position_px": 1816.6666666666667,
+      "beat_scroll_position_px": 1763.955979018802,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 162.21477933577773
+    },
+    {
+      "frame": 437,
+      "audio_seconds": 14.566666666666666,
+      "audio_scroll_position_px": 1820.8333333333333,
+      "beat_scroll_position_px": 1771.4723139478353,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 438,
+      "audio_seconds": 14.6,
+      "audio_scroll_position_px": 1825,
+      "beat_scroll_position_px": 1775.9667754462164,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 134.83384495143176
+    },
+    {
+      "frame": 439,
+      "audio_seconds": 14.633333333333333,
+      "audio_scroll_position_px": 1829.1666666666665,
+      "beat_scroll_position_px": 1777.8458591784747,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 440,
+      "audio_seconds": 14.666666666666666,
+      "audio_scroll_position_px": 1833.3333333333333,
+      "beat_scroll_position_px": 1779.724942910733,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 441,
+      "audio_seconds": 14.7,
+      "audio_scroll_position_px": 1837.5,
+      "beat_scroll_position_px": 1781.6040266429914,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 442,
+      "audio_seconds": 14.733333333333333,
+      "audio_scroll_position_px": 1841.6666666666665,
+      "beat_scroll_position_px": 1785.4925795093384,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 116.65658599041122
+    },
+    {
+      "frame": 443,
+      "audio_seconds": 14.766666666666667,
+      "audio_scroll_position_px": 1845.8333333333335,
+      "beat_scroll_position_px": 1793.0089144383714,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478709859
+    },
+    {
+      "frame": 444,
+      "audio_seconds": 14.8,
+      "audio_scroll_position_px": 1850,
+      "beat_scroll_position_px": 1799.021982381598,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 180.3920382967983
+    },
+    {
+      "frame": 445,
+      "audio_seconds": 14.833333333333334,
+      "audio_scroll_position_px": 1854.1666666666667,
+      "beat_scroll_position_px": 1800.9010661138564,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 446,
+      "audio_seconds": 14.866666666666667,
+      "audio_scroll_position_px": 1858.3333333333335,
+      "beat_scroll_position_px": 1802.7801498461151,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 447,
+      "audio_seconds": 14.9,
+      "audio_scroll_position_px": 1862.5,
+      "beat_scroll_position_px": 1804.6592335783735,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 448,
+      "audio_seconds": 14.933333333333334,
+      "audio_scroll_position_px": 1866.6666666666667,
+      "beat_scroll_position_px": 1806.538317310632,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196775671
+    },
+    {
+      "frame": 449,
+      "audio_seconds": 14.966666666666667,
+      "audio_scroll_position_px": 1870.8333333333333,
+      "beat_scroll_position_px": 1808.4174010428899,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967736244
+    },
+    {
+      "frame": 450,
+      "audio_seconds": 15,
+      "audio_scroll_position_px": 1875,
+      "beat_scroll_position_px": 1814.2080468300535,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 173.719373614909
+    },
+    {
+      "frame": 451,
+      "audio_seconds": 15.033333333333333,
+      "audio_scroll_position_px": 1879.1666666666667,
+      "beat_scroll_position_px": 1817.411437192665,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 96.10171087834749
+    },
+    {
+      "frame": 452,
+      "audio_seconds": 15.066666666666666,
+      "audio_scroll_position_px": 1883.3333333333333,
+      "beat_scroll_position_px": 1819.2905209249238,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 453,
+      "audio_seconds": 15.1,
+      "audio_scroll_position_px": 1887.5,
+      "beat_scroll_position_px": 1821.169604657182,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 454,
+      "audio_seconds": 15.133333333333333,
+      "audio_scroll_position_px": 1891.6666666666665,
+      "beat_scroll_position_px": 1823.0486883894403,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 455,
+      "audio_seconds": 15.166666666666666,
+      "audio_scroll_position_px": 1895.8333333333333,
+      "beat_scroll_position_px": 1825.6103780489268,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 76.85068978459667
+    },
+    {
+      "frame": 456,
+      "audio_seconds": 15.2,
+      "audio_scroll_position_px": 1900,
+      "beat_scroll_position_px": 1833.12671297796,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 457,
+      "audio_seconds": 15.233333333333333,
+      "audio_scroll_position_px": 1904.1666666666665,
+      "beat_scroll_position_px": 1840.6430479069936,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 458,
+      "audio_seconds": 15.266666666666667,
+      "audio_scroll_position_px": 1908.3333333333335,
+      "beat_scroll_position_px": 1848.1593828360271,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 459,
+      "audio_seconds": 15.3,
+      "audio_scroll_position_px": 1912.5,
+      "beat_scroll_position_px": 1855.6757177650604,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 460,
+      "audio_seconds": 15.333333333333334,
+      "audio_scroll_position_px": 1916.6666666666667,
+      "beat_scroll_position_px": 1863.1920526940937,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 461,
+      "audio_seconds": 15.366666666666667,
+      "audio_scroll_position_px": 1920.8333333333335,
+      "beat_scroll_position_px": 1868.6477869589091,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 163.67202794446314
+    },
+    {
+      "frame": 462,
+      "audio_seconds": 15.4,
+      "audio_scroll_position_px": 1925,
+      "beat_scroll_position_px": 1870.8055375303732,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 64.73251714392086
+    },
+    {
+      "frame": 463,
+      "audio_seconds": 15.433333333333334,
+      "audio_scroll_position_px": 1929.1666666666667,
+      "beat_scroll_position_px": 1875.2693201106767,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 133.91347740910808
+    },
+    {
+      "frame": 464,
+      "audio_seconds": 15.466666666666667,
+      "audio_scroll_position_px": 1933.3333333333333,
+      "beat_scroll_position_px": 1882.7856550397098,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099273
+    },
+    {
+      "frame": 465,
+      "audio_seconds": 15.5,
+      "audio_scroll_position_px": 1937.5,
+      "beat_scroll_position_px": 1888.22349326898,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 163.13514687810823
+    },
+    {
+      "frame": 466,
+      "audio_seconds": 15.533333333333333,
+      "audio_scroll_position_px": 1941.6666666666667,
+      "beat_scroll_position_px": 1890.1025770012382,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 467,
+      "audio_seconds": 15.566666666666666,
+      "audio_scroll_position_px": 1945.8333333333333,
+      "beat_scroll_position_px": 1893.8147260886383,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 111.36447262200403
+    },
+    {
+      "frame": 468,
+      "audio_seconds": 15.6,
+      "audio_scroll_position_px": 1950,
+      "beat_scroll_position_px": 1899.7613230426966,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 178.39790862175113
+    },
+    {
+      "frame": 469,
+      "audio_seconds": 15.633333333333333,
+      "audio_scroll_position_px": 1954.1666666666665,
+      "beat_scroll_position_px": 1907.2776579717302,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100637
+    },
+    {
+      "frame": 470,
+      "audio_seconds": 15.666666666666666,
+      "audio_scroll_position_px": 1958.3333333333333,
+      "beat_scroll_position_px": 1912.0175508147329,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 142.19678529008257
+    },
+    {
+      "frame": 471,
+      "audio_seconds": 15.7,
+      "audio_scroll_position_px": 1962.5,
+      "beat_scroll_position_px": 1913.8966345469912,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 472,
+      "audio_seconds": 15.733333333333333,
+      "audio_scroll_position_px": 1966.6666666666665,
+      "beat_scroll_position_px": 1915.7757182792493,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967743065
+    },
+    {
+      "frame": 473,
+      "audio_seconds": 15.766666666666667,
+      "audio_scroll_position_px": 1970.8333333333335,
+      "beat_scroll_position_px": 1921.6353916320882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 175.79020058516625
+    },
+    {
+      "frame": 474,
+      "audio_seconds": 15.8,
+      "audio_scroll_position_px": 1975,
+      "beat_scroll_position_px": 1929.1517265611214,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787099955
+    },
+    {
+      "frame": 475,
+      "audio_seconds": 15.833333333333334,
+      "audio_scroll_position_px": 1979.1666666666667,
+      "beat_scroll_position_px": 1933.1936740178562,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 121.25842370204325
+    },
+    {
+      "frame": 476,
+      "audio_seconds": 15.866666666666667,
+      "audio_scroll_position_px": 1983.3333333333335,
+      "beat_scroll_position_px": 1935.072757750115,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776353
+    },
+    {
+      "frame": 477,
+      "audio_seconds": 15.9,
+      "audio_scroll_position_px": 1987.5,
+      "beat_scroll_position_px": 1936.9518414823729,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.372511967736244
+    },
+    {
+      "frame": 478,
+      "audio_seconds": 15.933333333333334,
+      "audio_scroll_position_px": 1991.6666666666667,
+      "beat_scroll_position_px": 1938.8309252146312,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774989
+    },
+    {
+      "frame": 479,
+      "audio_seconds": 15.966666666666667,
+      "audio_scroll_position_px": 1995.8333333333333,
+      "beat_scroll_position_px": 1943.171992122624,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 130.23200723978607
+    },
+    {
+      "frame": 480,
+      "audio_seconds": 16,
+      "audio_scroll_position_px": 2000,
+      "beat_scroll_position_px": 1950.442895707036,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 218.12710753236237
+    },
+    {
+      "frame": 481,
+      "audio_seconds": 16.033333333333335,
+      "audio_scroll_position_px": 2004.166666666667,
+      "beat_scroll_position_px": 1952.3219794392944,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 482,
+      "audio_seconds": 16.066666666666666,
+      "audio_scroll_position_px": 2008.3333333333333,
+      "beat_scroll_position_px": 1954.2010631715527,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776052
+    },
+    {
+      "frame": 483,
+      "audio_seconds": 16.1,
+      "audio_scroll_position_px": 2012.5000000000002,
+      "beat_scroll_position_px": 1956.080146903811,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 484,
+      "audio_seconds": 16.133333333333333,
+      "audio_scroll_position_px": 2016.6666666666665,
+      "beat_scroll_position_px": 1957.9592306360694,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 485,
+      "audio_seconds": 16.166666666666668,
+      "audio_scroll_position_px": 2020.8333333333335,
+      "beat_scroll_position_px": 1959.838314368328,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677537
+    },
+    {
+      "frame": 486,
+      "audio_seconds": 16.2,
+      "audio_scroll_position_px": 2025,
+      "beat_scroll_position_px": 1961.7173981005858,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 487,
+      "audio_seconds": 16.233333333333334,
+      "audio_scroll_position_px": 2029.1666666666667,
+      "beat_scroll_position_px": 1963.5964818328441,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 488,
+      "audio_seconds": 16.266666666666666,
+      "audio_scroll_position_px": 2033.3333333333333,
+      "beat_scroll_position_px": 1965.4755655651024,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 489,
+      "audio_seconds": 16.3,
+      "audio_scroll_position_px": 2037.5,
+      "beat_scroll_position_px": 1967.3546492973612,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196776052
+    },
+    {
+      "frame": 490,
+      "audio_seconds": 16.333333333333332,
+      "audio_scroll_position_px": 2041.6666666666665,
+      "beat_scroll_position_px": 1970.8750551467754,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 105.61217548243278
+    },
+    {
+      "frame": 491,
+      "audio_seconds": 16.366666666666667,
+      "audio_scroll_position_px": 2045.8333333333335,
+      "beat_scroll_position_px": 1978.391390075809,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100117
+    },
+    {
+      "frame": 492,
+      "audio_seconds": 16.4,
+      "audio_scroll_position_px": 2050,
+      "beat_scroll_position_px": 1985.9077250048417,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478709807
+    },
+    {
+      "frame": 493,
+      "audio_seconds": 16.433333333333334,
+      "audio_scroll_position_px": 2054.1666666666665,
+      "beat_scroll_position_px": 1993.4240599338757,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.490047871008
+    },
+    {
+      "frame": 494,
+      "audio_seconds": 16.466666666666665,
+      "audio_scroll_position_px": 2058.333333333333,
+      "beat_scroll_position_px": 2000.3114770423163,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 206.62251325322694
+    },
+    {
+      "frame": 495,
+      "audio_seconds": 16.5,
+      "audio_scroll_position_px": 2062.5,
+      "beat_scroll_position_px": 2002.1905607745748,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677537
+    },
+    {
+      "frame": 496,
+      "audio_seconds": 16.533333333333335,
+      "audio_scroll_position_px": 2066.666666666667,
+      "beat_scroll_position_px": 2004.0696445068331,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 497,
+      "audio_seconds": 16.566666666666666,
+      "audio_scroll_position_px": 2070.8333333333335,
+      "beat_scroll_position_px": 2005.9487282390915,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 498,
+      "audio_seconds": 16.6,
+      "audio_scroll_position_px": 2075,
+      "beat_scroll_position_px": 2007.8278119713495,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774006
+    },
+    {
+      "frame": 499,
+      "audio_seconds": 16.633333333333333,
+      "audio_scroll_position_px": 2079.1666666666665,
+      "beat_scroll_position_px": 2009.7068957036079,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 500,
+      "audio_seconds": 16.666666666666668,
+      "audio_scroll_position_px": 2083.3333333333335,
+      "beat_scroll_position_px": 2011.5859794358664,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677537
+    },
+    {
+      "frame": 501,
+      "audio_seconds": 16.7,
+      "audio_scroll_position_px": 2087.5,
+      "beat_scroll_position_px": 2013.4650631681247,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677537
+    },
+    {
+      "frame": 502,
+      "audio_seconds": 16.733333333333334,
+      "audio_scroll_position_px": 2091.666666666667,
+      "beat_scroll_position_px": 2015.3441469003828,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774006
+    },
+    {
+      "frame": 503,
+      "audio_seconds": 16.766666666666666,
+      "audio_scroll_position_px": 2095.833333333333,
+      "beat_scroll_position_px": 2017.2232306326412,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 504,
+      "audio_seconds": 16.8,
+      "audio_scroll_position_px": 2100,
+      "beat_scroll_position_px": 2019.1023143648997,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677537
+    },
+    {
+      "frame": 505,
+      "audio_seconds": 16.833333333333332,
+      "audio_scroll_position_px": 2104.1666666666665,
+      "beat_scroll_position_px": 2020.981398097158,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677537
+    },
+    {
+      "frame": 506,
+      "audio_seconds": 16.866666666666667,
+      "audio_scroll_position_px": 2108.3333333333335,
+      "beat_scroll_position_px": 2022.8604818294164,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.37251196774688
+    },
+    {
+      "frame": 507,
+      "audio_seconds": 16.9,
+      "audio_scroll_position_px": 2112.5,
+      "beat_scroll_position_px": 2027.9685216893506,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 153.24119579801993
+    },
+    {
+      "frame": 508,
+      "audio_seconds": 16.933333333333334,
+      "audio_scroll_position_px": 2116.6666666666665,
+      "beat_scroll_position_px": 2035.4848566183848,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710148
+    },
+    {
+      "frame": 509,
+      "audio_seconds": 16.966666666666665,
+      "audio_scroll_position_px": 2120.833333333333,
+      "beat_scroll_position_px": 2043.0011915474174,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787098752
+    },
+    {
+      "frame": 510,
+      "audio_seconds": 17,
+      "audio_scroll_position_px": 2125,
+      "beat_scroll_position_px": 2050.5175264764516,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710148
+    },
+    {
+      "frame": 511,
+      "audio_seconds": 17.033333333333335,
+      "audio_scroll_position_px": 2129.166666666667,
+      "beat_scroll_position_px": 2058.033861405485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787098752
+    },
+    {
+      "frame": 512,
+      "audio_seconds": 17.066666666666666,
+      "audio_scroll_position_px": 2133.3333333333335,
+      "beat_scroll_position_px": 2065.5501963345178,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787098752
+    },
+    {
+      "frame": 513,
+      "audio_seconds": 17.1,
+      "audio_scroll_position_px": 2137.5,
+      "beat_scroll_position_px": 2067.4292800667763,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 56.3725119677537
+    },
+    {
+      "frame": 514,
+      "audio_seconds": 17.133333333333333,
+      "audio_scroll_position_px": 2141.6666666666665,
+      "beat_scroll_position_px": 2072.7290631646965,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 158.9934929375989
+    },
+    {
+      "frame": 515,
+      "audio_seconds": 17.166666666666668,
+      "audio_scroll_position_px": 2145.8333333333335,
+      "beat_scroll_position_px": 2080.2453980937303,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100117
+    },
+    {
+      "frame": 516,
+      "audio_seconds": 17.2,
+      "audio_scroll_position_px": 2150,
+      "beat_scroll_position_px": 2087.7617330227636,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.4900478710148
+    },
+    {
+      "frame": 517,
+      "audio_seconds": 17.233333333333334,
+      "audio_scroll_position_px": 2154.166666666667,
+      "beat_scroll_position_px": 2090.6532210515857,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 86.74464086465855
+    },
+    {
+      "frame": 518,
+      "audio_seconds": 17.266666666666666,
+      "audio_scroll_position_px": 2158.333333333333,
+      "beat_scroll_position_px": 2094.9405998529423,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 128.62136404069403
+    },
+    {
+      "frame": 519,
+      "audio_seconds": 17.3,
+      "audio_scroll_position_px": 2162.5,
+      "beat_scroll_position_px": 2102.4569347819756,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787098752
+    },
+    {
+      "frame": 520,
+      "audio_seconds": 17.333333333333332,
+      "audio_scroll_position_px": 2166.6666666666665,
+      "beat_scroll_position_px": 2109.9732697110085,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100117
+    },
+    {
+      "frame": 521,
+      "audio_seconds": 17.366666666666667,
+      "audio_scroll_position_px": 2170.8333333333335,
+      "beat_scroll_position_px": 2115.081309570944,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 153.24119579806086
+    },
+    {
+      "frame": 522,
+      "audio_seconds": 17.4,
+      "audio_scroll_position_px": 2175,
+      "beat_scroll_position_px": 2119.7700708838165,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 140.66283938617954
+    },
+    {
+      "frame": 523,
+      "audio_seconds": 17.433333333333334,
+      "audio_scroll_position_px": 2179.1666666666665,
+      "beat_scroll_position_px": 2127.2864058128503,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 225.49004787100117
+    },
+    {
+      "frame": 524,
+      "audio_seconds": 17.466666666666665,
+      "audio_scroll_position_px": 2183.333333333333,
+      "beat_scroll_position_px": 2134.2096149923814,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 207.69627538593673
+    },
+    {
+      "frame": 525,
+      "audio_seconds": 17.5,
+      "audio_scroll_position_px": 2187.5,
+      "beat_scroll_position_px": 2138.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 118.43944138501094
+    },
+    {
+      "frame": 526,
+      "audio_seconds": 17.533333333333335,
+      "audio_scroll_position_px": 2191.666666666667,
+      "beat_scroll_position_px": 2142.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 527,
+      "audio_seconds": 17.566666666666666,
+      "audio_scroll_position_px": 2195.8333333333335,
+      "beat_scroll_position_px": 2146.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 528,
+      "audio_seconds": 17.6,
+      "audio_scroll_position_px": 2200,
+      "beat_scroll_position_px": 2150.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 529,
+      "audio_seconds": 17.633333333333333,
+      "audio_scroll_position_px": 2204.1666666666665,
+      "beat_scroll_position_px": 2154.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 530,
+      "audio_seconds": 17.666666666666668,
+      "audio_scroll_position_px": 2208.3333333333335,
+      "beat_scroll_position_px": 2158.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 531,
+      "audio_seconds": 17.7,
+      "audio_scroll_position_px": 2212.5,
+      "beat_scroll_position_px": 2163.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 532,
+      "audio_seconds": 17.733333333333334,
+      "audio_scroll_position_px": 2216.666666666667,
+      "beat_scroll_position_px": 2167.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 533,
+      "audio_seconds": 17.766666666666666,
+      "audio_scroll_position_px": 2220.833333333333,
+      "beat_scroll_position_px": 2171.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 534,
+      "audio_seconds": 17.8,
+      "audio_scroll_position_px": 2225,
+      "beat_scroll_position_px": 2175.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 535,
+      "audio_seconds": 17.833333333333332,
+      "audio_scroll_position_px": 2229.1666666666665,
+      "beat_scroll_position_px": 2179.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 536,
+      "audio_seconds": 17.866666666666667,
+      "audio_scroll_position_px": 2233.3333333333335,
+      "beat_scroll_position_px": 2183.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 537,
+      "audio_seconds": 17.9,
+      "audio_scroll_position_px": 2237.5,
+      "beat_scroll_position_px": 2188.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 538,
+      "audio_seconds": 17.933333333333334,
+      "audio_scroll_position_px": 2241.6666666666665,
+      "beat_scroll_position_px": 2192.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 539,
+      "audio_seconds": 17.966666666666665,
+      "audio_scroll_position_px": 2245.833333333333,
+      "beat_scroll_position_px": 2196.490929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 540,
+      "audio_seconds": 18,
+      "audio_scroll_position_px": 2250,
+      "beat_scroll_position_px": 2200.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 541,
+      "audio_seconds": 18.033333333333335,
+      "audio_scroll_position_px": 2254.166666666667,
+      "beat_scroll_position_px": 2204.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 542,
+      "audio_seconds": 18.066666666666666,
+      "audio_scroll_position_px": 2258.3333333333335,
+      "beat_scroll_position_px": 2208.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 543,
+      "audio_seconds": 18.1,
+      "audio_scroll_position_px": 2262.5,
+      "beat_scroll_position_px": 2213.1575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 544,
+      "audio_seconds": 18.133333333333333,
+      "audio_scroll_position_px": 2266.6666666666665,
+      "beat_scroll_position_px": 2217.3242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 545,
+      "audio_seconds": 18.166666666666668,
+      "audio_scroll_position_px": 2270.8333333333335,
+      "beat_scroll_position_px": 2221.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 546,
+      "audio_seconds": 18.2,
+      "audio_scroll_position_px": 2275,
+      "beat_scroll_position_px": 2225.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 547,
+      "audio_seconds": 18.233333333333334,
+      "audio_scroll_position_px": 2279.166666666667,
+      "beat_scroll_position_px": 2229.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 548,
+      "audio_seconds": 18.266666666666666,
+      "audio_scroll_position_px": 2283.333333333333,
+      "beat_scroll_position_px": 2233.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 549,
+      "audio_seconds": 18.3,
+      "audio_scroll_position_px": 2287.5,
+      "beat_scroll_position_px": 2238.1575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 550,
+      "audio_seconds": 18.333333333333332,
+      "audio_scroll_position_px": 2291.6666666666665,
+      "beat_scroll_position_px": 2242.3242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 551,
+      "audio_seconds": 18.366666666666667,
+      "audio_scroll_position_px": 2295.8333333333335,
+      "beat_scroll_position_px": 2246.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 552,
+      "audio_seconds": 18.4,
+      "audio_scroll_position_px": 2300,
+      "beat_scroll_position_px": 2250.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 553,
+      "audio_seconds": 18.433333333333334,
+      "audio_scroll_position_px": 2304.1666666666665,
+      "beat_scroll_position_px": 2254.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 554,
+      "audio_seconds": 18.466666666666665,
+      "audio_scroll_position_px": 2308.333333333333,
+      "beat_scroll_position_px": 2258.990929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 555,
+      "audio_seconds": 18.5,
+      "audio_scroll_position_px": 2312.5,
+      "beat_scroll_position_px": 2263.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 556,
+      "audio_seconds": 18.533333333333335,
+      "audio_scroll_position_px": 2316.666666666667,
+      "beat_scroll_position_px": 2267.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 557,
+      "audio_seconds": 18.566666666666666,
+      "audio_scroll_position_px": 2320.8333333333335,
+      "beat_scroll_position_px": 2271.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 558,
+      "audio_seconds": 18.6,
+      "audio_scroll_position_px": 2325,
+      "beat_scroll_position_px": 2275.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 559,
+      "audio_seconds": 18.633333333333333,
+      "audio_scroll_position_px": 2329.1666666666665,
+      "beat_scroll_position_px": 2279.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 560,
+      "audio_seconds": 18.666666666666668,
+      "audio_scroll_position_px": 2333.3333333333335,
+      "beat_scroll_position_px": 2283.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 561,
+      "audio_seconds": 18.7,
+      "audio_scroll_position_px": 2337.5,
+      "beat_scroll_position_px": 2288.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 562,
+      "audio_seconds": 18.733333333333334,
+      "audio_scroll_position_px": 2341.666666666667,
+      "beat_scroll_position_px": 2292.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 563,
+      "audio_seconds": 18.766666666666666,
+      "audio_scroll_position_px": 2345.833333333333,
+      "beat_scroll_position_px": 2296.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 564,
+      "audio_seconds": 18.8,
+      "audio_scroll_position_px": 2350,
+      "beat_scroll_position_px": 2300.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 565,
+      "audio_seconds": 18.833333333333332,
+      "audio_scroll_position_px": 2354.1666666666665,
+      "beat_scroll_position_px": 2304.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 566,
+      "audio_seconds": 18.866666666666667,
+      "audio_scroll_position_px": 2358.3333333333335,
+      "beat_scroll_position_px": 2308.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 567,
+      "audio_seconds": 18.9,
+      "audio_scroll_position_px": 2362.5,
+      "beat_scroll_position_px": 2313.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 568,
+      "audio_seconds": 18.933333333333334,
+      "audio_scroll_position_px": 2366.6666666666665,
+      "beat_scroll_position_px": 2317.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 569,
+      "audio_seconds": 18.966666666666665,
+      "audio_scroll_position_px": 2370.833333333333,
+      "beat_scroll_position_px": 2321.490929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 570,
+      "audio_seconds": 19,
+      "audio_scroll_position_px": 2375,
+      "beat_scroll_position_px": 2325.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 571,
+      "audio_seconds": 19.033333333333335,
+      "audio_scroll_position_px": 2379.166666666667,
+      "beat_scroll_position_px": 2329.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 572,
+      "audio_seconds": 19.066666666666666,
+      "audio_scroll_position_px": 2383.3333333333335,
+      "beat_scroll_position_px": 2333.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 573,
+      "audio_seconds": 19.1,
+      "audio_scroll_position_px": 2387.5,
+      "beat_scroll_position_px": 2338.1575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 574,
+      "audio_seconds": 19.133333333333333,
+      "audio_scroll_position_px": 2391.6666666666665,
+      "beat_scroll_position_px": 2342.3242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 575,
+      "audio_seconds": 19.166666666666668,
+      "audio_scroll_position_px": 2395.8333333333335,
+      "beat_scroll_position_px": 2346.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 576,
+      "audio_seconds": 19.2,
+      "audio_scroll_position_px": 2400,
+      "beat_scroll_position_px": 2350.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 577,
+      "audio_seconds": 19.233333333333334,
+      "audio_scroll_position_px": 2404.166666666667,
+      "beat_scroll_position_px": 2354.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 578,
+      "audio_seconds": 19.266666666666666,
+      "audio_scroll_position_px": 2408.333333333333,
+      "beat_scroll_position_px": 2358.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 579,
+      "audio_seconds": 19.3,
+      "audio_scroll_position_px": 2412.5,
+      "beat_scroll_position_px": 2363.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 580,
+      "audio_seconds": 19.333333333333332,
+      "audio_scroll_position_px": 2416.6666666666665,
+      "beat_scroll_position_px": 2367.3242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 581,
+      "audio_seconds": 19.366666666666667,
+      "audio_scroll_position_px": 2420.8333333333335,
+      "beat_scroll_position_px": 2371.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 582,
+      "audio_seconds": 19.4,
+      "audio_scroll_position_px": 2425,
+      "beat_scroll_position_px": 2375.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 583,
+      "audio_seconds": 19.433333333333334,
+      "audio_scroll_position_px": 2429.1666666666665,
+      "beat_scroll_position_px": 2379.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 584,
+      "audio_seconds": 19.466666666666665,
+      "audio_scroll_position_px": 2433.333333333333,
+      "beat_scroll_position_px": 2383.990929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 585,
+      "audio_seconds": 19.5,
+      "audio_scroll_position_px": 2437.5,
+      "beat_scroll_position_px": 2388.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 586,
+      "audio_seconds": 19.533333333333335,
+      "audio_scroll_position_px": 2441.666666666667,
+      "beat_scroll_position_px": 2392.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 587,
+      "audio_seconds": 19.566666666666666,
+      "audio_scroll_position_px": 2445.8333333333335,
+      "beat_scroll_position_px": 2396.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 588,
+      "audio_seconds": 19.6,
+      "audio_scroll_position_px": 2450,
+      "beat_scroll_position_px": 2400.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 589,
+      "audio_seconds": 19.633333333333333,
+      "audio_scroll_position_px": 2454.1666666666665,
+      "beat_scroll_position_px": 2404.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 590,
+      "audio_seconds": 19.666666666666668,
+      "audio_scroll_position_px": 2458.3333333333335,
+      "beat_scroll_position_px": 2408.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 591,
+      "audio_seconds": 19.7,
+      "audio_scroll_position_px": 2462.5,
+      "beat_scroll_position_px": 2413.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 592,
+      "audio_seconds": 19.733333333333334,
+      "audio_scroll_position_px": 2466.666666666667,
+      "beat_scroll_position_px": 2417.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 593,
+      "audio_seconds": 19.766666666666666,
+      "audio_scroll_position_px": 2470.833333333333,
+      "beat_scroll_position_px": 2421.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 594,
+      "audio_seconds": 19.8,
+      "audio_scroll_position_px": 2475,
+      "beat_scroll_position_px": 2425.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 595,
+      "audio_seconds": 19.833333333333332,
+      "audio_scroll_position_px": 2479.1666666666665,
+      "beat_scroll_position_px": 2429.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 596,
+      "audio_seconds": 19.866666666666667,
+      "audio_scroll_position_px": 2483.3333333333335,
+      "beat_scroll_position_px": 2433.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 597,
+      "audio_seconds": 19.9,
+      "audio_scroll_position_px": 2487.5,
+      "beat_scroll_position_px": 2438.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 598,
+      "audio_seconds": 19.933333333333334,
+      "audio_scroll_position_px": 2491.6666666666665,
+      "beat_scroll_position_px": 2442.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 599,
+      "audio_seconds": 19.966666666666665,
+      "audio_scroll_position_px": 2495.833333333333,
+      "beat_scroll_position_px": 2446.490929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 600,
+      "audio_seconds": 20,
+      "audio_scroll_position_px": 2500,
+      "beat_scroll_position_px": 2450.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 601,
+      "audio_seconds": 20.033333333333335,
+      "audio_scroll_position_px": 2504.166666666667,
+      "beat_scroll_position_px": 2454.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 602,
+      "audio_seconds": 20.066666666666666,
+      "audio_scroll_position_px": 2508.3333333333335,
+      "beat_scroll_position_px": 2458.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 603,
+      "audio_seconds": 20.1,
+      "audio_scroll_position_px": 2512.5,
+      "beat_scroll_position_px": 2463.1575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 604,
+      "audio_seconds": 20.133333333333333,
+      "audio_scroll_position_px": 2516.6666666666665,
+      "beat_scroll_position_px": 2467.3242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 605,
+      "audio_seconds": 20.166666666666668,
+      "audio_scroll_position_px": 2520.8333333333335,
+      "beat_scroll_position_px": 2471.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 606,
+      "audio_seconds": 20.2,
+      "audio_scroll_position_px": 2525,
+      "beat_scroll_position_px": 2475.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 607,
+      "audio_seconds": 20.233333333333334,
+      "audio_scroll_position_px": 2529.166666666667,
+      "beat_scroll_position_px": 2479.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 608,
+      "audio_seconds": 20.266666666666666,
+      "audio_scroll_position_px": 2533.333333333333,
+      "beat_scroll_position_px": 2483.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 609,
+      "audio_seconds": 20.3,
+      "audio_scroll_position_px": 2537.5,
+      "beat_scroll_position_px": 2488.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 610,
+      "audio_seconds": 20.333333333333332,
+      "audio_scroll_position_px": 2541.6666666666665,
+      "beat_scroll_position_px": 2492.3242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 611,
+      "audio_seconds": 20.366666666666667,
+      "audio_scroll_position_px": 2545.8333333333335,
+      "beat_scroll_position_px": 2496.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 612,
+      "audio_seconds": 20.4,
+      "audio_scroll_position_px": 2550,
+      "beat_scroll_position_px": 2500.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 613,
+      "audio_seconds": 20.433333333333334,
+      "audio_scroll_position_px": 2554.1666666666665,
+      "beat_scroll_position_px": 2504.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 614,
+      "audio_seconds": 20.466666666666665,
+      "audio_scroll_position_px": 2558.333333333333,
+      "beat_scroll_position_px": 2508.990929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 615,
+      "audio_seconds": 20.5,
+      "audio_scroll_position_px": 2562.5,
+      "beat_scroll_position_px": 2513.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 616,
+      "audio_seconds": 20.533333333333335,
+      "audio_scroll_position_px": 2566.666666666667,
+      "beat_scroll_position_px": 2517.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 617,
+      "audio_seconds": 20.566666666666666,
+      "audio_scroll_position_px": 2570.8333333333335,
+      "beat_scroll_position_px": 2521.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 618,
+      "audio_seconds": 20.6,
+      "audio_scroll_position_px": 2575,
+      "beat_scroll_position_px": 2525.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 619,
+      "audio_seconds": 20.633333333333333,
+      "audio_scroll_position_px": 2579.1666666666665,
+      "beat_scroll_position_px": 2529.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 620,
+      "audio_seconds": 20.666666666666668,
+      "audio_scroll_position_px": 2583.3333333333335,
+      "beat_scroll_position_px": 2533.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 621,
+      "audio_seconds": 20.7,
+      "audio_scroll_position_px": 2587.5,
+      "beat_scroll_position_px": 2538.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 622,
+      "audio_seconds": 20.733333333333334,
+      "audio_scroll_position_px": 2591.666666666667,
+      "beat_scroll_position_px": 2542.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 623,
+      "audio_seconds": 20.766666666666666,
+      "audio_scroll_position_px": 2595.833333333333,
+      "beat_scroll_position_px": 2546.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 624,
+      "audio_seconds": 20.8,
+      "audio_scroll_position_px": 2600,
+      "beat_scroll_position_px": 2550.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 625,
+      "audio_seconds": 20.833333333333332,
+      "audio_scroll_position_px": 2604.1666666666665,
+      "beat_scroll_position_px": 2554.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 626,
+      "audio_seconds": 20.866666666666667,
+      "audio_scroll_position_px": 2608.3333333333335,
+      "beat_scroll_position_px": 2558.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 627,
+      "audio_seconds": 20.9,
+      "audio_scroll_position_px": 2612.5,
+      "beat_scroll_position_px": 2563.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 628,
+      "audio_seconds": 20.933333333333334,
+      "audio_scroll_position_px": 2616.6666666666665,
+      "beat_scroll_position_px": 2567.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 629,
+      "audio_seconds": 20.966666666666665,
+      "audio_scroll_position_px": 2620.833333333333,
+      "beat_scroll_position_px": 2571.490929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 630,
+      "audio_seconds": 21,
+      "audio_scroll_position_px": 2625,
+      "beat_scroll_position_px": 2575.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 631,
+      "audio_seconds": 21.033333333333335,
+      "audio_scroll_position_px": 2629.166666666667,
+      "beat_scroll_position_px": 2579.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 632,
+      "audio_seconds": 21.066666666666666,
+      "audio_scroll_position_px": 2633.3333333333335,
+      "beat_scroll_position_px": 2583.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 633,
+      "audio_seconds": 21.1,
+      "audio_scroll_position_px": 2637.5,
+      "beat_scroll_position_px": 2588.1575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 634,
+      "audio_seconds": 21.133333333333333,
+      "audio_scroll_position_px": 2641.6666666666665,
+      "beat_scroll_position_px": 2592.3242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 635,
+      "audio_seconds": 21.166666666666668,
+      "audio_scroll_position_px": 2645.8333333333335,
+      "beat_scroll_position_px": 2596.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 636,
+      "audio_seconds": 21.2,
+      "audio_scroll_position_px": 2650,
+      "beat_scroll_position_px": 2600.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 637,
+      "audio_seconds": 21.233333333333334,
+      "audio_scroll_position_px": 2654.166666666667,
+      "beat_scroll_position_px": 2604.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 638,
+      "audio_seconds": 21.266666666666666,
+      "audio_scroll_position_px": 2658.333333333333,
+      "beat_scroll_position_px": 2608.990929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 639,
+      "audio_seconds": 21.3,
+      "audio_scroll_position_px": 2662.5,
+      "beat_scroll_position_px": 2613.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 640,
+      "audio_seconds": 21.333333333333332,
+      "audio_scroll_position_px": 2666.6666666666665,
+      "beat_scroll_position_px": 2617.3242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 641,
+      "audio_seconds": 21.366666666666667,
+      "audio_scroll_position_px": 2670.8333333333335,
+      "beat_scroll_position_px": 2621.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 642,
+      "audio_seconds": 21.4,
+      "audio_scroll_position_px": 2675,
+      "beat_scroll_position_px": 2625.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 643,
+      "audio_seconds": 21.433333333333334,
+      "audio_scroll_position_px": 2679.1666666666665,
+      "beat_scroll_position_px": 2629.824263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 644,
+      "audio_seconds": 21.466666666666665,
+      "audio_scroll_position_px": 2683.333333333333,
+      "beat_scroll_position_px": 2633.990929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 645,
+      "audio_seconds": 21.5,
+      "audio_scroll_position_px": 2687.5,
+      "beat_scroll_position_px": 2638.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 646,
+      "audio_seconds": 21.533333333333335,
+      "audio_scroll_position_px": 2691.666666666667,
+      "beat_scroll_position_px": 2642.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 647,
+      "audio_seconds": 21.566666666666666,
+      "audio_scroll_position_px": 2695.8333333333335,
+      "beat_scroll_position_px": 2646.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 648,
+      "audio_seconds": 21.6,
+      "audio_scroll_position_px": 2700,
+      "beat_scroll_position_px": 2650.6575963718824,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 649,
+      "audio_seconds": 21.633333333333333,
+      "audio_scroll_position_px": 2704.1666666666665,
+      "beat_scroll_position_px": 2654.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 650,
+      "audio_seconds": 21.666666666666668,
+      "audio_scroll_position_px": 2708.3333333333335,
+      "beat_scroll_position_px": 2658.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 651,
+      "audio_seconds": 21.7,
+      "audio_scroll_position_px": 2712.5,
+      "beat_scroll_position_px": 2663.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 652,
+      "audio_seconds": 21.733333333333334,
+      "audio_scroll_position_px": 2716.666666666667,
+      "beat_scroll_position_px": 2667.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 653,
+      "audio_seconds": 21.766666666666666,
+      "audio_scroll_position_px": 2720.833333333333,
+      "beat_scroll_position_px": 2671.4909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 654,
+      "audio_seconds": 21.8,
+      "audio_scroll_position_px": 2725,
+      "beat_scroll_position_px": 2675.657596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 124.99999999998924
+    },
+    {
+      "frame": 655,
+      "audio_seconds": 21.833333333333332,
+      "audio_scroll_position_px": 2729.1666666666665,
+      "beat_scroll_position_px": 2679.8242630385485,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 656,
+      "audio_seconds": 21.866666666666667,
+      "audio_scroll_position_px": 2733.3333333333335,
+      "beat_scroll_position_px": 2683.9909297052154,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 657,
+      "audio_seconds": 21.9,
+      "audio_scroll_position_px": 2737.5,
+      "beat_scroll_position_px": 2688.157596371882,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 658,
+      "audio_seconds": 21.933333333333334,
+      "audio_scroll_position_px": 2741.6666666666665,
+      "beat_scroll_position_px": 2692.324263038549,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    },
+    {
+      "frame": 659,
+      "audio_seconds": 21.966666666666665,
+      "audio_scroll_position_px": 2745.833333333333,
+      "beat_scroll_position_px": 2696.490929705215,
+      "audio_scroll_pixels_per_second": 125,
+      "beat_scroll_pixels_per_second": 125.00000000000287
+    }
+  ]
+}

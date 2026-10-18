@@ -1,0 +1,16 @@
+{
+  "phase": "B4.4",
+  "status": "comparison_ready_user_choice_pending",
+  "baseline_svg_frames_byte_identical": 660,
+  "audio_sha256_unchanged": true,
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 961,
+  "scene_checks": "scene_checks.json",
+  "page_checks": "page_checks.json",
+  "visual_inspection": "comparison.png directly inspected; three candidates at same audio positions",
+  "actual_browser_playback": "not tested",
+  "human_listening": "not performed",
+  "measured_latency_seconds": null,
+  "alignment_accuracy": "not measured",
+  "default_candidate": "original"
+}

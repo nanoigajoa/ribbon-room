@@ -1,0 +1,11 @@
+{
+  "title": "Mozart · String Quartet No. 19 · K.465",
+  "subtitle": "I. Adagio · real quartet recording · 18s · automatic alignment trial",
+  "pageTitle": "모차르트 불협화음 사중주 · 실제 연주",
+  "audioFile": "tracks/mozart-k465/audio.wav",
+  "audioKind": "real_ensemble_recording",
+  "audioLabel": "실제 현악 사중주 녹음",
+  "description": "QuartSet / MusicNet의 실제 합주 녹음을 재생합니다. 음표 시간은 자동 정렬한 후보이며 청취 검토가 필요합니다.",
+  "footer": "실제 합주 녹음 · 자동 정렬 시험 · 반음당 높이 동일 / 악기별 기준 높이는 다름",
+  "credit": "MusicNet / QuartSet"
+}

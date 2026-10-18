@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "scope": "actual page script and embedded data with DOM/media stubs",
+  "anchor_roundtrips": 527,
+  "max_roundtrip_error_beats": 0,
+  "modes": [
+    "dtw",
+    "linear"
+  ],
+  "checks": [
+    "all local assets exist",
+    "embedded contract matches JSON",
+    "anchor inversion",
+    "outside range",
+    "all measure buttons",
+    "fractional beat seek",
+    "mode change retains playback position",
+    "rate",
+    "error display"
+  ],
+  "browser_rendering_and_audio": "not tested"
+}

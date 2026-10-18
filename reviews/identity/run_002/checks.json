@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "python_tests": {
+    "command": ".venv/bin/python -m unittest discover -s tests -v",
+    "passed": 27,
+    "source": "executed during this implementation session"
+  },
+  "frontend_build": {
+    "command": "npm run build",
+    "status": "passed",
+    "warning": "existing Remotion use client directive bundler warning"
+  },
+  "page_logic": {
+    "status": "passed",
+    "scope": "actual generated page JavaScript with a minimal DOM stub; browser rendering not tested",
+    "checks": [
+      "initial Viola selection",
+      "Violin I: all note buttons, shared highlighting, crop values and absent notes",
+      "Violin II: all note buttons, shared highlighting, crop values and absent notes",
+      "Viola: all note buttons, shared highlighting, crop values and absent notes",
+      "Cello: all note buttons, shared highlighting, crop values and absent notes",
+      "Enter/Space on SVG notes; clipped boundary detail"
+    ],
+    "chrome_launched": false
+  },
+  "cli_parts_and_identity_match_crop_b": true,
+  "preservation_rechecked_files": 246,
+  "http": {
+    "index.html": {
+      "curl_fL_exit_code": 0,
+      "bytes_match": true
+    },
+    "identity.png": {
+      "curl_fL_exit_code": 0,
+      "bytes_match": true
+    },
+    "comparison.json": {
+      "curl_fL_exit_code": 0,
+      "bytes_match": true
+    },
+    "validation.json": {
+      "curl_fL_exit_code": 0,
+      "bytes_match": true
+    }
+  },
+  "visual_inspection": {
+    "file": "identity.png",
+    "performed": true,
+    "observed": "Four part rows with A/B crops, common note markers and clipped boundaries; matching sample source ordinals in both columns"
+  },
+  "browser_rendering_and_listening": "not run; no Chrome launched",
+  "user_review": "pending"
+}

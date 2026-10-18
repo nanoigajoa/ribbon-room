@@ -1,0 +1,46 @@
+{
+  "status": "passed_requires_alignment_and_listening_review",
+  "phase": "B2.3",
+  "score_schema": "0.3.0; all original note/beat/identity fields preserved",
+  "voice_selection": [
+    "all",
+    "violin_1",
+    "violin_2",
+    "viola",
+    "cello"
+  ],
+  "audio_kind": "real_ensemble_recording",
+  "sample_rate": 48000,
+  "sample_count": 839257,
+  "duration_seconds": 17.484520833333335,
+  "audio_versions": 5,
+  "same_sample_grid_all_versions": true,
+  "finite_and_peak_below_full_scale": true,
+  "score_unmodified": true,
+  "preserved_file_count": 464,
+  "all_previous_files_unchanged": true,
+  "alignment_accuracy_ms": null,
+  "isolated_stems_available": false,
+  "audio_quality_and_focus_benefit": "not evaluated by listening; masks are not instrument isolation",
+  "browser_playback": "not verified",
+  "user_review": "pending",
+  "code_sha256": {
+    "src/score_ribbon/opening_alignment.py": "ff3b8babde71fac840f728461da4ab537f7056da7811a11ff9aa55d509e4579e",
+    "src/score_ribbon/voice_focus.py": "e3b79768d0bf37cb6e33c116122a6ddbb06e54ce16e771e4542422c460c08b74",
+    "scripts/build_voice_focus_review.py": "0870d7cc986fcc41a20aa608df1eace30a973476fc883d170f3d7972efaf57cd",
+    "frontend/src/voice-focus-review.tsx": "0db95092bbbebfcec0fe21d1edb597f367d9e8b28dd426d109ed896b82ffaaef",
+    "frontend/shared/voice-focus.mjs": "a9ccb6001a9254a719a1e22c28aecd7adec507fb86e28cf66967119a5c205724",
+    "frontend/shared/ribbon-review.mjs": "98dbe021b763e58bb775ade93ed939f3ba706f0fdc9f9cded75d791a5764af89",
+    "scripts/build_ribbon_review.py": "a742ee996f1e9b8f736275de85bfbb70a85ed8f1fbdb0097f623e369dfcc4075",
+    "frontend/scripts/build_voice_focus_review.mjs": "a3aa0fc5c7172a6d381b574c6662b6ebce8a2b30159cc1f7a120c3cdc9ff2b7d",
+    "frontend/scripts/ribbon_review_scene.tsx": "af73a2af3300f149f7d0cf4e50f603e247b15a188a69bdc826fe0301641e341e",
+    "tests/test_voice_focus.py": "729432eca84fc1c34faa16645d52dae76fd73982ef391c42572516b52563de48"
+  },
+  "audio_sha256": {
+    "all.wav": "39349ef122bb2c6d113bc0577a8c86c73c1cb9204d0da250a82d27640e989770",
+    "violin_1.wav": "7a99dcb92839fb55074b84fe0a14cd584d54eab2b152c3de3336e3f7adc91dc0",
+    "violin_2.wav": "6abb422acc2fa12793fc77a5ebc65e1aafc5b043b465f0eb8659cba60f52ac66",
+    "viola.wav": "82cd0c38cbce5412744b408e0f743d119c285a452fa734cd3f2b9e3b134f84ce",
+    "cello.wav": "a899dccd81fea5a6f264e8dc6fe1659b05ad152e824d84c69eaf980f1c11cdda"
+  }
+}

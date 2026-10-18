@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "scope": "actual page JS with DOM/media stubs",
+  "samples_compared_to_python": 551,
+  "max_bpm_difference": 0,
+  "checks": [
+    "inline mapping equals file",
+    "assets exist",
+    "all full-window BPM values match Python",
+    "edge windows absent",
+    "window choice retains audio position and state",
+    "curve visibility",
+    "raw toggle",
+    "measure and fractional beat seek",
+    "cursor position",
+    "rate",
+    "outside range",
+    "error"
+  ],
+  "browser_audio_and_rendering": "not tested"
+}

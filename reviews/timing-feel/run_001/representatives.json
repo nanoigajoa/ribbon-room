@@ -1,0 +1,47 @@
+[
+  {
+    "name": "original-51",
+    "audio_seconds": 1.7,
+    "candidate": "original"
+  },
+  {
+    "name": "slightly-earlier-51",
+    "audio_seconds": 1.7,
+    "candidate": "slightly-earlier"
+  },
+  {
+    "name": "earlier-51",
+    "audio_seconds": 1.7,
+    "candidate": "earlier"
+  },
+  {
+    "name": "original-165",
+    "audio_seconds": 5.5,
+    "candidate": "original"
+  },
+  {
+    "name": "slightly-earlier-165",
+    "audio_seconds": 5.5,
+    "candidate": "slightly-earlier"
+  },
+  {
+    "name": "earlier-165",
+    "audio_seconds": 5.5,
+    "candidate": "earlier"
+  },
+  {
+    "name": "original-357",
+    "audio_seconds": 11.9,
+    "candidate": "original"
+  },
+  {
+    "name": "slightly-earlier-357",
+    "audio_seconds": 11.9,
+    "candidate": "slightly-earlier"
+  },
+  {
+    "name": "earlier-357",
+    "audio_seconds": 11.9,
+    "candidate": "earlier"
+  }
+]

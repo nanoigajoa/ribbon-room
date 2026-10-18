@@ -1,0 +1,23 @@
+{
+  "inputs": {
+    "outputs/alignment_comparisons/run_001/score_data.json": "4230226f162ade55393991564972c8ab696912e61a006d23e984d4ea80cb9f95",
+    "outputs/alignment_comparisons/run_001/alignment_raw.json": "7a283a1c982d19fa63ae3d5129fcdee51976f76302dde44a479fd8fbff4c8dee",
+    "outputs/alignment_comparisons/run_001/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/alignment_comparisons/run_001/source_provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964"
+  },
+  "source_and_license_record": "source_provenance.json",
+  "audio": {
+    "sample_rate": 48000,
+    "frames": 1056000,
+    "channels": 2,
+    "original_start_seconds": 0
+  },
+  "processing": "immutable score events -> both beat endpoints through raw A -> intersect audio crop; actual WAV unchanged",
+  "code_sha256": {
+    "src/score_ribbon/performance.py": "a4e63671dd1e547a0588d7fb3ad6003572b69f988c637c720101dbaf6d2d99b5",
+    "scripts/build_performance_review.py": "9c7514107a44ee9589653231c6e49cc8afb1624840ceb726a9d490e5f7a93239",
+    "frontend/src/performance-review.tsx": "f4a2683e24e794ed2dde79ea4a50638d6fee306ecb51ed4f1f4f57ab3f707d48",
+    "frontend/scripts/build_performance_review.mjs": "211fbb7ca0c8505ee880284efafd6e315fef729eb5f2c54e41e4368792f8390c",
+    "tests/test_performance.py": "b53d507a62da74340fab1bc0a2c6db9893b8dd0f64b69ad04ba865ef1d2f4533"
+  }
+}

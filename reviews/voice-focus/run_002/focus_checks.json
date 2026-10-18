@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "visual_frames": 526,
+  "choices": [
+    "all",
+    "violin_1",
+    "violin_2",
+    "viola",
+    "cello"
+  ],
+  "unchanged_activity_for_all_choices": true,
+  "all_clock_anchor_inverse_checks": true,
+  "media_switch_time_rate_state_and_rapid_change": "passed with stubs",
+  "independent_original_audio_toggle": "passed",
+  "browser_rendering_and_sound": "not tested"
+}

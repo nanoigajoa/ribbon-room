@@ -1,0 +1,11 @@
+{
+  "title": "Mendelssohn · Op.80 · I. Allegro vivace assai",
+  "subtitle": "연주 초에 배치한 음표 · 임시 DTW A",
+  "pageTitle": "실제 연주 시계 변환",
+  "audioFile": "audio.wav",
+  "audioKind": "real_ensemble_recording",
+  "audioLabel": "실제 원음 · 정렬 정확도 미확정",
+  "description": "연주 시간 데이터와 변환 미리보기",
+  "footer": "원본 연주 초 · 등속 이동 · 진입 시각은 임시 정렬 기준",
+  "credit": "Musopen String Quartet / OpenScore"
+}

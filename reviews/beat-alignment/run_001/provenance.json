@@ -1,0 +1,16 @@
+{
+  "inputs": {
+    "outputs/correspondence_reviews/run_002/score_data.json": "4230226f162ade55393991564972c8ab696912e61a006d23e984d4ea80cb9f95",
+    "outputs/correspondence_reviews/run_002/alignment.json": "ddd3d1682509b9a3d7bc4c271dbfa932f7f1ca6a4d4f43483ade9747196deb84",
+    "outputs/correspondence_reviews/run_002/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/correspondence_reviews/run_002/provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964"
+  },
+  "source_and_license_record": "input_provenance.json",
+  "processing": "existing candidate clock conversion; unchanged real audio excerpt",
+  "code_sha256": {
+    "src/score_ribbon/beat_alignment.py": "11d4f3141adf791abe341fa8bb24667f5858f72af41276eaac63b2162ad08300",
+    "frontend/shared/beat-alignment-review.js": "8b6b97a7ece6595c9ae032a89fdb21e222e37e3d72ced57714b9b420e52f6160",
+    "scripts/build_beat_alignment_review.py": "97b6f61e286cddd91b1eec25a64f647633f330ac0214785ae6821eae1a8075fc",
+    "tests/test_beat_alignment.py": "f50ade978e47f66108a672ab7db7f57c711ed24b90df134e9dbffb18d9f7ad42"
+  }
+}

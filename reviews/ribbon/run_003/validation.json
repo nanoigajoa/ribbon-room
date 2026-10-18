@@ -1,0 +1,4713 @@
+{
+  "status": "passed_requires_visual_and_listening_review",
+  "phase": "B2.1",
+  "independent_xml_audit": {
+    "status": "passed",
+    "quarter_bpm": 152.0,
+    "source_sha256": "0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03",
+    "issues": [],
+    "parts": [
+      {
+        "id": "violin_1",
+        "name": "Violin I",
+        "source_name": "Violin 1",
+        "events": 60,
+        "first_onset_seconds": 1.5789473684210527,
+        "tied_events": 1,
+        "chord_attacks": 0,
+        "rests": [
+          {
+            "onset_beat": 0.0,
+            "duration_beats": 4.0
+          },
+          {
+            "onset_beat": 33.0,
+            "duration_beats": 1.0
+          }
+        ],
+        "dynamics": {
+          "p": 32,
+          "sf": 27,
+          "ff": 1
+        },
+        "missing_velocity_events": 60,
+        "reference_notes": [
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 4.0,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 4.0,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 1.5789473684210527,
+            "duration_seconds": 0.19736842105263164,
+            "source_onset_seconds": 1.5789473684210527,
+            "source_duration_seconds": 0.19736842105263164,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_beat": 4.5,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 64.0,
+                "pitch_name": "E4",
+                "onset_beat": 4.5,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 1.7763157894736843,
+            "duration_seconds": 0.19736842105263164,
+            "source_onset_seconds": 1.7763157894736843,
+            "source_duration_seconds": 0.19736842105263164,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 5.0,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 5.0,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 1.973684210526316,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 1.973684210526316,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_beat": 5.5,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 67.0,
+                "pitch_name": "G4",
+                "onset_beat": 5.5,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.1710526315789473,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 2.1710526315789473,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 6.0,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 6.0,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.3684210526315788,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 2.3684210526315788,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 6.5,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 6.5,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.5657894736842106,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 2.5657894736842106,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 7.0,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 7.0,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.763157894736842,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 2.763157894736842,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 7.5,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 7.5,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.960526315789474,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 2.960526315789474,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 8.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 8.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.1578947368421053,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 3.1578947368421053,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_beat": 8.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 67.0,
+                "pitch_name": "G4",
+                "onset_beat": 8.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.3552631578947367,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 3.3552631578947367,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 9.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 9.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.5526315789473686,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 3.5526315789473686,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_beat": 9.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 67.0,
+                "pitch_name": "G4",
+                "onset_beat": 9.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.75,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 3.75,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 10.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 10.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.947368421052632,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 3.947368421052632,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 10.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 10.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.144736842105263,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.144736842105263,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_beat": 11.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 67.0,
+                "pitch_name": "G4",
+                "onset_beat": 11.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.342105263157895,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.342105263157895,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 69.0,
+            "pitch_name": "A4",
+            "onset_beat": 11.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 69.0,
+                "pitch_name": "A4",
+                "onset_beat": 11.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.5394736842105265,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 4.5394736842105265,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 12.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 12.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.7368421052631575,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.7368421052631575,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 12.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 12.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.934210526315789,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.934210526315789,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_beat": 13.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 73.0,
+                "pitch_name": "D-5",
+                "onset_beat": 13.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.131578947368421,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.131578947368421,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 75.0,
+            "pitch_name": "E-5",
+            "onset_beat": 13.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 75.0,
+                "pitch_name": "E-5",
+                "onset_beat": 13.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.328947368421053,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 5.328947368421053,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 77.0,
+            "pitch_name": "F5",
+            "onset_beat": 14.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 77.0,
+                "pitch_name": "F5",
+                "onset_beat": 14.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.526315789473684,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.526315789473684,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 75.0,
+            "pitch_name": "E-5",
+            "onset_beat": 14.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 75.0,
+                "pitch_name": "E-5",
+                "onset_beat": 14.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.723684210526316,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.723684210526316,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_beat": 15.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 73.0,
+                "pitch_name": "D-5",
+                "onset_beat": 15.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.921052631578948,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 5.921052631578948,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 15.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 15.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.118421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.118421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 16.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 16.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.315789473684211,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.315789473684211,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 16.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 16.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.5131578947368425,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 6.5131578947368425,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_beat": 17.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 73.0,
+                "pitch_name": "D-5",
+                "onset_beat": 17.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.7105263157894735,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.7105263157894735,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 17.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 17.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.907894736842105,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.907894736842105,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 18.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 18.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.105263157894737,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 7.105263157894737,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 18.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 18.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.302631578947368,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.302631578947368,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_beat": 19.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 67.0,
+                "pitch_name": "G4",
+                "onset_beat": 19.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.5,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.5,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 19.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 19.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.697368421052632,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.697368421052632,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_beat": 20.0,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 64.0,
+                "pitch_name": "E4",
+                "onset_beat": 20.0,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.894736842105264,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.894736842105264,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_beat": 20.5,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 67.0,
+                "pitch_name": "G4",
+                "onset_beat": 20.5,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.092105263157896,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 8.092105263157896,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 21.0,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 21.0,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.289473684210526,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 8.289473684210526,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_beat": 21.5,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 73.0,
+                "pitch_name": "D-5",
+                "onset_beat": 21.5,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.486842105263158,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 8.486842105263158,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_beat": 22.0,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 73.0,
+                "pitch_name": "D-5",
+                "onset_beat": 22.0,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.68421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 8.68421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 22.5,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 22.5,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.881578947368421,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 8.881578947368421,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 23.0,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 23.0,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.078947368421053,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 9.078947368421053,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 23.5,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 23.5,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.276315789473685,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 9.276315789473685,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_beat": 24.0,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 64.0,
+                "pitch_name": "E4",
+                "onset_beat": 24.0,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.473684210526315,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 9.473684210526315,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_beat": 24.5,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 67.0,
+                "pitch_name": "G4",
+                "onset_beat": 24.5,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.671052631578947,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 9.671052631578947,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 25.0,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 25.0,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.868421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 9.868421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_beat": 25.5,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 73.0,
+                "pitch_name": "D-5",
+                "onset_beat": 25.5,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.06578947368421,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.06578947368421,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_beat": 26.0,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 73.0,
+                "pitch_name": "D-5",
+                "onset_beat": 26.0,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.263157894736842,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.263157894736842,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 26.5,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 26.5,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.460526315789474,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.460526315789474,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 27.0,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 27.0,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.657894736842106,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 10.657894736842106,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_beat": 27.5,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 67.0,
+                "pitch_name": "G4",
+                "onset_beat": 27.5,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.855263157894736,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.855263157894736,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 28.0,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 28.0,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.052631578947368,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 11.052631578947368,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 28.5,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 28.5,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.25,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 11.25,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 29.0,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 29.0,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.447368421052632,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 11.447368421052632,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 29.5,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 29.5,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.644736842105264,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 11.644736842105264,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 30.0,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 30.0,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.842105263157896,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 11.842105263157896,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 30.5,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 30.5,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.039473684210526,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 12.039473684210526,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_beat": 31.0,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 68.0,
+                "pitch_name": "A-4",
+                "onset_beat": 31.0,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.236842105263158,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 12.236842105263158,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 31.5,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 31.5,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.43421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 12.43421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 32.0,
+            "duration_beats": 1.0,
+            "measure": 9,
+            "dynamics": "ff",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 32.0,
+                "duration_beats": 1.0,
+                "measure": 9,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.631578947368421,
+            "duration_seconds": 0.3947368421052637,
+            "source_onset_seconds": 12.631578947368421,
+            "source_duration_seconds": 0.3947368421052637,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 85.0,
+            "pitch_name": "D-6",
+            "onset_beat": 34.0,
+            "duration_beats": 1.5,
+            "measure": 9,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 85.0,
+                "pitch_name": "D-6",
+                "onset_beat": 34.0,
+                "duration_beats": 1.5,
+                "measure": 9,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 13.421052631578947,
+            "duration_seconds": 0.5921052631578956,
+            "source_onset_seconds": 13.421052631578947,
+            "source_duration_seconds": 0.5921052631578956,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 85.0,
+            "pitch_name": "D-6",
+            "onset_beat": 35.5,
+            "duration_beats": 0.5,
+            "measure": 9,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 85.0,
+                "pitch_name": "D-6",
+                "onset_beat": 35.5,
+                "duration_beats": 0.5,
+                "measure": 9,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 14.013157894736842,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 14.013157894736842,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 85.0,
+            "pitch_name": "D-6",
+            "onset_beat": 36.0,
+            "duration_beats": 2.5,
+            "measure": 10,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 85.0,
+                "pitch_name": "D-6",
+                "onset_beat": 36.0,
+                "duration_beats": 2.0,
+                "measure": 10,
+                "chord": false,
+                "ties": [
+                  "start"
+                ]
+              },
+              {
+                "pitch_midi": 85.0,
+                "pitch_name": "D-6",
+                "onset_beat": 38.0,
+                "duration_beats": 0.5,
+                "measure": 10,
+                "chord": false,
+                "ties": [
+                  "stop"
+                ]
+              }
+            ],
+            "onset_seconds": 14.210526315789474,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 14.210526315789474,
+            "source_duration_seconds": 0.9868421052631575,
+            "clipped_start": false,
+            "clipped_end": true,
+            "velocity": null,
+            "velocity_source": null
+          }
+        ]
+      },
+      {
+        "id": "violin_2",
+        "name": "Violin II",
+        "source_name": "Violin 2",
+        "events": 46,
+        "first_onset_seconds": 1.5789473684210527,
+        "tied_events": 0,
+        "chord_attacks": 1,
+        "rests": [
+          {
+            "onset_beat": 0.0,
+            "duration_beats": 4.0
+          },
+          {
+            "onset_beat": 33.0,
+            "duration_beats": 1.0
+          },
+          {
+            "onset_beat": 34.0,
+            "duration_beats": 2.0
+          },
+          {
+            "onset_beat": 36.0,
+            "duration_beats": 2.0
+          }
+        ],
+        "dynamics": {
+          "p": 32,
+          "sf": 12,
+          "ff": 2
+        },
+        "missing_velocity_events": 46,
+        "reference_notes": [
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 4.0,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 4.0,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 1.5789473684210527,
+            "duration_seconds": 0.19736842105263164,
+            "source_onset_seconds": 1.5789473684210527,
+            "source_duration_seconds": 0.19736842105263164,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_beat": 4.5,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 55.0,
+                "pitch_name": "G3",
+                "onset_beat": 4.5,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 1.7763157894736843,
+            "duration_seconds": 0.19736842105263164,
+            "source_onset_seconds": 1.7763157894736843,
+            "source_duration_seconds": 0.19736842105263164,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 5.0,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 5.0,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 1.973684210526316,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 1.973684210526316,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 5.5,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 5.5,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.1710526315789473,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 2.1710526315789473,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 6.0,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 6.0,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.3684210526315788,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 2.3684210526315788,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 6.5,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 6.5,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.5657894736842106,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 2.5657894736842106,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 7.0,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 7.0,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.763157894736842,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 2.763157894736842,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 7.5,
+            "duration_beats": 0.5,
+            "measure": 2,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 7.5,
+                "duration_beats": 0.5,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.960526315789474,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 2.960526315789474,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 8.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 8.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.1578947368421053,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 3.1578947368421053,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 8.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 8.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.3552631578947367,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 3.3552631578947367,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 9.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 9.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.5526315789473686,
+            "duration_seconds": 0.19736842105263142,
+            "source_onset_seconds": 3.5526315789473686,
+            "source_duration_seconds": 0.19736842105263142,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 9.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 9.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.75,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 3.75,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 10.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 10.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.947368421052632,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 3.947368421052632,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 10.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 10.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.144736842105263,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.144736842105263,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_beat": 11.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 61.0,
+                "pitch_name": "D-4",
+                "onset_beat": 11.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.342105263157895,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.342105263157895,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_beat": 11.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 63.0,
+                "pitch_name": "E-4",
+                "onset_beat": 11.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.5394736842105265,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 4.5394736842105265,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 12.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 12.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.7368421052631575,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.7368421052631575,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 69.0,
+            "pitch_name": "A4",
+            "onset_beat": 12.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 69.0,
+                "pitch_name": "A4",
+                "onset_beat": 12.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.934210526315789,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.934210526315789,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 13.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 13.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.131578947368421,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.131578947368421,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 13.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 13.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.328947368421053,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 5.328947368421053,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_beat": 14.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 73.0,
+                "pitch_name": "D-5",
+                "onset_beat": 14.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.526315789473684,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.526315789473684,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_beat": 14.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 72.0,
+                "pitch_name": "C5",
+                "onset_beat": 14.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.723684210526316,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.723684210526316,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 15.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 15.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.921052631578948,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 5.921052631578948,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 66.0,
+            "pitch_name": "G-4",
+            "onset_beat": 15.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 66.0,
+                "pitch_name": "G-4",
+                "onset_beat": 15.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.118421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.118421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 16.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 16.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.315789473684211,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.315789473684211,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 69.0,
+            "pitch_name": "A4",
+            "onset_beat": 16.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 69.0,
+                "pitch_name": "A4",
+                "onset_beat": 16.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.5131578947368425,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 6.5131578947368425,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_beat": 17.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 70.0,
+                "pitch_name": "B-4",
+                "onset_beat": 17.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.7105263157894735,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.7105263157894735,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 66.0,
+            "pitch_name": "G-4",
+            "onset_beat": 17.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 66.0,
+                "pitch_name": "G-4",
+                "onset_beat": 17.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.907894736842105,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.907894736842105,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 18.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 18.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.105263157894737,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 7.105263157894737,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_beat": 18.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 63.0,
+                "pitch_name": "E-4",
+                "onset_beat": 18.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.302631578947368,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.302631578947368,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_beat": 19.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 61.0,
+                "pitch_name": "D-4",
+                "onset_beat": 19.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.5,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.5,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 19.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "p",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 19.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.697368421052632,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.697368421052632,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 20.0,
+            "duration_beats": 2.0,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 20.0,
+                "duration_beats": 2.0,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.894736842105264,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 7.894736842105264,
+            "source_duration_seconds": 0.7894736842105257,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 22.0,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 22.0,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.68421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 8.68421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 22.5,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 22.5,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.881578947368421,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 8.881578947368421,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 23.0,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 23.0,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.078947368421053,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 9.078947368421053,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 23.5,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 23.5,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.276315789473685,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 9.276315789473685,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 24.0,
+            "duration_beats": 2.0,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 24.0,
+                "duration_beats": 2.0,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.473684210526315,
+            "duration_seconds": 0.7894736842105274,
+            "source_onset_seconds": 9.473684210526315,
+            "source_duration_seconds": 0.7894736842105274,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 26.0,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 26.0,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.263157894736842,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.263157894736842,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 26.5,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 26.5,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.460526315789474,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.460526315789474,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 27.0,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 27.0,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.657894736842106,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 10.657894736842106,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 27.5,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 27.5,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.855263157894736,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.855263157894736,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 62.0,
+            "pitch_name": "D4",
+            "onset_beat": 28.0,
+            "duration_beats": 2.0,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 62.0,
+                "pitch_name": "D4",
+                "onset_beat": 28.0,
+                "duration_beats": 2.0,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.052631578947368,
+            "duration_seconds": 0.7894736842105274,
+            "source_onset_seconds": 11.052631578947368,
+            "source_duration_seconds": 0.7894736842105274,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 62.0,
+            "pitch_name": "D4",
+            "onset_beat": 30.0,
+            "duration_beats": 2.0,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 62.0,
+                "pitch_name": "D4",
+                "onset_beat": 30.0,
+                "duration_beats": 2.0,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.842105263157896,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 11.842105263157896,
+            "source_duration_seconds": 0.7894736842105257,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_beat": 32.0,
+            "duration_beats": 1.0,
+            "measure": 9,
+            "dynamics": "ff",
+            "segments": [
+              {
+                "pitch_midi": 55.0,
+                "pitch_name": "G3",
+                "onset_beat": 32.0,
+                "duration_beats": 1.0,
+                "measure": 9,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.631578947368421,
+            "duration_seconds": 0.3947368421052637,
+            "source_onset_seconds": 12.631578947368421,
+            "source_duration_seconds": 0.3947368421052637,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_beat": 32.0,
+            "duration_beats": 1.0,
+            "measure": 9,
+            "dynamics": "ff",
+            "segments": [
+              {
+                "pitch_midi": 64.0,
+                "pitch_name": "E4",
+                "onset_beat": 32.0,
+                "duration_beats": 1.0,
+                "measure": 9,
+                "chord": true,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.631578947368421,
+            "duration_seconds": 0.3947368421052637,
+            "source_onset_seconds": 12.631578947368421,
+            "source_duration_seconds": 0.3947368421052637,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          }
+        ]
+      },
+      {
+        "id": "viola",
+        "name": "Viola",
+        "source_name": "Viola",
+        "events": 44,
+        "first_onset_seconds": 0.7894736842105263,
+        "tied_events": 0,
+        "chord_attacks": 1,
+        "rests": [
+          {
+            "onset_beat": 0.0,
+            "duration_beats": 2.0
+          },
+          {
+            "onset_beat": 33.0,
+            "duration_beats": 1.0
+          },
+          {
+            "onset_beat": 34.0,
+            "duration_beats": 2.0
+          },
+          {
+            "onset_beat": 36.0,
+            "duration_beats": 2.0
+          }
+        ],
+        "dynamics": {
+          "fp": 24,
+          "sf": 18,
+          "ff": 2
+        },
+        "missing_velocity_events": 44,
+        "reference_notes": [
+          {
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_beat": 2.0,
+            "duration_beats": 2.0,
+            "measure": 1,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 48.0,
+                "pitch_name": "C3",
+                "onset_beat": 2.0,
+                "duration_beats": 2.0,
+                "measure": 1,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 0.7894736842105263,
+            "duration_seconds": 0.7894736842105263,
+            "source_onset_seconds": 0.7894736842105263,
+            "source_duration_seconds": 0.7894736842105263,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_beat": 4.0,
+            "duration_beats": 2.0,
+            "measure": 2,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 48.0,
+                "pitch_name": "C3",
+                "onset_beat": 4.0,
+                "duration_beats": 2.0,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 1.5789473684210527,
+            "duration_seconds": 0.7894736842105261,
+            "source_onset_seconds": 1.5789473684210527,
+            "source_duration_seconds": 0.7894736842105261,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_beat": 6.0,
+            "duration_beats": 2.0,
+            "measure": 2,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 48.0,
+                "pitch_name": "C3",
+                "onset_beat": 6.0,
+                "duration_beats": 2.0,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.3684210526315788,
+            "duration_seconds": 0.7894736842105265,
+            "source_onset_seconds": 2.3684210526315788,
+            "source_duration_seconds": 0.7894736842105265,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_beat": 8.0,
+            "duration_beats": 2.0,
+            "measure": 3,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 48.0,
+                "pitch_name": "C3",
+                "onset_beat": 8.0,
+                "duration_beats": 2.0,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.1578947368421053,
+            "duration_seconds": 0.7894736842105265,
+            "source_onset_seconds": 3.1578947368421053,
+            "source_duration_seconds": 0.7894736842105265,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_beat": 10.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 48.0,
+                "pitch_name": "C3",
+                "onset_beat": 10.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.947368421052632,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 3.947368421052632,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 10.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 10.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.144736842105263,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.144736842105263,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 11.0,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 11.0,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.342105263157895,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.342105263157895,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 11.5,
+            "duration_beats": 0.5,
+            "measure": 3,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 11.5,
+                "duration_beats": 0.5,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.5394736842105265,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 4.5394736842105265,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_beat": 12.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 61.0,
+                "pitch_name": "D-4",
+                "onset_beat": 12.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.7368421052631575,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.7368421052631575,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_beat": 12.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 63.0,
+                "pitch_name": "E-4",
+                "onset_beat": 12.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.934210526315789,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 4.934210526315789,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 13.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 13.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.131578947368421,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.131578947368421,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 66.0,
+            "pitch_name": "G-4",
+            "onset_beat": 13.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 66.0,
+                "pitch_name": "G-4",
+                "onset_beat": 13.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.328947368421053,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 5.328947368421053,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 14.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 14.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.526315789473684,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.526315789473684,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 14.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 14.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.723684210526316,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 5.723684210526316,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 15.0,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 15.0,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.921052631578948,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 5.921052631578948,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_beat": 15.5,
+            "duration_beats": 0.5,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 63.0,
+                "pitch_name": "E-4",
+                "onset_beat": 15.5,
+                "duration_beats": 0.5,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.118421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.118421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_beat": 16.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 61.0,
+                "pitch_name": "D-4",
+                "onset_beat": 16.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.315789473684211,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.315789473684211,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_beat": 16.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 63.0,
+                "pitch_name": "E-4",
+                "onset_beat": 16.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.5131578947368425,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 6.5131578947368425,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_beat": 17.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 65.0,
+                "pitch_name": "F4",
+                "onset_beat": 17.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.7105263157894735,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.7105263157894735,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_beat": 17.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 63.0,
+                "pitch_name": "E-4",
+                "onset_beat": 17.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.907894736842105,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 6.907894736842105,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_beat": 18.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 61.0,
+                "pitch_name": "D-4",
+                "onset_beat": 18.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.105263157894737,
+            "duration_seconds": 0.19736842105263097,
+            "source_onset_seconds": 7.105263157894737,
+            "source_duration_seconds": 0.19736842105263097,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 18.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 18.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.302631578947368,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.302631578947368,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_beat": 19.0,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 58.0,
+                "pitch_name": "B-3",
+                "onset_beat": 19.0,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.5,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.5,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 19.5,
+            "duration_beats": 0.5,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 19.5,
+                "duration_beats": 0.5,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.697368421052632,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 7.697368421052632,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_beat": 20.0,
+            "duration_beats": 2.0,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 55.0,
+                "pitch_name": "G3",
+                "onset_beat": 20.0,
+                "duration_beats": 2.0,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.894736842105264,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 7.894736842105264,
+            "source_duration_seconds": 0.7894736842105257,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_beat": 22.0,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 53.0,
+                "pitch_name": "F3",
+                "onset_beat": 22.0,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.68421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 8.68421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 22.5,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 22.5,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.881578947368421,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 8.881578947368421,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 23.0,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 23.0,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.078947368421053,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 9.078947368421053,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 23.5,
+            "duration_beats": 0.5,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 23.5,
+                "duration_beats": 0.5,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.276315789473685,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 9.276315789473685,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_beat": 24.0,
+            "duration_beats": 2.0,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 55.0,
+                "pitch_name": "G3",
+                "onset_beat": 24.0,
+                "duration_beats": 2.0,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.473684210526315,
+            "duration_seconds": 0.7894736842105274,
+            "source_onset_seconds": 9.473684210526315,
+            "source_duration_seconds": 0.7894736842105274,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_beat": 26.0,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 53.0,
+                "pitch_name": "F3",
+                "onset_beat": 26.0,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.263157894736842,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.263157894736842,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 26.5,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 26.5,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.460526315789474,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.460526315789474,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_beat": 27.0,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 60.0,
+                "pitch_name": "C4",
+                "onset_beat": 27.0,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.657894736842106,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 10.657894736842106,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_beat": 27.5,
+            "duration_beats": 0.5,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 53.0,
+                "pitch_name": "F3",
+                "onset_beat": 27.5,
+                "duration_beats": 0.5,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.855263157894736,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 10.855263157894736,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_beat": 28.0,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 53.0,
+                "pitch_name": "F3",
+                "onset_beat": 28.0,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.052631578947368,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 11.052631578947368,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 28.5,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 28.5,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.25,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 11.25,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_beat": 29.0,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 53.0,
+                "pitch_name": "F3",
+                "onset_beat": 29.0,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.447368421052632,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 11.447368421052632,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 29.5,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 29.5,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.644736842105264,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 11.644736842105264,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_beat": 30.0,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 53.0,
+                "pitch_name": "F3",
+                "onset_beat": 30.0,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.842105263157896,
+            "duration_seconds": 0.19736842105263008,
+            "source_onset_seconds": 11.842105263157896,
+            "source_duration_seconds": 0.19736842105263008,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 30.5,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 30.5,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.039473684210526,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 12.039473684210526,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_beat": 31.0,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 53.0,
+                "pitch_name": "F3",
+                "onset_beat": 31.0,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.236842105263158,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 12.236842105263158,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_beat": 31.5,
+            "duration_beats": 0.5,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 56.0,
+                "pitch_name": "A-3",
+                "onset_beat": 31.5,
+                "duration_beats": 0.5,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.43421052631579,
+            "duration_seconds": 0.19736842105263186,
+            "source_onset_seconds": 12.43421052631579,
+            "source_duration_seconds": 0.19736842105263186,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_beat": 32.0,
+            "duration_beats": 1.0,
+            "measure": 9,
+            "dynamics": "ff",
+            "segments": [
+              {
+                "pitch_midi": 48.0,
+                "pitch_name": "C3",
+                "onset_beat": 32.0,
+                "duration_beats": 1.0,
+                "measure": 9,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.631578947368421,
+            "duration_seconds": 0.3947368421052637,
+            "source_onset_seconds": 12.631578947368421,
+            "source_duration_seconds": 0.3947368421052637,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_beat": 32.0,
+            "duration_beats": 1.0,
+            "measure": 9,
+            "dynamics": "ff",
+            "segments": [
+              {
+                "pitch_midi": 55.0,
+                "pitch_name": "G3",
+                "onset_beat": 32.0,
+                "duration_beats": 1.0,
+                "measure": 9,
+                "chord": true,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.631578947368421,
+            "duration_seconds": 0.3947368421052637,
+            "source_onset_seconds": 12.631578947368421,
+            "source_duration_seconds": 0.3947368421052637,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          }
+        ]
+      },
+      {
+        "id": "cello",
+        "name": "Cello",
+        "source_name": "Violoncello",
+        "events": 18,
+        "first_onset_seconds": 0.0,
+        "tied_events": 0,
+        "chord_attacks": 1,
+        "rests": [
+          {
+            "onset_beat": 33.0,
+            "duration_beats": 1.0
+          },
+          {
+            "onset_beat": 34.0,
+            "duration_beats": 2.0
+          },
+          {
+            "onset_beat": 36.0,
+            "duration_beats": 4.0
+          }
+        ],
+        "dynamics": {
+          "fp": 10,
+          "sf": 6,
+          "ff": 2
+        },
+        "missing_velocity_events": 18,
+        "reference_notes": [
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 0.0,
+            "duration_beats": 2.0,
+            "measure": 1,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 0.0,
+                "duration_beats": 2.0,
+                "measure": 1,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 0.0,
+            "duration_seconds": 0.7894736842105263,
+            "source_onset_seconds": 0.0,
+            "source_duration_seconds": 0.7894736842105263,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 2.0,
+            "duration_beats": 2.0,
+            "measure": 1,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 2.0,
+                "duration_beats": 2.0,
+                "measure": 1,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 0.7894736842105263,
+            "duration_seconds": 0.7894736842105263,
+            "source_onset_seconds": 0.7894736842105263,
+            "source_duration_seconds": 0.7894736842105263,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 4.0,
+            "duration_beats": 2.0,
+            "measure": 2,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 4.0,
+                "duration_beats": 2.0,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 1.5789473684210527,
+            "duration_seconds": 0.7894736842105261,
+            "source_onset_seconds": 1.5789473684210527,
+            "source_duration_seconds": 0.7894736842105261,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 6.0,
+            "duration_beats": 2.0,
+            "measure": 2,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 6.0,
+                "duration_beats": 2.0,
+                "measure": 2,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 2.3684210526315788,
+            "duration_seconds": 0.7894736842105265,
+            "source_onset_seconds": 2.3684210526315788,
+            "source_duration_seconds": 0.7894736842105265,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 8.0,
+            "duration_beats": 2.0,
+            "measure": 3,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 8.0,
+                "duration_beats": 2.0,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.1578947368421053,
+            "duration_seconds": 0.7894736842105265,
+            "source_onset_seconds": 3.1578947368421053,
+            "source_duration_seconds": 0.7894736842105265,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 10.0,
+            "duration_beats": 2.0,
+            "measure": 3,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 10.0,
+                "duration_beats": 2.0,
+                "measure": 3,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 3.947368421052632,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 3.947368421052632,
+            "source_duration_seconds": 0.7894736842105257,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 12.0,
+            "duration_beats": 2.0,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 12.0,
+                "duration_beats": 2.0,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 4.7368421052631575,
+            "duration_seconds": 0.7894736842105265,
+            "source_onset_seconds": 4.7368421052631575,
+            "source_duration_seconds": 0.7894736842105265,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 14.0,
+            "duration_beats": 2.0,
+            "measure": 4,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 14.0,
+                "duration_beats": 2.0,
+                "measure": 4,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 5.526315789473684,
+            "duration_seconds": 0.7894736842105265,
+            "source_onset_seconds": 5.526315789473684,
+            "source_duration_seconds": 0.7894736842105265,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 16.0,
+            "duration_beats": 2.0,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 16.0,
+                "duration_beats": 2.0,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 6.315789473684211,
+            "duration_seconds": 0.7894736842105265,
+            "source_onset_seconds": 6.315789473684211,
+            "source_duration_seconds": 0.7894736842105265,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_beat": 18.0,
+            "duration_beats": 2.0,
+            "measure": 5,
+            "dynamics": "fp",
+            "segments": [
+              {
+                "pitch_midi": 41.0,
+                "pitch_name": "F2",
+                "onset_beat": 18.0,
+                "duration_beats": 2.0,
+                "measure": 5,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.105263157894737,
+            "duration_seconds": 0.7894736842105265,
+            "source_onset_seconds": 7.105263157894737,
+            "source_duration_seconds": 0.7894736842105265,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 43.0,
+            "pitch_name": "G2",
+            "onset_beat": 20.0,
+            "duration_beats": 2.0,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 43.0,
+                "pitch_name": "G2",
+                "onset_beat": 20.0,
+                "duration_beats": 2.0,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 7.894736842105264,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 7.894736842105264,
+            "source_duration_seconds": 0.7894736842105257,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 44.0,
+            "pitch_name": "A-2",
+            "onset_beat": 22.0,
+            "duration_beats": 2.0,
+            "measure": 6,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 44.0,
+                "pitch_name": "A-2",
+                "onset_beat": 22.0,
+                "duration_beats": 2.0,
+                "measure": 6,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 8.68421052631579,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 8.68421052631579,
+            "source_duration_seconds": 0.7894736842105257,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 43.0,
+            "pitch_name": "G2",
+            "onset_beat": 24.0,
+            "duration_beats": 2.0,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 43.0,
+                "pitch_name": "G2",
+                "onset_beat": 24.0,
+                "duration_beats": 2.0,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 9.473684210526315,
+            "duration_seconds": 0.7894736842105274,
+            "source_onset_seconds": 9.473684210526315,
+            "source_duration_seconds": 0.7894736842105274,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 44.0,
+            "pitch_name": "A-2",
+            "onset_beat": 26.0,
+            "duration_beats": 2.0,
+            "measure": 7,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 44.0,
+                "pitch_name": "A-2",
+                "onset_beat": 26.0,
+                "duration_beats": 2.0,
+                "measure": 7,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 10.263157894736842,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 10.263157894736842,
+            "source_duration_seconds": 0.7894736842105257,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 47.0,
+            "pitch_name": "B2",
+            "onset_beat": 28.0,
+            "duration_beats": 2.0,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 47.0,
+                "pitch_name": "B2",
+                "onset_beat": 28.0,
+                "duration_beats": 2.0,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.052631578947368,
+            "duration_seconds": 0.7894736842105274,
+            "source_onset_seconds": 11.052631578947368,
+            "source_duration_seconds": 0.7894736842105274,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 47.0,
+            "pitch_name": "B2",
+            "onset_beat": 30.0,
+            "duration_beats": 2.0,
+            "measure": 8,
+            "dynamics": "sf",
+            "segments": [
+              {
+                "pitch_midi": 47.0,
+                "pitch_name": "B2",
+                "onset_beat": 30.0,
+                "duration_beats": 2.0,
+                "measure": 8,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 11.842105263157896,
+            "duration_seconds": 0.7894736842105257,
+            "source_onset_seconds": 11.842105263157896,
+            "source_duration_seconds": 0.7894736842105257,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 36.0,
+            "pitch_name": "C2",
+            "onset_beat": 32.0,
+            "duration_beats": 1.0,
+            "measure": 9,
+            "dynamics": "ff",
+            "segments": [
+              {
+                "pitch_midi": 36.0,
+                "pitch_name": "C2",
+                "onset_beat": 32.0,
+                "duration_beats": 1.0,
+                "measure": 9,
+                "chord": false,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.631578947368421,
+            "duration_seconds": 0.3947368421052637,
+            "source_onset_seconds": 12.631578947368421,
+            "source_duration_seconds": 0.3947368421052637,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          },
+          {
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_beat": 32.0,
+            "duration_beats": 1.0,
+            "measure": 9,
+            "dynamics": "ff",
+            "segments": [
+              {
+                "pitch_midi": 48.0,
+                "pitch_name": "C3",
+                "onset_beat": 32.0,
+                "duration_beats": 1.0,
+                "measure": 9,
+                "chord": true,
+                "ties": []
+              }
+            ],
+            "onset_seconds": 12.631578947368421,
+            "duration_seconds": 0.3947368421052637,
+            "source_onset_seconds": 12.631578947368421,
+            "source_duration_seconds": 0.3947368421052637,
+            "clipped_start": false,
+            "clipped_end": false,
+            "velocity": null,
+            "velocity_source": null
+          }
+        ]
+      }
+    ],
+    "scope": "current constant-tempo, single-voice, non-transposing MusicXML fixture only",
+    "user_review": "pending"
+  },
+  "legacy_note_fields_unchanged": true,
+  "audio_duration_matches_score": true,
+  "scene_samples_checked": 638,
+  "scene_checks": "scene_checks.json",
+  "controls": "page_checks.json",
+  "all_preserved_files_unchanged": true,
+  "preserved_file_count": 303,
+  "code_sha256": {
+    "frontend/src/Ribbon.tsx": "6d33baf6151aa0d78a97684ba9cac156c1f90b892f88b9dcec2d3dfd9ed67188",
+    "frontend/src/RibbonScene.tsx": "48bac3fa747478305050c39c91a857f12924fe99994d8e6ad698fe43f6b28ccc",
+    "frontend/src/ribbon-review.tsx": "219c7bd18023426f89bf278806d4e3e3f953ffc22c71a61c54b30d26d03f2671",
+    "frontend/shared/ribbon-review.mjs": "d5c695babd4ee8805a4471cdf075085927b20e5d28a8fda6a007917b6e4e7675",
+    "frontend/scripts/build_ribbon_review.mjs": "138089b00ee3475e19f483403a88b2e14f7900dfbc2318b514d3bda3ea2b805e",
+    "frontend/scripts/check_ribbon_review.mjs": "f9bb22d37e7dc9c347eafb29bbbeff4def41c81dd28d94fa60ebd9bd3877f9ae",
+    "frontend/scripts/ribbon_review_scene.tsx": "f66d57eb4c28f8891511723810996f6e00b1c34ec06f6ba5ede35adb4d8f9f02",
+    "scripts/build_ribbon_review.py": "62462f0eb2b14733802bfeb2cb9abd82260f41c7e1ac26dd51ae4321c3b10018",
+    "frontend/package-lock.json": "de649eeb65ca8bef219b7efe3587b00a92c8510595d60832c9db10d902a8a8ad"
+  },
+  "png": "Matplotlib diagnostic of actual shared SVG geometry; not a browser screenshot",
+  "browser_automation": "not run; no Chrome launched",
+  "listening": "not performed",
+  "user_review": "pending"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "conversion_passed_alignment_accuracy_unvalidated",
+  "phase": "B4.1",
+  "event_count": 194,
+  "all_score_event_fields_exact": true,
+  "independent_seconds_axis_matches_beat_axis": true,
+  "audio_sha256_unchanged": true,
+  "source_score_sha256_unchanged": true,
+  "actual_shared_svg_samples": 901,
+  "crop_example_original_seconds": [
+    8,
+    12
+  ],
+  "crop_example_visible_events": 64,
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 596,
+  "ground_truth_error_ms": null,
+  "browser_playback": "not tested",
+  "listening": "not performed",
+  "user_review": "pending"
+}

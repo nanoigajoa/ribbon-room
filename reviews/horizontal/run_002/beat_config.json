@@ -1,0 +1,11 @@
+{
+  "title": "Mendelssohn · Op.80 · I. Allegro vivace assai",
+  "subtitle": "B · 악보 beat 간격 · 발음 시각은 A와 동일",
+  "pageTitle": "실제 연주 시계 변환",
+  "audioFile": "audio.wav",
+  "audioKind": "real_ensemble_recording",
+  "audioLabel": "실제 원음 · 정렬 정확도 미확정",
+  "description": "연주 시간 데이터와 변환 미리보기",
+  "footer": "악보 4분음표 beat(b) · 가변 이동 · 동일 발음 시각",
+  "credit": "Musopen String Quartet / OpenScore"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "start-baseline",
+    "time_seconds": 0
+  },
+  {
+    "name": "start-flow",
+    "time_seconds": 0
+  },
+  {
+    "name": "viola-entry-baseline",
+    "time_seconds": 0.7894736842105263
+  },
+  {
+    "name": "viola-entry-flow",
+    "time_seconds": 0.7894736842105263
+  },
+  {
+    "name": "all-entry-baseline",
+    "time_seconds": 1.5789473684210527
+  },
+  {
+    "name": "all-entry-flow",
+    "time_seconds": 1.5789473684210527
+  },
+  {
+    "name": "chord-baseline",
+    "time_seconds": 12.828947368421053
+  },
+  {
+    "name": "chord-flow",
+    "time_seconds": 12.828947368421053
+  },
+  {
+    "name": "rest-baseline",
+    "time_seconds": 13.223684210526315
+  },
+  {
+    "name": "rest-flow",
+    "time_seconds": 13.223684210526315
+  },
+  {
+    "name": "end-baseline",
+    "time_seconds": 15
+  },
+  {
+    "name": "end-flow",
+    "time_seconds": 15
+  },
+  {
+    "name": "melody-baseline",
+    "time_seconds": 7.5
+  },
+  {
+    "name": "melody-flow",
+    "time_seconds": 7.5
+  }
+]

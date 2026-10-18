@@ -1,0 +1,103 @@
+{
+  "renderer": "shared RibbonScene SVG -> Matplotlib Agg native raster -> FFmpeg H264/AAC",
+  "browser_capture": false,
+  "resolution": [
+    1440,
+    900
+  ],
+  "fps": 30,
+  "frames": 660,
+  "supported_svg": "paths M/L/H/V/C/Z; rectangles, lines, circles, text, translation, rectangular clipping; fail on unsupported graphical elements",
+  "fonts": "Arial and AppleGothic fallback; native text rasterization may differ from Chrome",
+  "command": [
+    "ffmpeg",
+    "-v",
+    "error",
+    "-n",
+    "-f",
+    "rawvideo",
+    "-pixel_format",
+    "rgb24",
+    "-video_size",
+    "1440x900",
+    "-framerate",
+    "30",
+    "-i",
+    "pipe:0",
+    "-i",
+    "/Users/juan/Desktop/음악생성/outputs/horizontal_reviews/run_002/audio.wav",
+    "-map",
+    "0:v:0",
+    "-map",
+    "1:a:0",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "fast",
+    "-crf",
+    "18",
+    "-pix_fmt",
+    "yuv420p",
+    "-threads",
+    "2",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "256k",
+    "-t",
+    "22.0",
+    "-movflags",
+    "+faststart",
+    "/Users/juan/Desktop/음악생성/outputs/horizontal_reviews/run_002/preview.mp4"
+  ],
+  "representatives": [
+    {
+      "frame": 0,
+      "time_seconds": 0,
+      "source_png": "source_frame_000000.png",
+      "rgb_sha256": "611aaa0c8b971e158d7fadfeef35db5ceea7e908584f2527eb863b42cd011fec"
+    },
+    {
+      "frame": 12,
+      "time_seconds": 0.4,
+      "source_png": "source_frame_000012.png",
+      "rgb_sha256": "e875f62173a30659ea4402de19cc8a8d72f511c93a213ed4a8f1fe01c615edb7"
+    },
+    {
+      "frame": 54,
+      "time_seconds": 1.8,
+      "source_png": "source_frame_000054.png",
+      "rgb_sha256": "62747498e83de0ce7e19d5ea8f03679bceda58c62ffdf7f8c50922e31261ba64"
+    },
+    {
+      "frame": 165,
+      "time_seconds": 5.5,
+      "source_png": "source_frame_000165.png",
+      "rgb_sha256": "07b587b0c453f8190fdbe0dfe00a62a6f3bef0e55c53cdf060029b4566a44dd4"
+    },
+    {
+      "frame": 357,
+      "time_seconds": 11.9,
+      "source_png": "source_frame_000357.png",
+      "rgb_sha256": "1617b9f2470a2462897c4298298068258da24c493e118120b9d40f269e2ebd72"
+    },
+    {
+      "frame": 504,
+      "time_seconds": 16.8,
+      "source_png": "source_frame_000504.png",
+      "rgb_sha256": "623fd9bae72ba4157120ff17deb58a10d9b626ded6aacac23712fd44731fbd5e"
+    },
+    {
+      "frame": 525,
+      "time_seconds": 17.5,
+      "source_png": "source_frame_000525.png",
+      "rgb_sha256": "0c700592c61b11d57206872236466fbcba33972cc9d81b8542150e23943a684c"
+    },
+    {
+      "frame": 659,
+      "time_seconds": 21.966666666666665,
+      "source_png": "source_frame_000659.png",
+      "rgb_sha256": "3f8e69ffdcb5c66483031754ac21b3503d7c3f28c2a0f8708d7e28baf7e2635b"
+    }
+  ]
+}

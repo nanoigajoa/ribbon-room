@@ -1,0 +1,24 @@
+{
+  "png_directly_inspected": true,
+  "python_tests": 30,
+  "typescript_vite_build": "passed with existing warnings",
+  "http": {
+    "index.html": {
+      "error": "<urlopen error [Errno 1] Operation not permitted>"
+    },
+    "review.js": {
+      "error": "<urlopen error [Errno 1] Operation not permitted>"
+    },
+    "audio.wav": {
+      "error": "<urlopen error [Errno 1] Operation not permitted>"
+    },
+    "correspondence.json": {
+      "error": "<urlopen error [Errno 1] Operation not permitted>"
+    },
+    "correspondence.png": {
+      "error": "<urlopen error [Errno 1] Operation not permitted>"
+    }
+  },
+  "new_server": "sandbox disallows binding local port; tried existing Vite 5182",
+  "user_review": "pending"
+}

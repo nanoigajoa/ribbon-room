@@ -1,0 +1,19 @@
+{
+  "inputs": {
+    "outputs/tempo_reviews/run_001/score_data.json": "4230226f162ade55393991564972c8ab696912e61a006d23e984d4ea80cb9f95",
+    "outputs/tempo_reviews/run_001/alignment.json": "7a283a1c982d19fa63ae3d5129fcdee51976f76302dde44a479fd8fbff4c8dee",
+    "outputs/tempo_reviews/run_001/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/tempo_reviews/run_001/source_provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964"
+  },
+  "source_and_license_record": "source_provenance.json",
+  "processing": "actual recording copied unchanged; raw and sampled candidate maps only",
+  "manual_labels_used": false,
+  "code_sha256": {
+    "src/score_ribbon/alignment_alternatives.py": "3f0b5679976f8db9dcbc2de0461b6c11c4ca5c62f050d04e9422d20c76db3ba1",
+    "scripts/build_alignment_compare.py": "4ab11638a4c57ded073c85d0e3d498ed2bfc60a12c793e608bf91467e42aed6b",
+    "frontend/src/alignment-compare-review.tsx": "33d0d216cf3a322b909f5c6bc3b3195bf907f9afcba34a3514b31c8b371a6ad3",
+    "frontend/shared/alignment-compare.mjs": "09ed03cc918a8e76fa54f02c837114e38362594b99bf3c0284049a1019303f21",
+    "frontend/scripts/build_alignment_compare.mjs": "eed0210baa0544221e45b409260e075f9645c32b016b16e0a1eb7253f1155db5",
+    "tests/test_alignment_alternatives.py": "021270241fdf128d58fe33ea12c3a6b1b857eeedb20b6bc4481680545a72ff71"
+  }
+}

@@ -1,0 +1,1615 @@
+{
+  "scoreData": {
+    "schema_version": "performance-ribbon/0.1.0",
+    "window": {
+      "clock": "recording",
+      "source_start_seconds": 0.0,
+      "duration_seconds": 22.0
+    },
+    "parts": [
+      {
+        "name": "Violin I",
+        "source_name": "Violin 1",
+        "source_part_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000",
+        "id": "violin_1",
+        "color": "#5aa7df",
+        "notes": [
+          {
+            "id": "violin_1_0000",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000000",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 1.7879174125790667,
+            "duration_seconds": 0.18575725026852852
+          },
+          {
+            "id": "violin_1_0001",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000001",
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_seconds": 1.9736746628475952,
+            "duration_seconds": 0.2786370688626325
+          },
+          {
+            "id": "violin_1_0002",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000002",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 2.2523117317102277,
+            "duration_seconds": 0.10450053705692852
+          },
+          {
+            "id": "violin_1_0003",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000003",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 2.356812268767156,
+            "duration_seconds": 0.2437940088316024
+          },
+          {
+            "id": "violin_1_0004",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000004",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 2.6006062775987586,
+            "duration_seconds": 0.11609738632295041
+          },
+          {
+            "id": "violin_1_0005",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000005",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 2.716703663921709,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_1_0006",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000006",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 2.9024609141902373,
+            "duration_seconds": 0.1160973863229513
+          },
+          {
+            "id": "violin_1_0007",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000007",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 3.0185583005131886,
+            "duration_seconds": 0.20897720491705352
+          },
+          {
+            "id": "violin_1_0008",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000008",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 3.227535505430242,
+            "duration_seconds": 0.11609738632294997
+          },
+          {
+            "id": "violin_1_0009",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000009",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 3.343632891753192,
+            "duration_seconds": 0.25541711421410707
+          },
+          {
+            "id": "violin_1_0010",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000010",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 3.599050005967299,
+            "duration_seconds": 0.11609738632294953
+          },
+          {
+            "id": "violin_1_0011",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000011",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 3.7151473922902487,
+            "duration_seconds": 0.22062298603652053
+          },
+          {
+            "id": "violin_1_0012",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000012",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 3.9357703783267692,
+            "duration_seconds": 0.09868421052631637
+          },
+          {
+            "id": "violin_1_0013",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000013",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 4.034454588853086,
+            "duration_seconds": 0.23796455424274932
+          },
+          {
+            "id": "violin_1_0014",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000014",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 4.272419143095835,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_1_0015",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000015",
+            "pitch_midi": 69.0,
+            "pitch_name": "A4",
+            "onset_seconds": 4.458176393364363,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "violin_1_0016",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000016",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 4.620713688984366,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_1_0017",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000017",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 4.806470939252894,
+            "duration_seconds": 0.1857572502685274
+          },
+          {
+            "id": "violin_1_0018",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000018",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 4.9922281895214216,
+            "duration_seconds": 0.16253729562000352
+          },
+          {
+            "id": "violin_1_0019",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000019",
+            "pitch_midi": 75.0,
+            "pitch_name": "E-5",
+            "onset_seconds": 5.154765485141425,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_1_0020",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000020",
+            "pitch_midi": 77.0,
+            "pitch_name": "F5",
+            "onset_seconds": 5.340522735409953,
+            "duration_seconds": 0.11609738632294953
+          },
+          {
+            "id": "violin_1_0021",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000021",
+            "pitch_midi": 75.0,
+            "pitch_name": "E-5",
+            "onset_seconds": 5.456620121732903,
+            "duration_seconds": 0.16257309941520504
+          },
+          {
+            "id": "violin_1_0022",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000022",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 5.619193221148108,
+            "duration_seconds": 0.11606158252774801
+          },
+          {
+            "id": "violin_1_0023",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000023",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 5.735254803675856,
+            "duration_seconds": 0.25541711421410707
+          },
+          {
+            "id": "violin_1_0024",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000024",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 5.990671917889963,
+            "duration_seconds": 0.16253729562000352
+          },
+          {
+            "id": "violin_1_0025",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000025",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 6.1532092135099665,
+            "duration_seconds": 0.18575725026852918
+          },
+          {
+            "id": "violin_1_0026",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000026",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 6.338966463778496,
+            "duration_seconds": 0.16253729561999997
+          },
+          {
+            "id": "violin_1_0027",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000027",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 6.501503759398496,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "violin_1_0028",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000028",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 6.664041055018498,
+            "duration_seconds": 0.18575725026853007
+          },
+          {
+            "id": "violin_1_0029",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000029",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 6.849798305287028,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "violin_1_0030",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000030",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 7.012335600907031,
+            "duration_seconds": 0.18575725026852652
+          },
+          {
+            "id": "violin_1_0031",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000031",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 7.1980928511755575,
+            "duration_seconds": 0.18575725026852918
+          },
+          {
+            "id": "violin_1_0032",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000032",
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_seconds": 7.383850101444087,
+            "duration_seconds": 0.31351593268886546
+          },
+          {
+            "id": "violin_1_0033",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000033",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 7.697366034132952,
+            "duration_seconds": 0.13934359708795707
+          },
+          {
+            "id": "violin_1_0034",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000034",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 7.836709631220909,
+            "duration_seconds": 0.09868421052631682
+          },
+          {
+            "id": "violin_1_0035",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000035",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 7.935393841747226,
+            "duration_seconds": 0.2147052154194995
+          },
+          {
+            "id": "violin_1_0036",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000036",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 8.150099057166726,
+            "duration_seconds": 0.11609738632294864
+          },
+          {
+            "id": "violin_1_0037",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000037",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 8.266196443489674,
+            "duration_seconds": 0.25549946294307446
+          },
+          {
+            "id": "violin_1_0038",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000038",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 8.521695906432749,
+            "duration_seconds": 0.13351414249910398
+          },
+          {
+            "id": "violin_1_0039",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000039",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 8.655210048931853,
+            "duration_seconds": 0.16825814536340822
+          },
+          {
+            "id": "violin_1_0040",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000040",
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_seconds": 8.82346819429526,
+            "duration_seconds": 0.25541711421410795
+          },
+          {
+            "id": "violin_1_0041",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000041",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 9.078885308509369,
+            "duration_seconds": 0.1510168277837458
+          },
+          {
+            "id": "violin_1_0042",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000042",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 9.229902136293115,
+            "duration_seconds": 0.09868421052631504
+          },
+          {
+            "id": "violin_1_0043",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000043",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 9.32858634681943,
+            "duration_seconds": 0.2843507578469957
+          },
+          {
+            "id": "violin_1_0044",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000044",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 9.612937104666425,
+            "duration_seconds": 0.09877730039384325
+          },
+          {
+            "id": "violin_1_0045",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000045",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 9.711714405060269,
+            "duration_seconds": 0.11026196443489766
+          },
+          {
+            "id": "violin_1_0046",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000046",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 9.821976369495166,
+            "duration_seconds": 0.09871643394199836
+          },
+          {
+            "id": "violin_1_0047",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000047",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 9.920692803437165,
+            "duration_seconds": 0.342393483709273
+          },
+          {
+            "id": "violin_1_0048",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000048",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 10.263086287146438,
+            "duration_seconds": 0.3425939849624058
+          },
+          {
+            "id": "violin_1_0049",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000049",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 10.605680272108843,
+            "duration_seconds": 0.09868421052631682
+          },
+          {
+            "id": "violin_1_0050",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000050",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 10.70436448263516,
+            "duration_seconds": 0.13351414249910398
+          },
+          {
+            "id": "violin_1_0051",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000051",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 10.837878625134264,
+            "duration_seconds": 0.30766380236305224
+          },
+          {
+            "id": "violin_1_0052",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000052",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 11.145542427497316,
+            "duration_seconds": 0.09868421052631327
+          },
+          {
+            "id": "violin_1_0053",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000053",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 11.24422663802363,
+            "duration_seconds": 0.09868421052631682
+          },
+          {
+            "id": "violin_1_0054",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000054",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 11.342910848549947,
+            "duration_seconds": 0.1508163265306095
+          },
+          {
+            "id": "violin_1_0055",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000055",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 11.493727175080556,
+            "duration_seconds": 0.25541711421410973
+          },
+          {
+            "id": "violin_1_0056",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000056",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 11.749144289294666,
+            "duration_seconds": 0.7894736842105257
+          },
+          {
+            "id": "violin_1_0057",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000057",
+            "pitch_midi": 85.0,
+            "pitch_name": "D-6",
+            "onset_seconds": 12.97979233798783,
+            "duration_seconds": 0.40066416040099995
+          },
+          {
+            "id": "violin_1_0058",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000058",
+            "pitch_midi": 85.0,
+            "pitch_name": "D-6",
+            "onset_seconds": 13.38045649838883,
+            "duration_seconds": 0.14512411982336637
+          },
+          {
+            "id": "violin_1_0059",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000059",
+            "pitch_midi": 85.0,
+            "pitch_name": "D-6",
+            "onset_seconds": 13.525580618212196,
+            "duration_seconds": 0.5919680152762847
+          },
+          {
+            "id": "violin_1_0060",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000060",
+            "pitch_midi": 79.0,
+            "pitch_name": "G5",
+            "onset_seconds": 14.11754863348848,
+            "duration_seconds": 0.18575725026853185
+          },
+          {
+            "id": "violin_1_0061",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000061",
+            "pitch_midi": 80.0,
+            "pitch_name": "A-5",
+            "onset_seconds": 14.303305883757012,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_1_0062",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000062",
+            "pitch_midi": 82.0,
+            "pitch_name": "B-5",
+            "onset_seconds": 14.48906313402554,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_1_0063",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000063",
+            "pitch_midi": 76.0,
+            "pitch_name": "E5",
+            "onset_seconds": 14.674820384294069,
+            "duration_seconds": 0.48761427377969646
+          },
+          {
+            "id": "violin_1_0064",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000064",
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_seconds": 15.371509726697699,
+            "duration_seconds": 0.5107315908819618
+          },
+          {
+            "id": "violin_1_0065",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000065",
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_seconds": 15.88224131757966,
+            "duration_seconds": 0.25541711421410973
+          },
+          {
+            "id": "violin_1_0066",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000066",
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_seconds": 16.13765843179377,
+            "duration_seconds": 0.981197636949517
+          },
+          {
+            "id": "violin_1_0067",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000067",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 17.118856068743288,
+            "duration_seconds": 0.13334586466164922
+          },
+          {
+            "id": "violin_1_0068",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000068",
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_seconds": 17.252201933404937,
+            "duration_seconds": 0.10460078768349845
+          },
+          {
+            "id": "violin_1_0069",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000069",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 17.356802721088435,
+            "duration_seconds": 0.12770855710705575
+          }
+        ]
+      },
+      {
+        "name": "Violin II",
+        "source_name": "Violin 2",
+        "source_part_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001",
+        "id": "violin_2",
+        "color": "#53bb9b",
+        "notes": [
+          {
+            "id": "violin_2_0000",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000000",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 1.7879174125790667,
+            "duration_seconds": 0.18575725026852852
+          },
+          {
+            "id": "violin_2_0001",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000001",
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_seconds": 1.9736746628475952,
+            "duration_seconds": 0.2786370688626325
+          },
+          {
+            "id": "violin_2_0002",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000002",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 2.2523117317102277,
+            "duration_seconds": 0.10450053705692852
+          },
+          {
+            "id": "violin_2_0003",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000003",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 2.356812268767156,
+            "duration_seconds": 0.2437940088316024
+          },
+          {
+            "id": "violin_2_0004",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000004",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 2.6006062775987586,
+            "duration_seconds": 0.11609738632295041
+          },
+          {
+            "id": "violin_2_0005",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000005",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 2.716703663921709,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_2_0006",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000006",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 2.9024609141902373,
+            "duration_seconds": 0.1160973863229513
+          },
+          {
+            "id": "violin_2_0007",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000007",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 3.0185583005131886,
+            "duration_seconds": 0.20897720491705352
+          },
+          {
+            "id": "violin_2_0008",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000008",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 3.227535505430242,
+            "duration_seconds": 0.11609738632294997
+          },
+          {
+            "id": "violin_2_0009",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000009",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 3.343632891753192,
+            "duration_seconds": 0.25541711421410707
+          },
+          {
+            "id": "violin_2_0010",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000010",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 3.599050005967299,
+            "duration_seconds": 0.11609738632294953
+          },
+          {
+            "id": "violin_2_0011",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000011",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 3.7151473922902487,
+            "duration_seconds": 0.22062298603652053
+          },
+          {
+            "id": "violin_2_0012",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000012",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 3.9357703783267692,
+            "duration_seconds": 0.09868421052631637
+          },
+          {
+            "id": "violin_2_0013",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000013",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 4.034454588853086,
+            "duration_seconds": 0.23796455424274932
+          },
+          {
+            "id": "violin_2_0014",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000014",
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_seconds": 4.272419143095835,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_2_0015",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000015",
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_seconds": 4.458176393364363,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "violin_2_0016",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000016",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 4.620713688984366,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_2_0017",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000017",
+            "pitch_midi": 69.0,
+            "pitch_name": "A4",
+            "onset_seconds": 4.806470939252894,
+            "duration_seconds": 0.1857572502685274
+          },
+          {
+            "id": "violin_2_0018",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000018",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 4.9922281895214216,
+            "duration_seconds": 0.16253729562000352
+          },
+          {
+            "id": "violin_2_0019",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000019",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 5.154765485141425,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_2_0020",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000020",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 5.340522735409953,
+            "duration_seconds": 0.11609738632294953
+          },
+          {
+            "id": "violin_2_0021",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000021",
+            "pitch_midi": 72.0,
+            "pitch_name": "C5",
+            "onset_seconds": 5.456620121732903,
+            "duration_seconds": 0.16257309941520504
+          },
+          {
+            "id": "violin_2_0022",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000022",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 5.619193221148108,
+            "duration_seconds": 0.11606158252774801
+          },
+          {
+            "id": "violin_2_0023",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000023",
+            "pitch_midi": 66.0,
+            "pitch_name": "G-4",
+            "onset_seconds": 5.735254803675856,
+            "duration_seconds": 0.25541711421410707
+          },
+          {
+            "id": "violin_2_0024",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000024",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 5.990671917889963,
+            "duration_seconds": 0.16253729562000352
+          },
+          {
+            "id": "violin_2_0025",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000025",
+            "pitch_midi": 69.0,
+            "pitch_name": "A4",
+            "onset_seconds": 6.1532092135099665,
+            "duration_seconds": 0.18575725026852918
+          },
+          {
+            "id": "violin_2_0026",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000026",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 6.338966463778496,
+            "duration_seconds": 0.16253729561999997
+          },
+          {
+            "id": "violin_2_0027",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000027",
+            "pitch_midi": 66.0,
+            "pitch_name": "G-4",
+            "onset_seconds": 6.501503759398496,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "violin_2_0028",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000028",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 6.664041055018498,
+            "duration_seconds": 0.18575725026853007
+          },
+          {
+            "id": "violin_2_0029",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000029",
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_seconds": 6.849798305287028,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "violin_2_0030",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000030",
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_seconds": 7.012335600907031,
+            "duration_seconds": 0.18575725026852652
+          },
+          {
+            "id": "violin_2_0031",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000031",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 7.1980928511755575,
+            "duration_seconds": 0.18575725026852918
+          },
+          {
+            "id": "violin_2_0032",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000032",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 7.383850101444087,
+            "duration_seconds": 0.7662489557226388
+          },
+          {
+            "id": "violin_2_0033",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000033",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 8.150099057166726,
+            "duration_seconds": 0.11609738632294864
+          },
+          {
+            "id": "violin_2_0034",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000034",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 8.266196443489674,
+            "duration_seconds": 0.25549946294307446
+          },
+          {
+            "id": "violin_2_0035",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000035",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 8.521695906432749,
+            "duration_seconds": 0.13351414249910398
+          },
+          {
+            "id": "violin_2_0036",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000036",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 8.655210048931853,
+            "duration_seconds": 0.16825814536340822
+          },
+          {
+            "id": "violin_2_0037",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000037",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 8.82346819429526,
+            "duration_seconds": 0.7894689103711645
+          },
+          {
+            "id": "violin_2_0038",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000038",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 9.612937104666425,
+            "duration_seconds": 0.09877730039384325
+          },
+          {
+            "id": "violin_2_0039",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000039",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 9.711714405060269,
+            "duration_seconds": 0.11026196443489766
+          },
+          {
+            "id": "violin_2_0040",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000040",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 9.821976369495166,
+            "duration_seconds": 0.09871643394199836
+          },
+          {
+            "id": "violin_2_0041",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000041",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 9.920692803437165,
+            "duration_seconds": 0.342393483709273
+          },
+          {
+            "id": "violin_2_0042",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000042",
+            "pitch_midi": 62.0,
+            "pitch_name": "D4",
+            "onset_seconds": 10.263086287146438,
+            "duration_seconds": 0.8824561403508788
+          },
+          {
+            "id": "violin_2_0043",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000043",
+            "pitch_midi": 62.0,
+            "pitch_name": "D4",
+            "onset_seconds": 11.145542427497316,
+            "duration_seconds": 0.6036018617973493
+          },
+          {
+            "id": "violin_2_0044",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000044",
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_seconds": 11.749144289294666,
+            "duration_seconds": 0.7894736842105257
+          },
+          {
+            "id": "violin_2_0045",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000045",
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_seconds": 11.749144289294666,
+            "duration_seconds": 0.7894736842105257
+          },
+          {
+            "id": "violin_2_0046",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000046",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 13.95514739229025,
+            "duration_seconds": 0.5339157417352904
+          },
+          {
+            "id": "violin_2_0047",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000047",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 14.48906313402554,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "violin_2_0048",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000048",
+            "pitch_midi": 73.0,
+            "pitch_name": "D-5",
+            "onset_seconds": 14.674820384294069,
+            "duration_seconds": 0.8708378088077353
+          },
+          {
+            "id": "violin_2_0049",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000049",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 15.545658193101804,
+            "duration_seconds": 0.15082587420932647
+          },
+          {
+            "id": "violin_2_0050",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000050",
+            "pitch_midi": 68.0,
+            "pitch_name": "A-4",
+            "onset_seconds": 15.69648406731113,
+            "duration_seconds": 0.18575725026853007
+          },
+          {
+            "id": "violin_2_0051",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000051",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 15.88224131757966,
+            "duration_seconds": 0.25541711421410973
+          },
+          {
+            "id": "violin_2_0052",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000052",
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_seconds": 16.13765843179377,
+            "duration_seconds": 0.37151450053705304
+          }
+        ]
+      },
+      {
+        "name": "Viola",
+        "source_name": "Viola",
+        "source_part_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002",
+        "id": "viola",
+        "color": "#e9b44c",
+        "notes": [
+          {
+            "id": "viola_0000",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000000",
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_seconds": 1.1145482754505311,
+            "duration_seconds": 0.6733691371285355
+          },
+          {
+            "id": "viola_0001",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000001",
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_seconds": 1.7879174125790667,
+            "duration_seconds": 0.812688865019692
+          },
+          {
+            "id": "viola_0002",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000002",
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_seconds": 2.6006062775987586,
+            "duration_seconds": 0.6269292278314835
+          },
+          {
+            "id": "viola_0003",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000003",
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_seconds": 3.227535505430242,
+            "duration_seconds": 0.7082348728965271
+          },
+          {
+            "id": "viola_0004",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000004",
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_seconds": 3.9357703783267692,
+            "duration_seconds": 0.09868421052631637
+          },
+          {
+            "id": "viola_0005",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000005",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 4.034454588853086,
+            "duration_seconds": 0.23796455424274932
+          },
+          {
+            "id": "viola_0006",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000006",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 4.272419143095835,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "viola_0007",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000007",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 4.458176393364363,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "viola_0008",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000008",
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_seconds": 4.620713688984366,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "viola_0009",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000009",
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_seconds": 4.806470939252894,
+            "duration_seconds": 0.1857572502685274
+          },
+          {
+            "id": "viola_0010",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000010",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 4.9922281895214216,
+            "duration_seconds": 0.16253729562000352
+          },
+          {
+            "id": "viola_0011",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000011",
+            "pitch_midi": 66.0,
+            "pitch_name": "G-4",
+            "onset_seconds": 5.154765485141425,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "viola_0012",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000012",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 5.340522735409953,
+            "duration_seconds": 0.11609738632294953
+          },
+          {
+            "id": "viola_0013",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000013",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 5.456620121732903,
+            "duration_seconds": 0.16257309941520504
+          },
+          {
+            "id": "viola_0014",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000014",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 5.619193221148108,
+            "duration_seconds": 0.11606158252774801
+          },
+          {
+            "id": "viola_0015",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000015",
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_seconds": 5.735254803675856,
+            "duration_seconds": 0.25541711421410707
+          },
+          {
+            "id": "viola_0016",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000016",
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_seconds": 5.990671917889963,
+            "duration_seconds": 0.16253729562000352
+          },
+          {
+            "id": "viola_0017",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000017",
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_seconds": 6.1532092135099665,
+            "duration_seconds": 0.18575725026852918
+          },
+          {
+            "id": "viola_0018",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000018",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 6.338966463778496,
+            "duration_seconds": 0.16253729561999997
+          },
+          {
+            "id": "viola_0019",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000019",
+            "pitch_midi": 63.0,
+            "pitch_name": "E-4",
+            "onset_seconds": 6.501503759398496,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "viola_0020",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000020",
+            "pitch_midi": 61.0,
+            "pitch_name": "D-4",
+            "onset_seconds": 6.664041055018498,
+            "duration_seconds": 0.18575725026853007
+          },
+          {
+            "id": "viola_0021",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000021",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 6.849798305287028,
+            "duration_seconds": 0.16253729562000263
+          },
+          {
+            "id": "viola_0022",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000022",
+            "pitch_midi": 58.0,
+            "pitch_name": "B-3",
+            "onset_seconds": 7.012335600907031,
+            "duration_seconds": 0.18575725026852652
+          },
+          {
+            "id": "viola_0023",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000023",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 7.1980928511755575,
+            "duration_seconds": 0.18575725026852918
+          },
+          {
+            "id": "viola_0024",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000024",
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_seconds": 7.383850101444087,
+            "duration_seconds": 0.7662489557226388
+          },
+          {
+            "id": "viola_0025",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000025",
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_seconds": 8.150099057166726,
+            "duration_seconds": 0.11609738632294864
+          },
+          {
+            "id": "viola_0026",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000026",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 8.266196443489674,
+            "duration_seconds": 0.25549946294307446
+          },
+          {
+            "id": "viola_0027",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000027",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 8.521695906432749,
+            "duration_seconds": 0.13351414249910398
+          },
+          {
+            "id": "viola_0028",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000028",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 8.655210048931853,
+            "duration_seconds": 0.16825814536340822
+          },
+          {
+            "id": "viola_0029",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000029",
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_seconds": 8.82346819429526,
+            "duration_seconds": 0.7894689103711645
+          },
+          {
+            "id": "viola_0030",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000030",
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_seconds": 9.612937104666425,
+            "duration_seconds": 0.09877730039384325
+          },
+          {
+            "id": "viola_0031",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000031",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 9.711714405060269,
+            "duration_seconds": 0.11026196443489766
+          },
+          {
+            "id": "viola_0032",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000032",
+            "pitch_midi": 60.0,
+            "pitch_name": "C4",
+            "onset_seconds": 9.821976369495166,
+            "duration_seconds": 0.09871643394199836
+          },
+          {
+            "id": "viola_0033",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000033",
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_seconds": 9.920692803437165,
+            "duration_seconds": 0.342393483709273
+          },
+          {
+            "id": "viola_0034",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000034",
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_seconds": 10.263086287146438,
+            "duration_seconds": 0.3425939849624058
+          },
+          {
+            "id": "viola_0035",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000035",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 10.605680272108843,
+            "duration_seconds": 0.09868421052631682
+          },
+          {
+            "id": "viola_0036",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000036",
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_seconds": 10.70436448263516,
+            "duration_seconds": 0.13351414249910398
+          },
+          {
+            "id": "viola_0037",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000037",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 10.837878625134264,
+            "duration_seconds": 0.30766380236305224
+          },
+          {
+            "id": "viola_0038",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000038",
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_seconds": 11.145542427497316,
+            "duration_seconds": 0.09868421052631327
+          },
+          {
+            "id": "viola_0039",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000039",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 11.24422663802363,
+            "duration_seconds": 0.09868421052631682
+          },
+          {
+            "id": "viola_0040",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000040",
+            "pitch_midi": 53.0,
+            "pitch_name": "F3",
+            "onset_seconds": 11.342910848549947,
+            "duration_seconds": 0.1508163265306095
+          },
+          {
+            "id": "viola_0041",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000041",
+            "pitch_midi": 56.0,
+            "pitch_name": "A-3",
+            "onset_seconds": 11.493727175080556,
+            "duration_seconds": 0.25541711421410973
+          },
+          {
+            "id": "viola_0042",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000042",
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_seconds": 11.749144289294666,
+            "duration_seconds": 0.7894736842105257
+          },
+          {
+            "id": "viola_0043",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000043",
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_seconds": 11.749144289294666,
+            "duration_seconds": 0.7894736842105257
+          },
+          {
+            "id": "viola_0044",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000044",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 13.95514739229025,
+            "duration_seconds": 0.5339157417352904
+          },
+          {
+            "id": "viola_0045",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000045",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 14.48906313402554,
+            "duration_seconds": 0.1857572502685283
+          },
+          {
+            "id": "viola_0046",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000046",
+            "pitch_midi": 70.0,
+            "pitch_name": "B-4",
+            "onset_seconds": 14.674820384294069,
+            "duration_seconds": 0.8708378088077353
+          },
+          {
+            "id": "viola_0047",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000047",
+            "pitch_midi": 64.0,
+            "pitch_name": "E4",
+            "onset_seconds": 15.545658193101804,
+            "duration_seconds": 0.15082587420932647
+          },
+          {
+            "id": "viola_0048",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000048",
+            "pitch_midi": 65.0,
+            "pitch_name": "F4",
+            "onset_seconds": 15.69648406731113,
+            "duration_seconds": 0.18575725026853007
+          },
+          {
+            "id": "viola_0049",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000049",
+            "pitch_midi": 67.0,
+            "pitch_name": "G4",
+            "onset_seconds": 15.88224131757966,
+            "duration_seconds": 0.25541711421410973
+          },
+          {
+            "id": "viola_0050",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000050",
+            "pitch_midi": 55.0,
+            "pitch_name": "G3",
+            "onset_seconds": 16.13765843179377,
+            "duration_seconds": 0.37151450053705304
+          }
+        ]
+      },
+      {
+        "name": "Cello",
+        "source_name": "Violoncello",
+        "source_part_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003",
+        "id": "cello",
+        "color": "#bb8bd6",
+        "notes": [
+          {
+            "id": "cello_0000",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000000",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 0.3947392290249433,
+            "duration_seconds": 0.7198090464255879
+          },
+          {
+            "id": "cello_0001",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000001",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 1.1145482754505311,
+            "duration_seconds": 0.6733691371285355
+          },
+          {
+            "id": "cello_0002",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000002",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 1.7879174125790667,
+            "duration_seconds": 0.812688865019692
+          },
+          {
+            "id": "cello_0003",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000003",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 2.6006062775987586,
+            "duration_seconds": 0.6269292278314835
+          },
+          {
+            "id": "cello_0004",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000004",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 3.227535505430242,
+            "duration_seconds": 0.7082348728965271
+          },
+          {
+            "id": "cello_0005",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000005",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 3.9357703783267692,
+            "duration_seconds": 0.6849433106575966
+          },
+          {
+            "id": "cello_0006",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000006",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 4.620713688984366,
+            "duration_seconds": 0.7198090464255875
+          },
+          {
+            "id": "cello_0007",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000007",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 5.340522735409953,
+            "duration_seconds": 0.6501491824800096
+          },
+          {
+            "id": "cello_0008",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000008",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 5.990671917889963,
+            "duration_seconds": 0.6733691371285353
+          },
+          {
+            "id": "cello_0009",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000009",
+            "pitch_midi": 41.0,
+            "pitch_name": "F2",
+            "onset_seconds": 6.664041055018498,
+            "duration_seconds": 0.7198090464255884
+          },
+          {
+            "id": "cello_0010",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000010",
+            "pitch_midi": 43.0,
+            "pitch_name": "G2",
+            "onset_seconds": 7.383850101444087,
+            "duration_seconds": 0.7662489557226388
+          },
+          {
+            "id": "cello_0011",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000011",
+            "pitch_midi": 44.0,
+            "pitch_name": "A-2",
+            "onset_seconds": 8.150099057166726,
+            "duration_seconds": 0.6733691371285353
+          },
+          {
+            "id": "cello_0012",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000012",
+            "pitch_midi": 43.0,
+            "pitch_name": "G2",
+            "onset_seconds": 8.82346819429526,
+            "duration_seconds": 0.7894689103711645
+          },
+          {
+            "id": "cello_0013",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000013",
+            "pitch_midi": 44.0,
+            "pitch_name": "A-2",
+            "onset_seconds": 9.612937104666425,
+            "duration_seconds": 0.6501491824800123
+          },
+          {
+            "id": "cello_0014",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000014",
+            "pitch_midi": 47.0,
+            "pitch_name": "B2",
+            "onset_seconds": 10.263086287146438,
+            "duration_seconds": 0.8824561403508788
+          },
+          {
+            "id": "cello_0015",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000015",
+            "pitch_midi": 47.0,
+            "pitch_name": "B2",
+            "onset_seconds": 11.145542427497316,
+            "duration_seconds": 0.6036018617973493
+          },
+          {
+            "id": "cello_0016",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000016",
+            "pitch_midi": 36.0,
+            "pitch_name": "C2",
+            "onset_seconds": 11.749144289294666,
+            "duration_seconds": 0.7894736842105257
+          },
+          {
+            "id": "cello_0017",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000017",
+            "pitch_midi": 48.0,
+            "pitch_name": "C3",
+            "onset_seconds": 11.749144289294666,
+            "duration_seconds": 0.7894736842105257
+          },
+          {
+            "id": "cello_0018",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000018",
+            "pitch_midi": 49.0,
+            "pitch_name": "D-3",
+            "onset_seconds": 16.985341926244182,
+            "duration_seconds": 0.37146079484425343
+          },
+          {
+            "id": "cello_0019",
+            "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000019",
+            "pitch_midi": 49.0,
+            "pitch_name": "D-3",
+            "onset_seconds": 17.356802721088435,
+            "duration_seconds": 0.12770855710705575
+          }
+        ]
+      }
+    ]
+  },
+  "previewConfig": {
+    "title": "Mendelssohn · Op.80 · I. Allegro vivace assai",
+    "subtitle": "연주 초에 배치한 음표 · 임시 DTW A",
+    "pageTitle": "실제 연주 시계 변환",
+    "audioFile": "audio.wav",
+    "audioKind": "real_ensemble_recording",
+    "audioLabel": "실제 원음 · 정렬 정확도 미확정",
+    "description": "연주 시간 데이터와 변환 미리보기",
+    "footer": "원본 연주 초 · 등속 이동 · 진입 시각은 임시 정렬 기준",
+    "credit": "Musopen String Quartet / OpenScore"
+  },
+  "spotlight": "all",
+  "viewMode": "parts",
+  "ribbonStyle": "flow",
+  "showAudio": false
+}

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "scope": "actual shared audio/seek controller with media and DOM stubs; no browser playback or listening",
+  "checks": [
+    "seek and frame steps",
+    "rate change",
+    "single animation loop reads audio.currentTime",
+    "pause/end/reset and bounds",
+    "error and cleanup"
+  ],
+  "chrome_launched": false
+}

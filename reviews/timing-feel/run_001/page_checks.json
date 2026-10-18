@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "scope": "exact browser entry with DOM/media/capture-root stubs",
+  "checks": [
+    "preset changes preserve audio position/source/rate/playing state",
+    "positive lead moves picture earlier",
+    "start/end clamp",
+    "spotlight",
+    "jump continues playing",
+    "seek/frame/rate",
+    "cleanup"
+  ],
+  "actual_browser_playback": "not tested"
+}

@@ -1,0 +1,29 @@
+{
+  "status": "passed_requires_listening_review",
+  "actual_recording_movements": 4,
+  "all_flac_integrity_tests": "passed",
+  "finite_full_decode_all_movements": true,
+  "published_sha1_matches": [
+    "01-allegro-vivace-assai",
+    "03-adagio"
+  ],
+  "all_original_hashes": {
+    "01-allegro-vivace-assai": "16730724ef5375970d8851acae58eb78341e0f213667e2f55c6326fec5e49633",
+    "02-allegro-assai": "0167f49589d15f42222c0d1aaa48d5824cfe897aa09238a5490cc3f37fbbf070",
+    "03-adagio": "186f2130257a1d9f694a52bcf915ae9891262f30f1a2c2a6a7b2cb6a5a4c7af4",
+    "04-finale-allegro-molto": "16c0a8db179655eb7a0dbb29bae0d18a1454df72f636af62f0b33737bb00e130"
+  },
+  "preview_full_durations_channels_match": true,
+  "score_source_unchanged": true,
+  "protected_file_count": 410,
+  "all_previous_files_unchanged": true,
+  "audio_kind": "real_ensemble_recording",
+  "source_note_annotations": "not provided with this recording",
+  "score_alignment": "not started; do not pair with old synthetic timing",
+  "browser_playback": "not verified",
+  "human_listening": "not performed",
+  "user_review": "pending",
+  "code_sha256": {
+    "scripts/prepare_mendelssohn_recordings.py": "e4a3d0074970e07a6bcadd57bcfeda4809db238a963084b7a30683ac66c1a1f0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "inputs": {
+    "outputs/performance_videos/run_002/score_data.json": "3360391283474c283fbda98bd431a5baa6d8603b9bc747e6bac20c06becaa7c3",
+    "outputs/performance_videos/run_002/config.json": "a7401c5e168081488e6e7fa12294546019b90f1e51afdb8f2255c55d8b7e88fb",
+    "outputs/performance_videos/run_002/performance.json": "d6a62d6533b5ffe0fc457395be02db0c91fb26643e1e91a1aa873ac03a75d66d",
+    "outputs/performance_videos/run_002/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/performance_videos/run_002/source_provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964"
+  },
+  "code_sha256": {
+    "scripts/build_timing_feel.py": "427906dcc717c7827ec672e98974f2d107270c916e1207df6c708df2944d6b26",
+    "frontend/scripts/build_timing_feel.mjs": "ba0fc03479d70018a323aa67fa0c87f475c1869b28da37e8cc6234e82d2b49fb",
+    "frontend/scripts/check_timing_feel_page.mjs": "de098dcc0fa9d298ad0f09651f06eead435e305871b83c6bc83d9a108d511e52",
+    "frontend/src/timing-feel-review.tsx": "5592a8833a0027f18f9bad243afd5118859a9d6e3dd811518c25be757ca1020c",
+    "frontend/shared/visual-lead.mjs": "e8c53229179e53a58e641e2c72f8dc6fbd4d1c831e0fc12144a0a5421d546c96",
+    "frontend/src/RibbonScene.tsx": "e27b973e98d9ee1144005ff5e83cdd3a08b709afda1ec087fcd083f0436b2006",
+    "frontend/shared/ribbon-review.mjs": "98dbe021b763e58bb775ade93ed939f3ba706f0fdc9f9cded75d791a5764af89"
+  },
+  "license_record": "source_provenance.json",
+  "alignment": "provisional DTW A unchanged"
+}

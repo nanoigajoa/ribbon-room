@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "scope": "actual page JS with DOM/media/storage/download stubs",
+  "checks": [
+    "11 score points and local assets",
+    "candidate hidden by default",
+    "required interval and exclusion reason",
+    "signed interval and tolerance classification",
+    "confirmed held-out count",
+    "storage save",
+    "waveform click original seconds",
+    "playback position capture",
+    "rate and excerpt stop",
+    "full-audio range",
+    "JSON export",
+    "wrong-dataset import rejection",
+    "valid import",
+    "media error"
+  ],
+  "synthetic_annotations_in_this_test": "memory only; no manual labels written to review artifacts",
+  "browser_playback": "not tested"
+}

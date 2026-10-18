@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "python_tests": 48,
+  "typescript_vite_build": "passed with existing warnings",
+  "pngs_directly_inspected": [
+    "ribbon.png",
+    "performance_conversion.png"
+  ],
+  "embedded_data_and_asset_links": "passed",
+  "csv_and_note_seek_count": 194,
+  "crop_events_checked": 64,
+  "actual_audio_playback": "not tested",
+  "human_alignment_review": "deferred at user request"
+}

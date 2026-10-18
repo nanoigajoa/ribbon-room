@@ -1,0 +1,180 @@
+{
+  "phase": "B3.1",
+  "status": "candidate_requires_human_sequence_review",
+  "candidate_reused_from": "outputs/voice_focus_reviews/run_002/alignment.json",
+  "score_window_beats": [
+    0,
+    48.0
+  ],
+  "audio_clock": "original FLAC sample zero; no trim offset",
+  "candidate_audio_window_seconds": [
+    0.3947392290249433,
+    17.48451127819549
+  ],
+  "endpoint_policy": "final fractional feature frame extrapolated at unit slope in existing candidate",
+  "navigation_marks_in_excerpt": [],
+  "sequence_assumption": "written order of excerpt; repeat/jump alternatives not searched",
+  "outside_excerpt_navigation": "not audited; absence here cannot rule out performance deviations",
+  "measure_candidates": [
+    {
+      "measure": "1",
+      "source_start_beat": 0.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 0.0,
+      "score_end_seconds": 1.5789473684210527,
+      "candidate_audio_start_seconds": 0.3947392290249433,
+      "candidate_audio_end_seconds": 1.787917412579067,
+      "human_verified": false
+    },
+    {
+      "measure": "2",
+      "source_start_beat": 4.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 1.5789473684210527,
+      "score_end_seconds": 3.1578947368421053,
+      "candidate_audio_start_seconds": 1.787917412579067,
+      "candidate_audio_end_seconds": 3.2275355054302426,
+      "human_verified": false
+    },
+    {
+      "measure": "3",
+      "source_start_beat": 8.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 3.1578947368421053,
+      "score_end_seconds": 4.7368421052631575,
+      "candidate_audio_start_seconds": 3.2275355054302426,
+      "candidate_audio_end_seconds": 4.620713688984365,
+      "human_verified": false
+    },
+    {
+      "measure": "4",
+      "source_start_beat": 12.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 4.7368421052631575,
+      "score_end_seconds": 6.315789473684211,
+      "candidate_audio_start_seconds": 4.620713688984365,
+      "candidate_audio_end_seconds": 5.990671917889964,
+      "human_verified": false
+    },
+    {
+      "measure": "5",
+      "source_start_beat": 16.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 6.315789473684211,
+      "score_end_seconds": 7.894736842105263,
+      "candidate_audio_start_seconds": 5.990671917889964,
+      "candidate_audio_end_seconds": 7.383850101444086,
+      "human_verified": false
+    },
+    {
+      "measure": "6",
+      "source_start_beat": 20.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 7.894736842105263,
+      "score_end_seconds": 9.473684210526315,
+      "candidate_audio_start_seconds": 7.383850101444086,
+      "candidate_audio_end_seconds": 8.823468194295259,
+      "human_verified": false
+    },
+    {
+      "measure": "7",
+      "source_start_beat": 24.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 9.473684210526315,
+      "score_end_seconds": 11.052631578947368,
+      "candidate_audio_start_seconds": 8.823468194295259,
+      "candidate_audio_end_seconds": 10.263086287146436,
+      "human_verified": false
+    },
+    {
+      "measure": "8",
+      "source_start_beat": 28.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 11.052631578947368,
+      "score_end_seconds": 12.631578947368421,
+      "candidate_audio_start_seconds": 10.263086287146436,
+      "candidate_audio_end_seconds": 11.749144289294668,
+      "human_verified": false
+    },
+    {
+      "measure": "9",
+      "source_start_beat": 32.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 12.631578947368421,
+      "score_end_seconds": 14.210526315789474,
+      "candidate_audio_start_seconds": 11.749144289294668,
+      "candidate_audio_end_seconds": 13.525580618212198,
+      "human_verified": false
+    },
+    {
+      "measure": "10",
+      "source_start_beat": 36.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 14.210526315789474,
+      "score_end_seconds": 15.789473684210526,
+      "candidate_audio_start_seconds": 13.525580618212198,
+      "candidate_audio_end_seconds": 14.674820384294067,
+      "human_verified": false
+    },
+    {
+      "measure": "11",
+      "source_start_beat": 40.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 15.789473684210526,
+      "score_end_seconds": 17.36842105263158,
+      "candidate_audio_start_seconds": 14.674820384294067,
+      "candidate_audio_end_seconds": 16.13765843179377,
+      "human_verified": false
+    },
+    {
+      "measure": "12",
+      "source_start_beat": 44.0,
+      "duration_beats": 4.0,
+      "score_start_seconds": 17.36842105263158,
+      "score_end_seconds": 18.94736842105263,
+      "candidate_audio_start_seconds": 16.13765843179377,
+      "candidate_audio_end_seconds": 17.48451127819549,
+      "human_verified": false
+    }
+  ],
+  "entrance_candidates": [
+    {
+      "part_id": "violin_1",
+      "part_name": "Violin I",
+      "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000000",
+      "source_beat": 4.0,
+      "score_seconds": 1.5789473684210527,
+      "candidate_audio_seconds": 1.787917412579067,
+      "human_verified": false
+    },
+    {
+      "part_id": "violin_2",
+      "part_name": "Violin II",
+      "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000000",
+      "source_beat": 4.0,
+      "score_seconds": 1.5789473684210527,
+      "candidate_audio_seconds": 1.787917412579067,
+      "human_verified": false
+    },
+    {
+      "part_id": "viola",
+      "part_name": "Viola",
+      "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000000",
+      "source_beat": 2.0,
+      "score_seconds": 0.7894736842105263,
+      "candidate_audio_seconds": 1.1145482754505311,
+      "human_verified": false
+    },
+    {
+      "part_id": "cello",
+      "part_name": "Cello",
+      "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000000",
+      "source_beat": 0.0,
+      "score_seconds": 0.0,
+      "candidate_audio_seconds": 0.3947392290249433,
+      "human_verified": false
+    }
+  ],
+  "ground_truth_error_ms": null,
+  "user_review": "pending"
+}

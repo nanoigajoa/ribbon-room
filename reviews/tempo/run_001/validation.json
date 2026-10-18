@@ -1,0 +1,22 @@
+{
+  "status": "passed_requires_independent_timing_and_listening_review",
+  "phase": "B3.3",
+  "raw_segment_count": 526,
+  "raw_quarter_bpm_range": [
+    75.99999999998562,
+    304.00000000003917
+  ],
+  "window_quarter_beats": [
+    1,
+    2,
+    4
+  ],
+  "full_windows_only": true,
+  "alignment_audio_score_sha256_identical": true,
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 534,
+  "ground_truth_error_ms": null,
+  "browser_playback": "not tested",
+  "listening": "not performed",
+  "user_review": "pending"
+}

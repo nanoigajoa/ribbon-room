@@ -1,0 +1,29 @@
+{
+  "status": "passed_requires_user_review",
+  "python_tests": "27 passed: .venv/bin/python -m unittest discover -s tests -v",
+  "frontend_build": "TypeScript and Vite passed; existing use-client and bundle-size warnings",
+  "shared_svg_samples": 638,
+  "media_controller": "passed with DOM/media stubs",
+  "http_url": "http://127.0.0.1:5181/reviews/ribbon/run_003/index.html",
+  "http_resources_byte_match": [
+    "index.html",
+    "review.js",
+    "score_data.json",
+    "config.json",
+    "audio.wav",
+    "ribbon.png",
+    "chord.svg",
+    "baseline.mp4",
+    "lab.json"
+  ],
+  "lab_navigation_all_four_selected_reviews": "passed",
+  "preservation_rechecked": 303,
+  "all_preserved_files_unchanged": true,
+  "code_hashes_rechecked": true,
+  "image_inspection": "ribbon.png inspected directly: 6 panels; Cello then Viola then violins; double stops at 12.829s; no sounding markers in full rest at 13.224s or at end",
+  "png_scope": "actual SVG geometry diagnostic, not browser screenshot",
+  "chrome_launched": false,
+  "browser_rendering_and_audio_playback": "not verified",
+  "listening": "not performed",
+  "user_review": "pending"
+}

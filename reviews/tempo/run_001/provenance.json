@@ -1,0 +1,16 @@
+{
+  "inputs": {
+    "outputs/beat_alignment_reviews/run_001/alignment.json": "7a283a1c982d19fa63ae3d5129fcdee51976f76302dde44a479fd8fbff4c8dee",
+    "outputs/beat_alignment_reviews/run_001/score_data.json": "4230226f162ade55393991564972c8ab696912e61a006d23e984d4ea80cb9f95",
+    "outputs/beat_alignment_reviews/run_001/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/beat_alignment_reviews/run_001/provenance.json": "cf2227eacf2a81a268d8c323e6ca2c09d51a8607718c06d544e9b30d4bef1bf3"
+  },
+  "source_and_license_record": "source_provenance.json",
+  "processing": "diagnostic slopes and full-window secants; real audio and alignment copied unchanged",
+  "code_sha256": {
+    "src/score_ribbon/tempo_diagnostics.py": "06197df23b0cc2fe51a25f1508d60de19c56a5c2104159753734da703fbb73d7",
+    "scripts/build_tempo_review.py": "939bb1d235dfff44cb4a9ae2457f0746ecbd95d63cb7153dfc43465b879f6aa7",
+    "frontend/shared/tempo-review.js": "f79814c4c061435e058f9a43079cd73935ba7c5dd4761703edf88476585b4dd2",
+    "tests/test_tempo_diagnostics.py": "a4c8fc0a08e11da80be12ac665c93b44be84232aedc763415840af9efa701396"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "status": "passed_accuracy_requires_independent_review",
+  "phase": "B3.2",
+  "anchor_count": 527,
+  "comparison_samples": 1072,
+  "max_old_mapping_difference_seconds": 7.105427357601002e-15,
+  "max_roundtrip_error_beats": 7.105427357601002e-15,
+  "max_absolute_candidate_minus_linear_ms": 556.3763228513033,
+  "all_input_and_previous_output_hashes_preserved": true,
+  "preserved_file_count": 520,
+  "ground_truth_error_ms": null,
+  "browser_playback": "not tested",
+  "listening": "not performed",
+  "user_review": "pending"
+}

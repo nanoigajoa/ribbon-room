@@ -1,0 +1,419 @@
+{
+  "dataset_id": "d054dbcffa8e2b6c9c9a3058b52c0e67c990a8decb17a7b4b22d55f1b83423a6",
+  "selection": "predefined score beat targets; no residual-based selection",
+  "audio_original_bounds": [
+    0,
+    22.0
+  ],
+  "points": [
+    {
+      "id": "onset_01",
+      "source_beat": 0.0,
+      "role": "calibration",
+      "role_reason": "opening origin already used RMS for alignment",
+      "notes": [
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000000",
+          "pitch_name": "F2",
+          "pitch_midi": 41.0
+        }
+      ],
+      "predicted_original_audio_seconds": 0.3947392290249433,
+      "context_original_seconds": [
+        0,
+        1.1947392290249432
+      ]
+    },
+    {
+      "id": "onset_02",
+      "source_beat": 2.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000000",
+          "pitch_name": "C3",
+          "pitch_midi": 48.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000001",
+          "pitch_name": "F2",
+          "pitch_midi": 41.0
+        }
+      ],
+      "predicted_original_audio_seconds": 1.1145482754505311,
+      "context_original_seconds": [
+        0.3145482754505311,
+        1.9145482754505312
+      ]
+    },
+    {
+      "id": "onset_03",
+      "source_beat": 4.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000000",
+          "pitch_name": "F4",
+          "pitch_midi": 65.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000000",
+          "pitch_name": "A-3",
+          "pitch_midi": 56.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000001",
+          "pitch_name": "C3",
+          "pitch_midi": 48.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000002",
+          "pitch_name": "F2",
+          "pitch_midi": 41.0
+        }
+      ],
+      "predicted_original_audio_seconds": 1.7879174125790667,
+      "context_original_seconds": [
+        0.9879174125790666,
+        2.587917412579067
+      ]
+    },
+    {
+      "id": "onset_04",
+      "source_beat": 8.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000008",
+          "pitch_name": "A-4",
+          "pitch_midi": 68.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000008",
+          "pitch_name": "C4",
+          "pitch_midi": 60.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000003",
+          "pitch_name": "C3",
+          "pitch_midi": 48.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000004",
+          "pitch_name": "F2",
+          "pitch_midi": 41.0
+        }
+      ],
+      "predicted_original_audio_seconds": 3.227535505430242,
+      "context_original_seconds": [
+        2.4275355054302423,
+        4.027535505430242
+      ]
+    },
+    {
+      "id": "onset_05",
+      "source_beat": 12.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000016",
+          "pitch_name": "B-4",
+          "pitch_midi": 70.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000016",
+          "pitch_name": "F4",
+          "pitch_midi": 65.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000008",
+          "pitch_name": "D-4",
+          "pitch_midi": 61.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000006",
+          "pitch_name": "F2",
+          "pitch_midi": 41.0
+        }
+      ],
+      "predicted_original_audio_seconds": 4.620713688984366,
+      "context_original_seconds": [
+        3.820713688984366,
+        5.420713688984366
+      ]
+    },
+    {
+      "id": "onset_06",
+      "source_beat": 16.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000024",
+          "pitch_name": "B-4",
+          "pitch_midi": 70.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000024",
+          "pitch_name": "F4",
+          "pitch_midi": 65.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000016",
+          "pitch_name": "D-4",
+          "pitch_midi": 61.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000008",
+          "pitch_name": "F2",
+          "pitch_midi": 41.0
+        }
+      ],
+      "predicted_original_audio_seconds": 5.990671917889963,
+      "context_original_seconds": [
+        5.190671917889963,
+        6.790671917889963
+      ]
+    },
+    {
+      "id": "onset_07",
+      "source_beat": 20.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000032",
+          "pitch_name": "E4",
+          "pitch_midi": 64.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000032",
+          "pitch_name": "B-3",
+          "pitch_midi": 58.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000024",
+          "pitch_name": "G3",
+          "pitch_midi": 55.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000010",
+          "pitch_name": "G2",
+          "pitch_midi": 43.0
+        }
+      ],
+      "predicted_original_audio_seconds": 7.383850101444087,
+      "context_original_seconds": [
+        6.583850101444087,
+        8.183850101444087
+      ]
+    },
+    {
+      "id": "onset_08",
+      "source_beat": 24.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000040",
+          "pitch_name": "E4",
+          "pitch_midi": 64.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000037",
+          "pitch_name": "B-3",
+          "pitch_midi": 58.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000029",
+          "pitch_name": "G3",
+          "pitch_midi": 55.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000012",
+          "pitch_name": "G2",
+          "pitch_midi": 43.0
+        }
+      ],
+      "predicted_original_audio_seconds": 8.82346819429526,
+      "context_original_seconds": [
+        8.02346819429526,
+        9.623468194295262
+      ]
+    },
+    {
+      "id": "onset_09",
+      "source_beat": 32.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000056",
+          "pitch_name": "C5",
+          "pitch_midi": 72.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000044",
+          "pitch_name": "G3",
+          "pitch_midi": 55.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000045",
+          "pitch_name": "E4",
+          "pitch_midi": 64.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000042",
+          "pitch_name": "C3",
+          "pitch_midi": 48.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000043",
+          "pitch_name": "G3",
+          "pitch_midi": 55.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000016",
+          "pitch_name": "C2",
+          "pitch_midi": 36.0
+        },
+        {
+          "part_id": "cello",
+          "part_name": "Cello",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0003:n000017",
+          "pitch_name": "C3",
+          "pitch_midi": 48.0
+        }
+      ],
+      "predicted_original_audio_seconds": 11.749144289294666,
+      "context_original_seconds": [
+        10.949144289294665,
+        12.549144289294667
+      ]
+    },
+    {
+      "id": "onset_10",
+      "source_beat": 36.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000059",
+          "pitch_name": "D-6",
+          "pitch_midi": 85.0
+        }
+      ],
+      "predicted_original_audio_seconds": 13.525580618212196,
+      "context_original_seconds": [
+        12.725580618212195,
+        14.325580618212197
+      ]
+    },
+    {
+      "id": "onset_11",
+      "source_beat": 44.0,
+      "role": "evaluation",
+      "role_reason": "score-only target; not used for fitting",
+      "notes": [
+        {
+          "part_id": "violin_1",
+          "part_name": "Violin I",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0000:n000066",
+          "pitch_name": "D-4",
+          "pitch_midi": 61.0
+        },
+        {
+          "part_id": "violin_2",
+          "part_name": "Violin II",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0001:n000052",
+          "pitch_name": "E4",
+          "pitch_midi": 64.0
+        },
+        {
+          "part_id": "viola",
+          "part_name": "Viola",
+          "source_note_id": "sn1:0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03:music21@10.5.0:p0002:n000050",
+          "pitch_name": "G3",
+          "pitch_midi": 55.0
+        }
+      ],
+      "predicted_original_audio_seconds": 16.13765843179377,
+      "context_original_seconds": [
+        15.33765843179377,
+        16.93765843179377
+      ]
+    }
+  ]
+}

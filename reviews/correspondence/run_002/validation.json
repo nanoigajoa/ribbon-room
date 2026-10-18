@@ -1,0 +1,17 @@
+{
+  "status": "passed_requires_sequence_and_listening_review",
+  "phase": "B3.1",
+  "strictly_monotonic_and_in_bounds": true,
+  "xml_part_measure_timelines_agree": true,
+  "measure_count": 12,
+  "quarter_beats": 48.0,
+  "navigation_marks_in_excerpt": 0,
+  "audio_matches_original_pcm24": true,
+  "candidate_alignment_sha256_unchanged": true,
+  "preserved_file_count": 507,
+  "all_previous_files_unchanged": true,
+  "ground_truth_error_ms": null,
+  "browser_playback": "not tested",
+  "listening": "not performed",
+  "user_review": "pending"
+}

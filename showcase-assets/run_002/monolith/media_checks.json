@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "resolution": [
+    720,
+    900
+  ],
+  "fps": 24,
+  "frames": 288,
+  "duration": 12,
+  "max_pts_error_seconds": 3.333333342681044e-07,
+  "audio": [
+    {
+      "lag_samples": 0,
+      "correlation": 0.9999793393318039
+    },
+    {
+      "lag_samples": 0,
+      "correlation": 0.9999853801475261
+    }
+  ],
+  "representatives": [
+    {
+      "frame": 0,
+      "source": "source_0000.png",
+      "time": 0,
+      "decoded": "decoded_0000.png",
+      "mae": 0.8259475308641975
+    },
+    {
+      "frame": 132,
+      "source": "source_0132.png",
+      "time": 5.5,
+      "decoded": "decoded_0132.png",
+      "mae": 0.9526368312757202
+    },
+    {
+      "frame": 264,
+      "source": "source_0264.png",
+      "time": 11,
+      "decoded": "decoded_0264.png",
+      "mae": 0.9923827160493827
+    },
+    {
+      "frame": 287,
+      "source": "source_0287.png",
+      "time": 11.958333333333334,
+      "decoded": "decoded_0287.png",
+      "mae": 1.0467289094650205
+    }
+  ],
+  "renderer": "actual Three.js scene -> SVGRenderer -> native Agg -> Pillow glow/type -> FFmpeg; not WebGL capture",
+  "webgl_difference": "same 3D geometry, camera and audio controls; vector shading/glow differs from WebGL composer"
+}

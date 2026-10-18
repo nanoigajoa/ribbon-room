@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "source": "decoded from completed MP4; source comparison is pre-encode native SVG raster",
+  "frames": [
+    {
+      "frame": 0,
+      "time_seconds": 0,
+      "source_png": "source_frame_000000.png",
+      "rgb_sha256": "d6960baef7cd8c1b81a19187c92fcabaf0004168b2a46dc12ec24e1ec6da540d",
+      "decoded_png": "frame_000000.png",
+      "mean_absolute_rgb_difference_8bit": 0.5341545781893005
+    },
+    {
+      "frame": 165,
+      "time_seconds": 5.5,
+      "source_png": "source_frame_000165.png",
+      "rgb_sha256": "4d9e477666a0e0bbf3dbd53c3bd72ee0656946e858b4b2d12cf1297bf2a1d973",
+      "decoded_png": "frame_000165.png",
+      "mean_absolute_rgb_difference_8bit": 0.6386993312757202
+    },
+    {
+      "frame": 357,
+      "time_seconds": 11.9,
+      "source_png": "source_frame_000357.png",
+      "rgb_sha256": "7b87af5415efa17001b02f754b4a87c97cd78bf33705ec641b0266a8d46a2937",
+      "decoded_png": "frame_000357.png",
+      "mean_absolute_rgb_difference_8bit": 0.5737808641975308
+    },
+    {
+      "frame": 504,
+      "time_seconds": 16.8,
+      "source_png": "source_frame_000504.png",
+      "rgb_sha256": "2513d49d006933ba8c9e49b75c14059e7a82e244f42b8f22619fdfacfe97a3f9",
+      "decoded_png": "frame_000504.png",
+      "mean_absolute_rgb_difference_8bit": 0.480519804526749
+    },
+    {
+      "frame": 659,
+      "time_seconds": 21.966666666666665,
+      "source_png": "source_frame_000659.png",
+      "rgb_sha256": "601a48ea161114f1d8fab633a503a360013219c53ce9758b8b2475e3d5b64941",
+      "decoded_png": "frame_000659.png",
+      "mean_absolute_rgb_difference_8bit": 0.42319753086419754
+    }
+  ]
+}

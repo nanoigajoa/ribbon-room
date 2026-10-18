@@ -1,0 +1,22 @@
+{
+  "phase": "B6.1",
+  "status": "user_review_pending",
+  "visual_lead_seconds": 0.16,
+  "inertia": false,
+  "physics": false,
+  "audio_processing": "none",
+  "videos": {
+    "all": "all/preview.mp4",
+    "viola": "viola/preview.mp4"
+  },
+  "video_spec": "22s, 1440x900, 30fps, 660 frames each",
+  "comparison_checks": "comparison_checks.json",
+  "page_checks": "page_checks.json",
+  "visual_inspection": "decoded MP4 comparison.png directly inspected at 5.5, 11.9, 16.8 seconds",
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 995,
+  "human_listening": "not performed",
+  "actual_browser_playback": "not tested",
+  "alignment_accuracy": "not measured",
+  "typescript_vite_build": "passed; existing bundler warnings"
+}

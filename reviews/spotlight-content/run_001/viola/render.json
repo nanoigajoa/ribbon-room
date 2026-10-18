@@ -1,0 +1,85 @@
+{
+  "renderer": "shared RibbonScene SVG -> Matplotlib Agg native raster -> FFmpeg H264/AAC",
+  "browser_capture": false,
+  "resolution": [
+    1440,
+    900
+  ],
+  "fps": 30,
+  "frames": 660,
+  "supported_svg": "paths M/L/H/V/C/Z; rectangles, lines, circles, text, translation, rectangular clipping; fail on unsupported graphical elements",
+  "fonts": "Arial and AppleGothic fallback; native text rasterization may differ from Chrome",
+  "command": [
+    "ffmpeg",
+    "-v",
+    "error",
+    "-n",
+    "-f",
+    "rawvideo",
+    "-pixel_format",
+    "rgb24",
+    "-video_size",
+    "1440x900",
+    "-framerate",
+    "30",
+    "-i",
+    "pipe:0",
+    "-i",
+    "/Users/juan/Desktop/음악생성/outputs/spotlight_content/run_001/viola/audio.wav",
+    "-map",
+    "0:v:0",
+    "-map",
+    "1:a:0",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "fast",
+    "-crf",
+    "18",
+    "-pix_fmt",
+    "yuv420p",
+    "-threads",
+    "2",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "256k",
+    "-t",
+    "22.0",
+    "-movflags",
+    "+faststart",
+    "/Users/juan/Desktop/음악생성/outputs/spotlight_content/run_001/viola/preview.mp4"
+  ],
+  "representatives": [
+    {
+      "frame": 0,
+      "time_seconds": 0,
+      "source_png": "source_frame_000000.png",
+      "rgb_sha256": "d6960baef7cd8c1b81a19187c92fcabaf0004168b2a46dc12ec24e1ec6da540d"
+    },
+    {
+      "frame": 165,
+      "time_seconds": 5.5,
+      "source_png": "source_frame_000165.png",
+      "rgb_sha256": "4d9e477666a0e0bbf3dbd53c3bd72ee0656946e858b4b2d12cf1297bf2a1d973"
+    },
+    {
+      "frame": 357,
+      "time_seconds": 11.9,
+      "source_png": "source_frame_000357.png",
+      "rgb_sha256": "7b87af5415efa17001b02f754b4a87c97cd78bf33705ec641b0266a8d46a2937"
+    },
+    {
+      "frame": 504,
+      "time_seconds": 16.8,
+      "source_png": "source_frame_000504.png",
+      "rgb_sha256": "2513d49d006933ba8c9e49b75c14059e7a82e244f42b8f22619fdfacfe97a3f9"
+    },
+    {
+      "frame": 659,
+      "time_seconds": 21.966666666666665,
+      "source_png": "source_frame_000659.png",
+      "rgb_sha256": "601a48ea161114f1d8fab633a503a360013219c53ce9758b8b2475e3d5b64941"
+    }
+  ]
+}

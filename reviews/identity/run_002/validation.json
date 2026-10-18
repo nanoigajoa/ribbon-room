@@ -1,0 +1,45 @@
+{
+  "status": "passed_requires_visual_review",
+  "schema_version": "0.3.0",
+  "source_sha256": "0b545e9100895494e1969afe7ef890ef7f980611d95138962245bfc2ae560c03",
+  "parser": {
+    "name": "music21",
+    "version": "10.5.0"
+  },
+  "independent_xml_audits": [
+    {
+      "file": "full_score_data.json",
+      "status": "passed",
+      "event_count": 168,
+      "issues": []
+    },
+    {
+      "file": "crop_a.json",
+      "status": "passed",
+      "event_count": 124,
+      "issues": []
+    },
+    {
+      "file": "crop_b.json",
+      "status": "passed",
+      "event_count": 119,
+      "issues": []
+    }
+  ],
+  "shared_notes": 75,
+  "crop_membership_source_fields_and_boundaries": "passed",
+  "preserved_files": 246,
+  "all_preserved_files_unchanged": true,
+  "code_sha256": {
+    "scripts/build_identity_review.py": "5b0fb09a73d6557f8e9b9efd6d5cce5226a57fa93b6df6777dc9df89d7823324",
+    "scripts/parse_score.py": "0b198ff528052145a65f1104a6b8f1ca983762f4dffca79a543a2451cef8e60d",
+    "src/score_ribbon/parsing.py": "04294b956d6bd0fae100edc43ba53bf9b3491c2471180e488a284b00d3720484",
+    "src/score_ribbon/timebase.py": "53f222ae9291efdb7dcdd7260df8c1c7a54cab8821922d036ef68a8bcded6b75",
+    "src/score_ribbon/score_review.py": "3d5bad693f4de3abf473b9461171725d41c4e68952a58e73ad5cacd138a38214",
+    "src/score_ribbon/alignment.py": "d66498fd207f3b131058058da8e94c6a59e3e20c2678d048663c2003eec9ccb8",
+    "tests/test_source_identity.py": "7ce11148f96221515c6b9438c20c474747193a9669655d2d1a177df4467f10ad",
+    "frontend/scripts/check_identity_review.mjs": "ba8081d205737220ad78f18785153a917370c3c61517377962cbd9c76d18b663"
+  },
+  "browser_automation": "not run; no Chrome launched",
+  "user_review": "pending"
+}

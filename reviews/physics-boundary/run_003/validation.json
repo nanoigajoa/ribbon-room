@@ -1,0 +1,14 @@
+{
+  "phase": "B5.1",
+  "status": "boundary_proposal_user_review_pending",
+  "checks": "boundary_checks.json",
+  "spring_enabled": false,
+  "baseline_video_byte_identical": true,
+  "all_previous_files_unchanged": true,
+  "preserved_file_count": 886,
+  "user_review": "pending",
+  "visual_inspection": "boundary.png and playhead_detail.png directly inspected; full four-part target/permission comparison and guard taper visible",
+  "browser_playback": "not tested",
+  "human_listening": "not performed",
+  "alignment_accuracy": "not measured; provisional DTW A unchanged"
+}

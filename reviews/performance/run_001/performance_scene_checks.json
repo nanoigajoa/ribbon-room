@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "samples": 901,
+  "checks": [
+    "canonical performance start/end activity including exact boundaries and ±0.1 microsecond",
+    "all pitch and local identities",
+    "native audio second clock; no inverse DTW in browser",
+    "fixed playhead and constant 125px/audio-second global scroll"
+  ],
+  "browser_rendering": "not tested",
+  "listening": "not performed"
+}

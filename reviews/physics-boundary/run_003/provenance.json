@@ -1,0 +1,19 @@
+{
+  "inputs": {
+    "outputs/performance_videos/run_002/performance.json": "d6a62d6533b5ffe0fc457395be02db0c91fb26643e1e91a1aa873ac03a75d66d",
+    "outputs/performance_videos/run_002/score_data.json": "3360391283474c283fbda98bd431a5baa6d8603b9bc747e6bac20c06becaa7c3",
+    "outputs/performance_videos/run_002/config.json": "a7401c5e168081488e6e7fa12294546019b90f1e51afdb8f2255c55d8b7e88fb",
+    "outputs/performance_videos/run_002/source_provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964",
+    "outputs/performance_videos/run_002/preview.mp4": "b5c2d79c9351cf7a5a6673bd5bf188f1df4da9ed233be0491b2d5ae1430550a1"
+  },
+  "code_sha256": {
+    "scripts/build_physics_boundary.py": "100b3a9322aca01c396174222e582924dd2ff908c57cac7209ba6923774e53af",
+    "frontend/scripts/build_physics_boundary.mjs": "ad45540d9e18e490d66ab8e7043d983064af8d4f9a73ac629987466f49c9f84f",
+    "frontend/src/physicsBoundary.ts": "767cc71f76f75d4d2a09b34be00e049c255c6ce8ac0c36ac50ac1135aa4c59fe",
+    "frontend/src/RibbonScene.tsx": "e27b973e98d9ee1144005ff5e83cdd3a08b709afda1ec087fcd083f0436b2006",
+    "frontend/scripts/rasterize_ribbon_svg.py": "fd84ba8a6ee6902d4fdec8f034f4d017bba787844affc13b81ae4930e2839697"
+  },
+  "license_record": "source_provenance.json",
+  "renderer": "shared SVG + native Matplotlib Agg",
+  "audio_and_baseline_video": "byte-identical approved B4.2 MP4; no new audio processing"
+}

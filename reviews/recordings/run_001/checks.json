@@ -1,0 +1,32 @@
+{
+  "status": "passed_requires_user_listening_review",
+  "original_movements": 4,
+  "total_original_bytes": 265196447,
+  "total_duration_seconds": 1621.6458333333335,
+  "full_flac_integrity_and_decode": "passed for all four originals",
+  "source_sha256_rechecked": true,
+  "published_sha1_matches": [
+    "I",
+    "III"
+  ],
+  "mp3_preview_hashes_and_staging_rechecked": true,
+  "source_and_previous_files_unchanged": 410,
+  "waveform_inspected": "all four full-length waveform panels inspected directly",
+  "frontend_build": "TypeScript/Vite passed; existing use-client and bundle-size warnings",
+  "http_url": "http://127.0.0.1:5181/reviews/recordings/run_001/index.html",
+  "http_byte_matches": [
+    "index.html",
+    "recordings.json",
+    "recordings.png",
+    "01-allegro-vivace-assai.mp3"
+  ],
+  "all_four_player_files_exist": true,
+  "code_hash_matches": true,
+  "actual_browser_playback_and_listening": "not verified",
+  "score_alignment": "not started",
+  "user_review": "pending",
+  "official_cli_references": [
+    "https://xiph.org/flac/documentation_tools_flac.html",
+    "https://ffmpeg.org/ffmpeg.html"
+  ]
+}

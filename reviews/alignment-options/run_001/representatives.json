@@ -1,0 +1,17 @@
+[
+  {
+    "name": "compare-raw",
+    "time_seconds": 12.70700680272109,
+    "original_audio_seconds": 11.9
+  },
+  {
+    "name": "compare-coarse",
+    "time_seconds": 12.765663813542385,
+    "original_audio_seconds": 11.9
+  },
+  {
+    "name": "compare-linear",
+    "time_seconds": 12.755840977909871,
+    "original_audio_seconds": 11.9
+  }
+]

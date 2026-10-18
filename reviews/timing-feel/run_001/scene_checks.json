@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "samples": 2700,
+  "baseline_svg_frames_byte_identical": 660,
+  "tests": [
+    "known positive lead direction and end clamp",
+    "invalid inputs",
+    "canonical activity at shifted exact boundaries ±0.1us",
+    "same-scene global x offset",
+    "original baseline hashes"
+  ],
+  "alignment_accuracy": "not measured"
+}

@@ -1,0 +1,42 @@
+{
+  "schema": "motion-studio/0.1.0",
+  "run": "run_001",
+  "inputs": {
+    "outputs/spotlight_content/run_001/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/spotlight_content/run_001/score_data.json": "3360391283474c283fbda98bd431a5baa6d8603b9bc747e6bac20c06becaa7c3",
+    "outputs/spotlight_content/run_001/source_provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964",
+    "outputs/orchestra/real_recording.wav": "1031e54c36f7de1e0ab2a3609900e0341824cd917e53ff8160170b3eaaefc20f",
+    "outputs/orchestra/score_data.json": "29b5b3fd98e275c96328bbc2e5b847f31e1745e639b41e4981b8ec1032ce2af1",
+    "data/raw/bsed/source.json": "f3f4825eda9e15e56f92f16558f2a02ee86b35c3eedd8715b36e58d97b3cdd2c",
+    "analysis_code": "e79588b61d7d6aa5802b5fe35c0043628f7b65cca210ca5ad09bc7457d08c6df"
+  },
+  "tracks": [
+    {
+      "id": "quartet",
+      "title": "멘델스존 · 현악사중주 6번",
+      "short": "MENDELSSOHN / OP.80",
+      "lead": 0.16,
+      "performer": "Musopen String Quartet",
+      "license": "Musopen public-domain dedication; source record included",
+      "audio": "/assets/run_001/quartet/audio.wav",
+      "score": "/assets/run_001/quartet/score.json",
+      "features": "/assets/run_001/quartet/features.json",
+      "provenance": "/assets/run_001/quartet/provenance.json",
+      "duration": 22.0
+    },
+    {
+      "id": "orchestra",
+      "title": "베토벤 · 교향곡 5번 발췌",
+      "short": "BEETHOVEN / OP.67",
+      "lead": 0,
+      "performer": "Blomstedt · 1977 / BSED",
+      "license": "CC BY-NC-SA 4.0 · local research preview",
+      "audio": "/assets/run_001/orchestra/audio.wav",
+      "score": "/assets/run_001/orchestra/score.json",
+      "features": "/assets/run_001/orchestra/features.json",
+      "provenance": "/assets/run_001/orchestra/provenance.json",
+      "duration": 20.0
+    }
+  ],
+  "analysis_note": "Attack candidates are not verified downbeats or part-specific dynamics."
+}

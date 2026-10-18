@@ -1,0 +1,18 @@
+{
+  "inputs": {
+    "outputs/tempo_reviews/run_001/alignment.json": "7a283a1c982d19fa63ae3d5129fcdee51976f76302dde44a479fd8fbff4c8dee",
+    "outputs/tempo_reviews/run_001/score_data.json": "4230226f162ade55393991564972c8ab696912e61a006d23e984d4ea80cb9f95",
+    "outputs/tempo_reviews/run_001/audio.wav": "898b6c887c449b28f8c8ec49b37199f9fcea6efb07a9217667fd39f2926927d4",
+    "outputs/tempo_reviews/run_001/source_provenance.json": "f44f5d7ae4575d9163c7258b487aae3c75eda150b43528d8ba778a945e51d964"
+  },
+  "dataset_id": "d054dbcffa8e2b6c9c9a3058b52c0e67c990a8decb17a7b4b22d55f1b83423a6",
+  "source_and_license_record": "source_provenance.json",
+  "manual_annotation_input": null,
+  "processing": "unchanged actual recording and alignment; no onset labels inferred from DTW or waveform",
+  "code_sha256": {
+    "src/score_ribbon/onset_review.py": "575ee2c19f0918a6208164c9d0eafded1929baad7fe45d8fb8c768ea42b8f76e",
+    "scripts/build_onset_review.py": "1c2a0afb024405c3faed9994adc8576904df297b2288ccfbecbba25fdaef65ad",
+    "frontend/shared/onset-review.js": "0677e58bc440930aa0a9a10c9883431a4e78eeebb74912d8e4b62d375d250939",
+    "tests/test_onset_review.py": "eed36885c5f3bbd141b8aa8289162135337293df2e3029972dc847264a89d7a6"
+  }
+}

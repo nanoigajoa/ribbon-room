@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 17.484520833333335,
+  "audio_files": {
+    "all": "all.wav",
+    "violin_1": "violin_1.wav",
+    "violin_2": "violin_2.wav",
+    "viola": "viola.wav",
+    "cello": "cello.wav"
+  },
+  "representative_audio_seconds": 7.012335600907029
+}
